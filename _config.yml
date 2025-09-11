@@ -2,7 +2,8 @@ title: OS2forms Documentation
 description: Documentation site for OS2forms
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+logo: "/assets/site/os2forms.svg"
+favicon_ico: "/assets/site/favicon.ico"
 
 aux_links:
   github.com/os2forms: https://github.com/os2forms
