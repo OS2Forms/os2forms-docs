@@ -1,5 +1,5 @@
 ---
-title: Efterårsrelease 2025
+title: Release 2025/Q4 - oplæg
 layout: default
 nav_order: 3
 parent: Releases
