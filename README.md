@@ -1,5 +1,5 @@
 ---
-title: Readme
+title: Documentation readme
 layout: default
 nav_order: 999
 has_children: false
