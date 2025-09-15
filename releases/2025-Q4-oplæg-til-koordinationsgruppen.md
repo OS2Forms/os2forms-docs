@@ -82,3 +82,7 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 8. **[#219](https://github.com/OS2Forms/os2forms/issues/219): Fix: Maestro notification handler ignores conditions (vilkår)**
 
    * Estimat: 0,75 timer til review
+
+9. **[#221](https://github.com/OS2Forms/os2forms/issues/221): Fix: Maestro digital post-notification sender label is set incorrectly**
+
+   * Estimat: Afventer estimat fra Bellcom
