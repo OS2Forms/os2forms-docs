@@ -77,8 +77,8 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 
 7. **[#218](https://github.com/OS2Forms/os2forms/issues/218): Fix: MitId Children select missing a succesful check**
 
-   * Estimat: Afventer estimat fra Bellcom
+   * Estimat: 0,75 timer til review
 
 8. **[#219](https://github.com/OS2Forms/os2forms/issues/219): Fix: Maestro notification handler ignores conditions (vilkår)**
 
-   * Estimat: Afventer estimat fra Bellcom
+   * Estimat: 0,75 timer til review
