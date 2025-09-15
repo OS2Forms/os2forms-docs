@@ -1,3 +1,10 @@
+---
+title: Readme
+layout: default
+nav_order: 999
+has_children: false
+---
+
 # OS2forms documentation readme
 
 This repository contains documentation for OS2forms. The documentation is build and published using Github actions and the [Just the docs](https://just-the-docs.com/) theme.
