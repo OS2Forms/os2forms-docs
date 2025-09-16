@@ -1,7 +1,7 @@
 ---
 title: Release 2024/Q4
 layout: default
-nav_order: 1
+nav_order: 0
 parent: Releases
 ---
 

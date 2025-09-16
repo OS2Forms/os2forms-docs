@@ -15,7 +15,7 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 
    * Afventer svar fra ITK (som har prøvet CKEditor 5 af)
 
-2. **[#205](https://github.com/OS2Forms/os2forms/issues/205): Modulet "@fontyourface (fontyourface)" bør fjernes fra OS2forms da modulet ikke er compliant med GDPR**
+2. **[#205](https://github.com/OS2Forms/os2forms/issues/205): Modulet "@fontyourface (fontyourface)" bør fjernes da brugerne afgiver cookies**
 
    * Bellcoms anbefaling er at benytte “@fontyourface - Local Fonts (local\_fonts)”, hvis der stadig ønskes en bestemt font i OS2forms. Estimat: 0,00 timer. De anvendere som ønsker at skifte til at bruge “@fontyourface - Local Fonts (local\_fonts)” kan kontakte Bellcom for estimat på opgaven på deres installationer
 
@@ -55,7 +55,7 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 
 ## [#198](https://github.com/OS2Forms/os2forms/issues/198): Diskussion og fastlæggelse af bidrag fra Aarhus Kommune/ITK
 
-1. **Added support for os2web_key**
+1. **[PR #101](https://github.com/OS2Forms/os2forms/pull/101): Keys and encrypt**
 
    * Review er lavet og faktureret af Bellcom i juni 2025 - kommer automatisk med ved release
 
