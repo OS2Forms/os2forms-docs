@@ -43,13 +43,17 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 
    * Ingen hindring for Bellcom. Estimat: 0,00 timer
 
-## [#197](https://github.com/OS2Forms/os2forms/issues/197): Diskussion og fastlæggelse af bidrag fra Bellcom (nyudvikling)
+3. **[#188](https://github.com/OS2Forms/os2forms/issues/188): OS2forms sync modul not working**
+
+   * Estimat: ITK har lavet review på Bellcoms rettelse og det er merged ind i deres kode. Bellcom skal bruge 2,00 timer på at sikre at modulet kommer ind med det nye tag/rettelse i OS2forms
+
+## [#197](https://github.com/OS2Forms/os2forms/issues/197): Diskussion og fastlæggelse af udvikling bestilt af OS2 fællesskabet
 
 1. **[#206](https://github.com/OS2Forms/os2forms/issues/206): Release af Digital Signatur**
 
    * Afventer internt review hos Bellcom. Estimat: 0,00 timer
 
-## [#198](https://github.com/OS2Forms/os2forms/issues/198): Diskussion og fastlæggelse af bidrag fra Aarhus Kommune/ITK (nyudvikling)
+## [#198](https://github.com/OS2Forms/os2forms/issues/198): Diskussion og fastlæggelse af bidrag fra Aarhus Kommune/ITK
 
 1. **[#170](https://github.com/OS2Forms/os2forms/issues/170): Implement MeMo1.2 compliance \[SFRMS-129]**
 
@@ -63,26 +67,32 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 
    * Estimat: 2,25 timer til review
 
-4. **[#188](https://github.com/OS2Forms/os2forms/issues/188): OS2forms sync modul not working**
-
-   * Estimat: ITK har lavet review på Bellcoms rettelse og det er merged ind i deres kode. Bellcom skal bruge 2,00 timer på at sikre at modulet kommer ind med det nye tag/rettelse i OS2forms
-
-5. **[#190](https://github.com/OS2Forms/os2forms/issues/190): Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
+4. **[#190](https://github.com/OS2Forms/os2forms/issues/190): Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
 
    * Estimat: 1,00 timer til review
 
-6. **[#195](https://github.com/OS2Forms/os2forms/issues/195): Fix: os2forms\_forloeb: Maestro notification attempts sending digital post that will never be delivered**
+5. **[#195](https://github.com/OS2Forms/os2forms/issues/195): Fix: os2forms\_forloeb: Maestro notification attempts sending digital post that will never be delivered**
 
    * Estimat: 1,00 timer til review
 
-7. **[#218](https://github.com/OS2Forms/os2forms/issues/218): Fix: MitId Children select missing a succesful check**
+6. **[#218](https://github.com/OS2Forms/os2forms/issues/218): Fix: MitId Children select missing a succesful check**
 
    * Estimat: 0,75 timer til review
 
-8. **[#219](https://github.com/OS2Forms/os2forms/issues/219): Fix: Maestro notification handler ignores conditions (vilkår)**
+7. **[#219](https://github.com/OS2Forms/os2forms/issues/219): Fix: Maestro notification handler ignores conditions (vilkår)**
 
    * Estimat: 0,75 timer til review
 
-9. **[#221](https://github.com/OS2Forms/os2forms/issues/221): Fix: Maestro digital post-notification sender label is set incorrectly**
+8. **[#221](https://github.com/OS2Forms/os2forms/issues/221): Fix: Maestro digital post-notification sender label is set incorrectly**
 
    * Estimat: Afventer estimat fra Bellcom
+
+## Diskussion og fastlæggelse af bidrag fra Bellcom
+
+Intet pt.
+
+## Ikke inkluderet i denne release
+
+   * Opgradering til Drupal 11
+   * Opdatering til maestro 4.1.4
+   * Defination af et Core theme / core font?
