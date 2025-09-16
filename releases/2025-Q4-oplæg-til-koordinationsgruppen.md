@@ -1,7 +1,7 @@
 ---
 title: Release 2025/Q4 - oplæg
 layout: default
-nav_order: 3
+nav_order: -2
 parent: Releases
 ---
 
@@ -55,35 +55,39 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 
 ## [#198](https://github.com/OS2Forms/os2forms/issues/198): Diskussion og fastlæggelse af bidrag fra Aarhus Kommune/ITK
 
-1. **[#170](https://github.com/OS2Forms/os2forms/issues/170): Implement MeMo1.2 compliance \[SFRMS-129]**
+1. **Added support for os2web_key**
 
-   * Estimat: 3,50 timer til review (review er lavet, som aftalt på scopingmøde den 27/8-2025)
+   * Review er lavet og faktureret af Bellcom i juni 2025 - kommer automatisk med ved release
 
-2. **[#183](https://github.com/OS2Forms/os2forms/issues/183): Fix: Webform Auto Exports settings issue**
+2. **[#170](https://github.com/OS2Forms/os2forms/issues/170): Implement MeMo1.2 compliance \[SFRMS-129]**
+
+   * Estimat: 3,50 timer til review (review er lavet og faktureret i august 2025, som aftalt på scopingmøde den 27/8-2025)
+
+3. **[#183](https://github.com/OS2Forms/os2forms/issues/183): Fix: Webform Auto Exports settings issue**
 
    * 0,00 timer til review (review er lavet - gratis fra Bellcom)
 
-3. **[#186](https://github.com/OS2Forms/os2forms/issues/186): Fix: Name- and address protection multiple submission saves issue**
+4. **[#186](https://github.com/OS2Forms/os2forms/issues/186): Fix: Name- and address protection multiple submission saves issue**
 
    * Estimat: 2,25 timer til review
 
-4. **[#190](https://github.com/OS2Forms/os2forms/issues/190): Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
+5. **[#190](https://github.com/OS2Forms/os2forms/issues/190): Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
 
    * Estimat: 1,00 timer til review
 
-5. **[#195](https://github.com/OS2Forms/os2forms/issues/195): Fix: os2forms\_forloeb: Maestro notification attempts sending digital post that will never be delivered**
+6. **[#195](https://github.com/OS2Forms/os2forms/issues/195): Fix: os2forms\_forloeb: Maestro notification attempts sending digital post that will never be delivered**
 
    * Estimat: 1,00 timer til review
 
-6. **[#218](https://github.com/OS2Forms/os2forms/issues/218): Fix: MitId Children select missing a succesful check**
+7. **[#218](https://github.com/OS2Forms/os2forms/issues/218): Fix: MitId Children select missing a succesful check**
 
    * Estimat: 0,75 timer til review
 
-7. **[#219](https://github.com/OS2Forms/os2forms/issues/219): Fix: Maestro notification handler ignores conditions (vilkår)**
+8. **[#219](https://github.com/OS2Forms/os2forms/issues/219): Fix: Maestro notification handler ignores conditions (vilkår)**
 
    * Estimat: 0,75 timer til review
 
-8. **[#221](https://github.com/OS2Forms/os2forms/issues/221): Fix: Maestro digital post-notification sender label is set incorrectly**
+9. **[#221](https://github.com/OS2Forms/os2forms/issues/221): Fix: Maestro digital post-notification sender label is set incorrectly**
 
    * Estimat: Afventer estimat fra Bellcom
 
@@ -94,5 +98,11 @@ Intet pt.
 ## Ikke inkluderet i denne release
 
    * Opgradering til Drupal 11
-   * Opdatering til maestro 4.1.4
-   * Defination af et Core theme / core font?
+   * Opdatering til Maestro 4.1.4
+   * Defination af et Core theme / core font
+
+## Udestående (mangler opfølgning)
+
+   * Integration til Fordelingskomponenten
+   * Drupal 10. Vilkår baseret på Computet twig virker ikke længere
+     
