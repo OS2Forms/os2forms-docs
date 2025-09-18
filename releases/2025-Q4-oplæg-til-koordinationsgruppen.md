@@ -98,7 +98,7 @@ Milepæle:
 
 8. **[#221](https://github.com/OS2Forms/os2forms/issues/221): Fix: Maestro digital post-notification sender label is set incorrectly**
 
-   * Estimat: Afventer estimat fra Bellcom
+   * Estimat: 1,00 timer til review
 
 ## Diskussion og fastlæggelse af bidrag fra Bellcom
 
