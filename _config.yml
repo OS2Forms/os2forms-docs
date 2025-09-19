@@ -10,6 +10,8 @@ aux_links:
   os2.eu/os2forms: https://www.os2.eu/os2forms
 
 just_the_docs:
-  aux_scripts:
-    - 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js'
-    - '/assets/js/mermaid-init.js'
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "11.9.0"
