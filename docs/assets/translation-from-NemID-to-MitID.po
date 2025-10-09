@@ -1,0 +1,256 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Drupal 10\n"
+"POT-Creation-Date: 2025-10-09 08:00+0200\n"
+"PO-Revision-Date: 2025-10-09 08:00+0200\n"
+"Last-Translator: Bellcom <support@bellcom.dk>\n"
+"Language-Team: Danish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "OS2Forms NemID settings"
+msgstr "OS2forms MitID indstillinger"
+
+msgid "Settings for OS2Forms NemID."
+msgstr "Indstillinger for OS2forms MitID"
+
+msgid "NemID CPR"
+msgstr "MitID CPR"
+
+msgid "NemID Name"
+msgstr "MitID Navn"
+
+msgid "NemID Address"
+msgstr "MitID Adresse"
+
+msgid "NemID Coaddress"
+msgstr "MitID C/O Adresse"
+
+msgid "NemID City"
+msgstr "MitID By"
+
+msgid "NemID Kommunekode"
+msgstr "MitID Kommunekode"
+
+msgid "NemID Nemlogin link"
+msgstr "NemLog-in link"
+
+msgid ""
+"Redirection will happen right after user has is accessing the form, if "
+"user is already authenticated via NemID, redirection will not happen."
+msgstr ""
+"Omdirigering sker lige efter brugeren har tilgået formularen. Hvis "
+"brugeren allerede er godkendt via MitID, vil omdirigering ikke ske."
+
+msgid "NemID PID"
+msgstr "MitID PID"
+
+msgid "NemID CPR Fetch data"
+msgstr "Hent MitID CPR data"
+
+msgid "NemID Company CVR"
+msgstr "MitID Firma CVR"
+
+msgid "NemID Company RID"
+msgstr "MitID Firma RID"
+
+msgid "NemID Company Address"
+msgstr "MitID Firmaadresse"
+
+msgid "NemID Company Name"
+msgstr "MitID Firmanavn"
+
+msgid "NemID Company City"
+msgstr "MitID Firma By"
+
+msgid "NemID Company P-Number"
+msgstr "Hent MitID Firma P-nummer data"
+
+msgid "NemID"
+msgstr "MitID"
+
+msgid "Provides a NemID Address element."
+msgstr "Returnerer MitID Adresse."
+
+msgid "Provides a NemID City element."
+msgstr "Returnerer MitID By."
+
+msgid "Provides a NemID Coaddress element."
+msgstr "Returnerer MitID C/O Adresse."
+
+msgid "Provides a NemID Company Address element."
+msgstr "Returnerer MitID Firmaadresse."
+
+msgid "Provides a NemID Company City element."
+msgstr "Returnerer MitID Firma By."
+
+msgid "Provides a NemID Company CVR element."
+msgstr "Returnerer MitID Firma CVR."
+
+msgid "Provides a NemID Company Name element."
+msgstr "Returnerer MitID Firmanavn."
+
+msgid "Provides a company P-number input elemnt."
+msgstr "Returnerer MitID Firma P-nummer data."
+
+msgid "Provides a NemID Company RID element."
+msgstr "Returnerer MitID Firma RID."
+
+msgid "Provides a NemID CPR element."
+msgstr "Returnerer MitID CPR."
+
+msgid "Provides a NemID CPR fetch data element."
+msgstr "Returnerer MitID CPR data."
+
+msgid "Provides a NemID Kommunekode element."
+msgstr "Returnerer MitID Kommunekode."
+
+msgid "Provides a NemID Name element."
+msgstr "Returnerer MitID Navn."
+
+msgid "Provides an NemID nemlogin link for initialing NemID authentification."
+msgstr "Returnerer et NemLog-in link til initialisering af MitID godkendelse."
+
+msgid "Provides a NemID PID element."
+msgstr "Returnerer MitID PID."
+
+msgid "Provides custom NemID fields and integration with NemID"
+msgstr "Tilbyder brugerdefinerede MitID-felter og integration med MitID"
+
+msgid ""
+"This webform requires a valid NemID authentication and is not visible "
+"without it. You currently have an active NemID authentication session. "
+"If you do not want to proceed with this webform press <a "
+"href=\"@logout\">log out</a> to return back to the front page."
+msgstr ""
+"Denne webformular kræver en gyldig MitID-godkendelse og er ikke "
+"synlig uden den. Du har i øjeblikket en aktiv "
+"MitID-godkendelsessession. Hvis du ikke vil fortsætte med denne "
+"webformular, skal du trykke på <a href=\"@logout\">log ud</a> for at "
+"vende tilbage til forsiden."
+
+msgid "NemID Postal code"
+msgstr "MitID Postnr."
+
+msgid "NemID Street"
+msgstr "MitID Gade"
+
+msgid "NemID UUID"
+msgstr "MitID UUID"
+
+msgid "NemID House nr"
+msgstr "MitID Husnr."
+
+msgid "NemID Floor"
+msgstr "MitID Etage"
+
+msgid "NemID Children Radios"
+msgstr "MitID Børn (radioknapper)"
+
+msgid "NemID Children Select"
+msgstr "MitID Børn (vælg)"
+
+msgid "NemID Apartment nr"
+msgstr "MitID Lejlighedsnr."
+
+msgid "Provides a NemID Apartment nr element."
+msgstr "Returnerer MitID Lejlighedsnr."
+
+msgid "Provides a NemID Children radios element."
+msgstr "Returnerer MitID Børn (radioknapper)."
+
+msgid "Provides a NemID Children select element."
+msgstr "Returnerer MitID Børn (vælg)."
+
+msgid "Provides a NemID Floor element."
+msgstr "Returnerer MitID Etage."
+
+msgid "Provides a NemID House nr element."
+msgstr "Returnerer MitID Husnr."
+
+msgid "Provides a NemID Postal code element."
+msgstr "Returnerer MitID Postnr."
+
+msgid "Provides a NemID Street element."
+msgstr "Returnerer MitID Gade."
+
+msgid "Provides a NemID UUID element."
+msgstr "Returnerer MitID UUID."
+
+msgid ""
+"If checked, meessage aboout active NemID session will not shown on "
+"webform page"
+msgstr ""
+"Hvis markeret, vises besked om aktiv MitID-session ikke på "
+"webformularsiden"
+
+msgid "OS2Forms Nemid settings"
+msgstr "OS2Forms MitID indstillinger"
+
+msgid "NemID Company CVR fetch data"
+msgstr "Hent MitID Firma CVR data"
+
+msgid "Provides a company CVR fetch data element."
+msgstr "Returnerer MitID CVR data."
+
+msgid "NemID Company HouseNr"
+msgstr "MitID Firma Husnr."
+
+msgid "NemID Company PostalCode"
+msgstr "MitID Firma Postnr."
+
+msgid "NemID Company Floor"
+msgstr "MitID Firma Etage"
+
+msgid "NemID Company ApartmentNr"
+msgstr "MitID Firma Lejlighedsnr."
+
+msgid "NemID Company Kommunekode"
+msgstr "MitID Firma Kommunekode"
+
+msgid "NemID Company Street"
+msgstr "MitID Firma Gade"
+
+msgid "Provides a NemID Company ApartmentNr element."
+msgstr "Returnerer MitID Firma Lejlighedsnr."
+
+msgid "Provides a NemID Company Floor element."
+msgstr "Returnerer MitID Firma Etage."
+
+msgid "Provides a NemID Company HouseNr element."
+msgstr "Returnerer MitID Firma Husnr."
+
+msgid "Provides a NemID Company Kommunekode element."
+msgstr "Returnerer MitID Firma Kommunekode."
+
+msgid "Provides a NemID Company PostalCode element."
+msgstr "Returnerer MitID Firma Postnr."
+
+msgid "Provides a NemID Company Street element."
+msgstr "Returnerer MitID Firma Gade."
+
+msgid "NemID fields type"
+msgstr "MitID felttype"
+
+msgid "Selected NemID fields"
+msgstr "Valgte MitID felter"
+
+msgid "These NemID fields access will be logged"
+msgstr "Adgang til disse MitID felter vil blive logget"
+
+msgid "NemID Nemlogin link"
+msgstr "NemLog-in link"
+
+msgid "Login with Nemlogin"
+msgstr "Logind med NemLog-in"
+
+msgid "Logout with Nemlogin"
+msgstr "Logud fra NemLog-in"
+
+msgid "Nemlogin link login text"
+msgstr "Logind med NemLog-in"
+
+msgid "Nemlogin link logout text"
+msgstr "Logud fra NemLog-in"
