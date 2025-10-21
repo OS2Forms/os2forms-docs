@@ -15,7 +15,7 @@ If you want the naming to be changed from “NemID” to “MitID”, then you j
 
 1. [Download this translation file](assets/translation-from-NemID-to-MitID.po)
 2. Log in as administrator in OS2forms
-3. Navigate to “COnfiguration” -> “Region and language” -> “User interface translation” (/admin/config/regional/translate)
+3. Navigate to “Configuration” -> “Region and language” -> “User interface translation” (/admin/config/regional/translate)
 4. Click on the “Import” tab
 5. Click on “Select file” and find the file you downloaded under point 1. The other settings on the page should be as follows:
 
