@@ -72,7 +72,7 @@ Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://for
 2. [**#183**](https://github.com/OS2Forms/os2forms/issues/183)**: Fix: Webform Auto Exports settings issue**
 
    * Acceptkriterie:Når siteadmin klikker på "gem indstillinger" under "Automatisk export" skal indstillingerne gemmes, så systemet faktisk kan eksportere.
-   * ![Azure 1](/docs/assets/webform-auto-exports-settings-issue.png)
+   * ![Fix: Webform Auto Exports settings issue](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/webform-auto-exports-settings-issue.png)
 
 3. [**#186**](https://github.com/OS2Forms/os2forms/issues/186)**: Fix: Name- and address protection multiple submission saves issue**
 
