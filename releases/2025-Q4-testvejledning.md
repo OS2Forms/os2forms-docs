@@ -74,17 +74,17 @@ Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://for
    Acceptkriterie: Når siteadmin klikker på "gem indstillinger" under "Automatisk export" skal indstillingerne gemmes, så systemet faktisk kan eksportere.
    ![Fix: Webform Auto Exports settings issue](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/webform-auto-exports-settings-issue.png)
 
-4. [**#186**](https://github.com/OS2Forms/os2forms/issues/186)**: Fix: Name- and address protection multiple submission saves issue**
+3. [**#186**](https://github.com/OS2Forms/os2forms/issues/186)**: Fix: Name- and address protection multiple submission saves issue**
 
    Acceptkriterie: CPR Børn modulet skal fungere hensigtsmæssigt ift. brugere med navne— og adressebeskyttelse, dvs. modulet skal referere til eksisterende korrekte filer, så der ikke optræder falske fejl i (error)log oversigten.
 
    * Testes med bruger der har navne og adressebeskyttelse. Test at systemet kan sende email til borger, og at der i log oversigt kun fremgår afsendelse af én email med status succesful -  ikke to, hvoraf den ene (altid) vil være fejlet.
 
-5. [**#190**](https://github.com/OS2Forms/os2forms/issues/190)**: Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
+4. [**#190**](https://github.com/OS2Forms/os2forms/issues/190)**: Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
 
    * Test: Hvis OS2forms får en fejl tilbage fra Digital Post (ifm. flow) bliver den aldrig skrevet i Advanced queue. Dette ved jeg ikke om forretningen selv kan teste, det kræver i al fald adgang til kø-systemet, og at testmiljøet simulerer en fejl i digital post eller at tester selv kan simulere dette.
 
-6. [**#195**](https://github.com/OS2Forms/os2forms/issues/195)**: Fix: os2forms\_forloeb: Maestro notification attempts sending digital post that will never be delivered**
+5. [**#195**](https://github.com/OS2Forms/os2forms/issues/195)**: Fix: os2forms\_forloeb: Maestro notification attempts sending digital post that will never be delivered**
 
    Baggrund: Digital post, SF1601, kræver, at modtager-ID'et er cifret og enten 8 eller 10 af dem, afhængigt af om det er et CVR- eller CPR-nummer. Det er beskrevet på side 19 i "SF1601 Postkomponent - KombiPostAfsend - Feltbeskrivelse", som findes i KOMBITs komprimerede dokumentationspakke.  Derfor er bindestreger ikke tilladt i CPR-numre.
    OS2forms logs viser, at når OS2forms sender en anmodning til SF1601 (KombiPostAfsend) med en bindestreg, er:
@@ -98,7 +98,7 @@ Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://for
    * Indsæt cpr nummer med bindestreg i maestro notifikation. Konstater at systemet kan sende digital post til pågældende borger.
    * Indsæt cpr nummer uden bindestreg i maestro notifikation. Konstater at systemet kan sende digital post til pågældende borger.
 
-8. [**#218**](https://github.com/OS2Forms/os2forms/issues/218)**: Fix: MitId Children select missing a succesful check**
+6. [**#218**](https://github.com/OS2Forms/os2forms/issues/218)**: Fix: MitId Children select missing a succesful check**
 
    Acceptkriterie: Som borger (forældre) ønsker jeg at jeg kan vælge et barn og derefter fravælge det, og fortsætte formularen, så jeg kan færdiggøre indsendelsen. 
 
@@ -107,18 +107,18 @@ Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://for
    * Trin 3: vælg derefter "Ingen"
    * Trin 4: konstater at der ikke kommer nogen fejlmeddelelse og og data fra forrige sider på formularen IKKE forsvinder.
 
-9. [**#219**](https://github.com/OS2Forms/os2forms/issues/219)**: Fix: Maestro notification handler ignores conditions (vilkår)**
+7. [**#219**](https://github.com/OS2Forms/os2forms/issues/219)**: Fix: Maestro notification handler ignores conditions (vilkår)**
 
    Acceptkriterie: Som flowdesigner ønsker jeg at kunne sætte vilkår på en Maestro notifikation, så borgeren kun får den notifikation, der er relevant.
 
    * Trin 1: opret et flow med 3 forskellige maestro notifications på formularen, som er vilkårsstyret af et radiobutton element.
 
-11. [**#221**](https://github.com/OS2Forms/os2forms/issues/221)**: Fix: Maestro digital post-notification sender label is set incorrectly**
+8. [**#221**](https://github.com/OS2Forms/os2forms/issues/221)**: Fix: Maestro digital post-notification sender label is set incorrectly**
 
    Baggrund: Ifølge MaestroHelper::sendNotificationDigitalPost er både besked- og afsenderetiketten indstillet til det konfigurerede Maestro-notifikationsemne. Men faktisk bruges den konfigurerede afsenderetikette aldrig. Dette resulterer i, at modtagerne får digital post med samme afsender- og beskedetikette.
 
    * Kontroller at borger kan modtage en maestro notifikation med forskellig afsender og beskedertikette, som konfigureret under Maestro-notifikationsemne.   * 
 
-11. [**#227**](https://github.com/OS2Forms/os2forms/issues/227)**: Conditionals based on computed twig broken in Drupal ^10.3**
+9. [**#227**](https://github.com/OS2Forms/os2forms/issues/227)**: Conditionals based on computed twig broken in Drupal ^10.3**
 
    * Testvejledning endnu ikke klar!
