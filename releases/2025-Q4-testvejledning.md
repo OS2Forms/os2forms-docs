@@ -51,7 +51,7 @@ Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://for
 
 3. [**#188**](https://github.com/OS2Forms/os2forms/issues/188)**: OS2forms sync modul not working**
 
-   * Testvejledning endnu ikke klar!
+   * På [https://test.os2forms.dk/da/admin/os2forms/sync/webform](https://test.os2forms.dk/da/admin/os2forms/sync/webform) kan man importere en enkelt simpel formular fra demo.os2forms.dk.
 
 ## [#197](https://github.com/OS2Forms/os2forms/issues/197): Diskussion og fastlæggelse af udvikling bestilt af OS2 fællesskabet
 
@@ -67,7 +67,8 @@ Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://for
 
 1. [**PR #101**](https://github.com/OS2Forms/os2forms/pull/101)**: Keys and encrypt**
 
-   * Testvejledning endnu ikke klar!
+   * Keyes handler om at der er kommet en konfigurationsmulighed i backenden ift. at opbevare certifikater eksternt: Under menupunktet i indstillinger der hedder ’nøgler’, kan man (admin) oprette en ny type nøgle, der passer til hashicorp keyvault – det er ikke noget men kan se i brugergrænsefladen. Det ændrer ikke eksisterende funktionalitet medmindre man ændrer indstillinger på modulerne, hvor dette er en mulighed. Det vil sige testen kan bestå i at koordinationsgruppen blot konstaterer at denne mulighed er til stede i den instans der testes på.
+   * Ifølge ITK kan det encrypt ikke testes, da det ligger i databasen, som ikke kan ses fra brugergrænsefladen.
 
 2. [**#183**](https://github.com/OS2Forms/os2forms/issues/183)**: Fix: Webform Auto Exports settings issue**
 
