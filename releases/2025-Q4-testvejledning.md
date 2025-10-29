@@ -13,6 +13,8 @@ URL til testmiljø: [https://test.os2forms.dk/](https://test.os2forms.dk/)
 
 Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://forms.bellcom.dk/rapportering-af-fejl-i-os2forms-q425-release](https://forms.bellcom.dk/rapportering-af-fejl-i-os2forms-q425-release). Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen og dermed få den rettet.
 
+Når du har gennemført testen, så beder vi om at du udfylder denne formular: [https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release](https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release).
+
 **Milepæle - revideret 17.10.2025:**
 
 - 15.09.2025: Releasen er klart defineret, dokumenteret og estimeret
@@ -132,3 +134,5 @@ Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://for
 9. [**#227**](https://github.com/OS2Forms/os2forms/issues/227)**: Conditionals based on computed twig broken in Drupal ^10.3**
 
    * Testvejledning endnu ikke klar!
+
+Husk at udfylde denne formular: [https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release](https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release), når du har gennemført testen.
