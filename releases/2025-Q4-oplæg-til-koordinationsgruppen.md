@@ -12,7 +12,7 @@ Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
 **Milepæle - revideret 17.10.2025:**
 
 - 15.09.2025: Releasen er klart defineret, dokumenteret og estimeret
-- 01-10-2025: Releasen blev godkendt af koordinationsgruppen (forsinket 2 arbejdsdage)
+- 01.10.2025: Releasen blev godkendt af koordinationsgruppen (forsinket 2 arbejdsdage)
 - 28.10.2025: Releasen er klar til test (forsinket 5 arbejdsdage)
 - 29.10.2025: Kickoff på test/Virtuel møde med Bellcom kl. 10.00 – 11.00
 - 14.11.2025: Releasen er testet og accepteret (udskudt 4 arbejdsdage)
