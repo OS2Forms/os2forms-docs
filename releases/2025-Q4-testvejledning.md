@@ -13,6 +13,8 @@ URL til testmiljø: [https://test.os2forms.dk/](https://test.os2forms.dk/)
 
 Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://forms.bellcom.dk/rapportering-af-fejl-i-os2forms-q425-release](https://forms.bellcom.dk/rapportering-af-fejl-i-os2forms-q425-release). Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen og dermed få den rettet.
 
+**Bemærk:** Testmiljøet er sat op mod Serviceplatformens prod.-miljø, så skal I bruge jeres rigtige NemLog-in, CPR nr. hvis I vil teste NemLog-in / Digital Post. Alle formularer er som standard sat til at slette resultater efter 1 dag.
+
 Når du har gennemført testen, så beder vi om at du udfylder denne formular: [https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release](https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release).
 
 **Milepæle - revideret 17.10.2025:**
@@ -30,7 +32,7 @@ Når du har gennemført testen, så beder vi om at du udfylder denne formular: [
 
 1. [**#200**](https://github.com/OS2Forms/os2forms/issues/200)**: Modulet "CKEditor 4 (contrib) (ckeditor)" bør erstattes (af "CKEditor 5 (ckeditor5)") da det er deprecated**
 
-   * Testvejledning endnu ikke klar!
+   * ~~Testvejledning endnu ikke klar!~~ Det blev besluttet på "Kickoff på test" at denne udgår af denne release og flyttes til næste release.
 
 2. [**#205**](https://github.com/OS2Forms/os2forms/issues/205)**: Modulet "@fontyourface (fontyourface)" bør fjernes da brugerne afgiver cookies**
 
