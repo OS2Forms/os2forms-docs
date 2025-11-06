@@ -135,6 +135,15 @@ Når du har gennemført testen, så beder vi om at du udfylder denne formular: [
 
 9. [**#227**](https://github.com/OS2Forms/os2forms/issues/227)**: Conditionals based on computed twig broken in Drupal ^10.3**
 
-   * Testvejledning endnu ikke klar!
+   Problem/Motivation. With a webform that uses the result of the computed twig as a visibility condition, in Drupal 10.3 the form element that has a visibility condition no longer shows/hides.
+
+   Steps to reproduce
+
+   *  Set up a webform withn several fields
+   *  Set up a computed twig that produces a value based on those fields
+   *  Set up another field, but add a visibility condition of visible if the computed twig field has a specific value
+   *  View the form and apply the values to make the conditional field appear.
+  
+   Jeg vil foreslå at testen går ud på at se om man kan reproducere fejlen eller ej.
 
 Husk at udfylde denne formular: [https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release](https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release), når du har gennemført testen.
