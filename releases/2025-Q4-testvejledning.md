@@ -13,7 +13,12 @@ URL til testmiljø: [https://test.os2forms.dk/](https://test.os2forms.dk/)
 
 Hvis du finder en fejl, så skal den meldes ind via denne formular: [https://forms.bellcom.dk/rapportering-af-fejl-i-os2forms-q425-release](https://forms.bellcom.dk/rapportering-af-fejl-i-os2forms-q425-release). Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen og dermed få den rettet.
 
-**Bemærk:** Testmiljøet er sat op mod Serviceplatformens prod.-miljø, så skal I bruge jeres rigtige NemLog-in, CPR nr. hvis I vil teste NemLog-in / Digital Post. Alle formularer er som standard sat til at slette resultater efter 1 dag.
+Få overblik over hvad der er testet her: [https://docs.google.com/spreadsheets/d/1RUpjcjEDXqtWgA2kpFyYNaJA2lBG3Mw_kxzy-o-XxpI/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1RUpjcjEDXqtWgA2kpFyYNaJA2lBG3Mw_kxzy-o-XxpI/edit?usp=sharing).
+
+**Bemærk:**
+
+- Testmiljøet er sat op mod Serviceplatformens prod.-miljø, så skal I bruge jeres rigtige NemLog-in, CPR nr. hvis I vil teste NemLog-in / Digital Post. Alle formularer er som standard sat til at slette resultater efter 1 dag.
+- **Torsdag den 13/11 kl. 12.00** skifter vi testmiljøet over på Serviceplatformens testmiljø, hvorfor teste omkring afsendelse af Digital Post skal være foretaget inden da.
 
 Når du har gennemført testen, så beder vi om at du udfylder denne formular: [https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release](https://forms.bellcom.dk/os2forms-test-gennemgaaet-q425-release).
 
@@ -93,6 +98,8 @@ Når du har gennemført testen, så beder vi om at du udfylder denne formular: [
    Acceptkriterie: CPR Børn modulet skal fungere hensigtsmæssigt ift. brugere med navne— og adressebeskyttelse, dvs. modulet skal referere til eksisterende korrekte filer, så der ikke optræder falske fejl i (error)log oversigten.
 
    * Testes med bruger der har navne og adressebeskyttelse. Test at systemet kan sende email til borger, og at der i log oversigt kun fremgår afsendelse af én email med status succesful -  ikke to, hvoraf den ene (altid) vil være fejlet.
+   * Test CPR nr. 1012628000 (Susanne Bech Hansentest) har børn både med og uden navne— og adressebeskyttelse.
+   * Test CPR nr. 0902608000 (Kurt Jørgensentest) har selv navne— og adressebeskyttelse og har børn (som ikke har navne— og adressebeskyttelse).
 
 4. [**#190**](https://github.com/OS2Forms/os2forms/issues/190)**: Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
 
@@ -120,6 +127,9 @@ Når du har gennemført testen, så beder vi om at du udfylder denne formular: [
    * Trin 2: log ind som borger (forældre) og vælg et barn
    * Trin 3: vælg derefter "Ingen"
    * Trin 4: konstater at der ikke kommer nogen fejlmeddelelse og og data fra forrige sider på formularen IKKE forsvinder.
+  
+   * Test CPR nr. 1012628000 (Susanne Bech Hansentest) har børn.
+   * Test CPR nr. 0902608000 (Kurt Jørgensentest) har børn.
 
 7. [**#219**](https://github.com/OS2Forms/os2forms/issues/219)**: Fix: Maestro notification handler ignores conditions (vilkår)**
 
