@@ -32,12 +32,12 @@ parent: Releases
 
 1. [**#207**](https://github.com/OS2Forms/os2forms/issues/207)**: Verificer at moduler der ikke kompatibel med Drupal 10 kan udfases (15 stk.)**
 
-   ✅ Holstebro
+   ✅ Holstebro  
    ✅ Rebild
 
 2. [**#209**](https://github.com/OS2Forms/os2forms/issues/209)**: Undersøg om moduler der ikke anvendes og ikke er omfattet af central vedligehold kan fjernes (17 stk.)**
 
-   ✅ Holstebro
+   ✅ Holstebro  
    ✅ Rebild
 
 3. **Undersøg om moduler hvor brugeren afgiver cookies (noncompliant med GDPR) kan fjernes (6 stk.)**
@@ -48,13 +48,13 @@ parent: Releases
 
 1. **Ændring af navne på elementerne der i dag indeholder navnet "NemID", da "NemID" ikke længere eksisterer. Ændringen må dog ikke få konsekvenser for eksisterende formularer/installationer. Nyt navn foreslås til "MitID"**
 
-   ✅ Hillerød
+   ✅ Hillerød  
    ✅ Holstebro
 
 2. **Modulet "OS2web nemlogin Automated Logout" bør som standard være aktiveret i en OS2forms installation**
 
-   ✅ Hillerød
-   ✅ Holstebro.
+   ✅ Hillerød  
+   ✅ Holstebro
 
 3. [**#188**](https://github.com/OS2Forms/os2forms/issues/188)**: OS2forms sync modul not working**
 
@@ -64,13 +64,13 @@ parent: Releases
 
 1. [**#206**](https://github.com/OS2Forms/os2forms/issues/206)**: Release af Digital Signatur**
 
-   ❌ Rebild. Der var en fejl i starten af testperioden som blev fikset, og Rebild blev bedt om at teste igen. Vi har ikke hørt mere fra dem siden, men Hillerød og Holstebro har efterfølgende godkendt det.
-   ✅ Hillerød
+   ❌ Rebild. Der var en fejl i starten af testperioden som blev fikset, og Rebild blev bedt om at teste igen. Vi har ikke hørt mere fra dem siden, men Hillerød og Holstebro har efterfølgende godkendt det.  
+   ✅ Hillerød  
    ✅ Holstebro
 
 2. [**#170**](https://github.com/OS2Forms/os2forms/issues/170)**: Implement MeMo1.2 compliance \[SFRMS-129]**
 
-   ✅ Hillerød
+   ✅ Hillerød  
    ✅ Holstebro
 
 ## [#198](https://github.com/OS2Forms/os2forms/issues/198): Diskussion og fastlæggelse af bidrag fra Aarhus Kommune/ITK
@@ -89,28 +89,28 @@ parent: Releases
 
 4. [**#190**](https://github.com/OS2Forms/os2forms/issues/190)**: Fix: os2forms\_forloeb: Send Maestro notification handler exception handling when sending digital post**
 
-   ✅ Ballerup
+   ✅ Ballerup  
    ✅ Hillerød
 
 5. [**#195**](https://github.com/OS2Forms/os2forms/issues/195)**: Fix: os2forms\_forloeb: Maestro notification attempts sending digital post that will never be delivered**
 
-   ✅ Hillerød
+   ✅ Hillerød  
    ✅ Holstebro
 
 6. [**#218**](https://github.com/OS2Forms/os2forms/issues/218)**: Fix: MitId Children select missing a succesful check**
 
-   ✅ Ballerup
-   ✅ Hillerød
+   ✅ Ballerup  
+   ✅ Hillerød  
    ✅ Holstebro
 
 7. [**#219**](https://github.com/OS2Forms/os2forms/issues/219)**: Fix: Maestro notification handler ignores conditions (vilkår)**
 
-   ✅ Ballerup
+   ✅ Ballerup  
    ✅ Hillerød
 
 8. [**#221**](https://github.com/OS2Forms/os2forms/issues/221)**: Fix: Maestro digital post-notification sender label is set incorrectly**
 
-   ✅ Ballerup
+   ✅ Ballerup  
    ✅ Hillerød
 
 9. [**#227**](https://github.com/OS2Forms/os2forms/issues/227)**: Conditionals based on computed twig broken in Drupal ^10.3**
