@@ -26,7 +26,7 @@ parent: Releases
 
 2. [**#205**](https://github.com/OS2Forms/os2forms/issues/205)**: Modulet "@fontyourface (fontyourface)" bør fjernes da brugerne afgiver cookies**
 
-   * Testet og godkendt af følgende: Holstebro.
+   ✅ Holstebro
 
 ## [#194](https://github.com/OS2Forms/os2forms/issues/194): Diskussion og fastlæggelse af udfasninger af moduler
 
