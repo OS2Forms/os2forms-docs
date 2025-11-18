@@ -14,7 +14,7 @@ parent: Releases
 - 28.10.2025: Releasen er klar til test (forsinket 5 arbejdsdage)
 - 29.10.2025: Kickoff på test/Virtuel møde med Bellcom kl. 10.00 – 11.00
 - 14.11.2025: Releasen er testet og accepteret (udskudt 4 arbejdsdage)
-- 20.11.2025: Releasen er gennemført (merget til main branch)  (udskudt 3 arbejdsdage).
+- 20.11.2025: Releasen er gennemført (merget til main branch)  (udskudt 3 arbejdsdage)
 
 ---
 
