@@ -1,14 +1,14 @@
 ---
 title: Digital Signature module
 layout: default
-nav_order: -1
-parent: Releases
+nav_order: 4
+parent: Release 2025/Q4
 ---
 
 # Release notes for Digital Signature module
 
-**Release date: 2025-XX-XX**<br>
-**Release tag: 4.X.X**<br>
+**Release date: 2025-19-11**<br>
+**Release tag: 5.0.0**<br>
 **Link to module: [https://github.com/OS2Forms/os2forms/modules/os2forms_digital_signature/](https://github.com/OS2Forms/os2forms/modules/os2forms_digital_signature/)**<br>
 **JIRA case: [https://os2web.atlassian.net/browse/S2FRMS-57](https://os2web.atlassian.net/browse/S2FRMS-57)**
 

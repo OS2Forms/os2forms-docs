@@ -1,8 +1,8 @@
 ---
-title: Release 2025/Q4 - oplæg
+title: Oplæg
 layout: default
-nav_order: -2
-parent: Releases
+nav_order: 1
+parent: Release 2025/Q4
 ---
 
 # Efterårsrelease 2025 - oplæg til koordinationsgruppen

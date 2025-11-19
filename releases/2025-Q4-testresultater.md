@@ -1,8 +1,8 @@
 ---
-title: Release 2025/Q4 - testresultater
+title: Testresultater
 layout: default
-nav_order: -4
-parent: Releases
+nav_order: 3
+parent: Release 2025/Q4
 ---
 
 # Efterårsrelease 2025 - Testresultater

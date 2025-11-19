@@ -1,8 +1,8 @@
 ---
-title: Release 2025/Q4 - testvejledning
+title: Testvejledning
 layout: default
-nav_order: -3
-parent: Releases
+nav_order: 2
+parent: Release 2025/Q4
 ---
 
 # Efterårsrelease 2025 - Testvejledning
