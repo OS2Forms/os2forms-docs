@@ -1,8 +1,8 @@
 ---
-title: Oplæg
+title: Release 2026/Q2
 layout: default
 nav_order: 1
-parent: Release 2026/Q2
+parent: Releases
 ---
 
 # Forårsrelease 2026 - oplæg til koordinationsgruppen
