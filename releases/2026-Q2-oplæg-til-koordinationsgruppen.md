@@ -7,7 +7,7 @@ parent: Releases
 
 # Forårsrelease 2026 - oplæg til koordinationsgruppen
 
-Overblik over efterårsrelease til koordinationsgruppens videre arbejde.
+Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 **Milepæle:**
 
