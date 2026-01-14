@@ -35,9 +35,9 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 ## Ikke inkluderet i denne release
 
-   * Opgradering til Drupal 11
+   * [#247](https://github.com/OS2Forms/os2forms/issues/247): Opgradering til Drupal 11
    * Opdatering til Maestro 4.1.4
-   * CPR udfases på den fælleskommunale infrastruktur: Datafordeleren tager over
+   * [#254](https://github.com/OS2Forms/os2forms/issues/254): CPR udfases på den fælleskommunale infrastruktur: Datafordeleren tager over
    * Defination af et Core theme / core font
    * Forundersøgelse omkring Digital Fuldmagt
    * Er OS2forms complient ift. Single Digital Gateway
