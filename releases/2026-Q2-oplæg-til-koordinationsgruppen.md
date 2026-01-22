@@ -25,13 +25,11 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 ## Release kandidater
 
-1. **[#237](https://github.com/OS2Forms/os2forms/issues/237): Vejledning i opsætning af Digital Post mod Serviceplatformenens testmiljø**
-
-2. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
-
-3. **[#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026**
-
-4. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
+1. **[#201](https://github.com/OS2Forms/os2forms/issues/201): CPR-validator-elementet skal IKKE acceptere bindestreg i cpr numre**
+2. **[#237](https://github.com/OS2Forms/os2forms/issues/237): Vejledning i opsætning af Digital Post mod Serviceplatformenens testmiljø**
+3. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
+4. **[#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026**
+5. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
 
 ## Ikke inkluderet i denne release
 
