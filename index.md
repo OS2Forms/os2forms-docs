@@ -25,4 +25,4 @@ This repository contains documentation for OS2forms.
 
 <a href="https://github.com/OS2Forms/os2forms/issues?q=is%3Aissue%20state%3Aopen%20label%3ATheme%20%2F%20Styling" target="_blank"><img src="https://img.shields.io/github/issues/os2forms/os2forms/Theme%20%2F%20Styling" alt="Open Theme / Styling issues"></a>
 
-<a href="https://github.com/OS2Forms/os2forms/issues?q=is%3Aissue%20state%3Aopen%20label%3AUdvikingsønsker" target="_blank"><img src="https://img.shields.io/github/issues/os2forms/os2forms/Udvikingsønsker" alt="Open Udvikingsønsker issues"></a>
+<a href="https://github.com/OS2Forms/os2forms/issues?q=is%3Aissue%20state%3Aopen%20label%3AUdviklingsønsker" target="_blank"><img src="https://img.shields.io/github/issues/os2forms/os2forms/Udviklingsønsker" alt="Open Udviklingsønsker issues"></a>
