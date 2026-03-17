@@ -3,25 +3,20 @@ layout: default
 title: "Hvordan bruger man Task Console mere effektivt?"
 tags: ['Digitalisering', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'question', 'old-id:411']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan bruger man Task Console mere effektivt?
 
-[ Del med en kollega ](hvordan-bruger-man-task-console-mere-effektivt.md)
 
-[ Contact editorial staff ](hvordan-bruger-man-task-console-mere-effektivt.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
-Faggruppe:  [Digitalisering][notfound]
+Faggruppe:  Digitalisering
 
-![](../sites/default/files/styles/large/public/images/user_profiles/morten_gundelach_0.jpg%3Fitok=73ocLw--)
 
-[Morten Gundelach][notfound]
+Morten Gundelach
 
 IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
 
@@ -33,15 +28,14 @@ Hvordan bruger man Task Console mere effektivt?
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/morten_gundelach_0.jpg%3Fitok=73ocLw--)
 
-[Morten Gundelach][notfound]
+Morten Gundelach
 
 IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
 
 05-05-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej!
 

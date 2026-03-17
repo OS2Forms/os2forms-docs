@@ -3,25 +3,21 @@ layout: default
 title: "Hej med jerJeg har nogle udfordringer med at få &quot;skala&quot; funktionen til at blive…"
 tags: ['Digitalisering', 'Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:237']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hej med jerJeg har nogle udfordringer med at få &quot;skala&quot; funktionen til at blive…
 
-[ Del med en kollega ](hej-med-jerjeg-har-nogle-udfordringer-med-at-fa-quotskalaquot-funktionen-til-at-blive.md)
 
-[ Contact editorial staff ](hej-med-jerjeg-har-nogle-udfordringer-med-at-fa-quotskalaquot-funktionen-til-at-blive.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [Digitalisering][notfound] [IT][notfound]
+Faggruppe:  Digitalisering IT
 
 MS
 
-[Mads Skarnager][notfound]
+Mads Skarnager
 
 Digitaliseringskonsulent, Vordingborg Kommune - IT
 
@@ -41,19 +37,19 @@ Er der andre der er stødt i samme problem, og har i fået løst det?
 
 Bilag
 
-[ billede2 .jpg ][notfound]
+ billede2 .jpg 
 
 ### Svar
 
 HK
 
-[Helle Keller][notfound]
+Helle Keller
 
 Økonomikonsulent, Holstebro Kommune / Økonomi
 
 08-07-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Mads
 

@@ -3,23 +3,19 @@ layout: default
 title: "Jeg har en udfordring ift. at få slettet valg/tekst i elementer, hvis brugeren…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:436']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Jeg har en udfordring ift. at få slettet valg/tekst i elementer, hvis brugeren…
 
-[ Del med en kollega ](jeg-har-en-udfordring-ift-at-fa-slettet-valgtekst-i-elementer-hvis-brugeren.md)
 
-[ Contact editorial staff ](jeg-har-en-udfordring-ift-at-fa-slettet-valgtekst-i-elementer-hvis-brugeren.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
@@ -31,30 +27,29 @@ Jeg har en udfordring ift. at få slettet valg/tekst i elementer, hvis brugeren 
 
 Bilag
 
-[ udkli .png ][notfound]
+ udkli .png 
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 17-01-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Forstår ikke helt spørgsmålet eller hvordan det ser ud på byg siden. Kan du bidrage med noget andet info?   
 Har du brugt vilkår-reglerne til at lave regler på hvad der vises, hvis noget er valgt eller ikke valgt? 
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
 17-01-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej
 

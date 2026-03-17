@@ -3,21 +3,17 @@ layout: default
 title: "Hvorfor kan jeg ikke se &quot;Eksporter&quot; fanen under webformularer eller få lov til…"
 tags: ['Digitalisering', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'question', 'old-id:209']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvorfor kan jeg ikke se &quot;Eksporter&quot; fanen under webformularer eller få lov til…
 
-[ Del med en kollega ](hvorfor-kan-jeg-ikke-se-quoteksporterquot-fanen-under-webformularer-eller-fa-lov-til.md)
 
-[ Contact editorial staff ](hvorfor-kan-jeg-ikke-se-quoteksporterquot-fanen-under-webformularer-eller-fa-lov-til.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
-Faggruppe:  [Digitalisering][notfound]
+Faggruppe:  Digitalisering
 
 A
 
@@ -37,7 +33,7 @@ Anonym bruger
 
 17-12-2020 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Din OS2Forms installation er muligvis ikke sat op til at tillade import og eksport af webformularer.
 
@@ -50,14 +46,13 @@ Dette gøres under "Personer"->"Tilladelser" i administrationsmenuen.
 
 Under hhv. Eksporter og Importer konfiguration skal der være flueben ud for Formsdesigner roller:
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 23-08-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 HVis man på sin installation skriver "/da/admin/config/development/configuration/single/import" efter sit domæne så bør man kunne importer/eksporter siden, hvis man har adgang.

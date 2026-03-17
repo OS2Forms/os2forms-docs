@@ -3,25 +3,20 @@ layout: default
 title: "Hvor finder jeg god inspiration fra Nexttide vedr. flows.?"
 tags: ['Flows', 'IT', 'Spørgsmål', 'flow', 'meastro', 'question', 'old-id:227']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvor finder jeg god inspiration fra Nexttide vedr. flows.?
 
-[ Del med en kollega ](hvor-finder-jeg-god-inspiration-fra-nexttide-vedr-flows.md)
 
-[ Contact editorial staff ](hvor-finder-jeg-god-inspiration-fra-nexttide-vedr-flows.md)
 
 Spørgsmål
 
-Emne:  [Flows][notfound]
+Emne:  Flows
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
@@ -31,19 +26,18 @@ Spørgsmål
 
 Hvor finder jeg god inspiration fra Nexttide vedr. flows.?
 
-Nøgleord: [flow][notfound] [meastro][notfound]
+Nøgleord: flow meastro
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 19-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Nexttide har udviklet Maestro, som flows i OS2forms er bygget på. Her er et par gode videoer og artikler som kan ses før du laver et flow, første gang.
 

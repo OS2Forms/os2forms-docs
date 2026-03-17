@@ -3,25 +3,21 @@ layout: default
 title: "Kvittering til Digital postVi er i gang med at sætte OS2Forms op således at borgerne kan…"
 tags: ['Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:222']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Kvittering til Digital postVi er i gang med at sætte OS2Forms op således at borgerne kan…
 
-[ Del med en kollega ](kvittering-til-digital-postvi-er-i-gang-med-at-sætte-os2forms-op-saledes-at-borgerne-kan.md)
 
-[ Contact editorial staff ](kvittering-til-digital-postvi-er-i-gang-med-at-sætte-os2forms-op-saledes-at-borgerne-kan.md)
 
 Spørgsmål
 
-Emne:  [Formular konfiguration][notfound]
+Emne:  Formular konfiguration
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
@@ -37,15 +33,14 @@ Er der nogen der har lavet noget der fungere og kan give et hint?
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 04-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ole
 
@@ -59,7 +54,7 @@ Anonym bruger
 
 12-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ole, 
 
@@ -74,7 +69,7 @@ Anonym bruger
 
 12-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ole, 
 

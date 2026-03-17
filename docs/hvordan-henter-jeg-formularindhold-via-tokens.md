@@ -3,25 +3,20 @@ layout: default
 title: "Hvordan henter jeg formularindhold via tokens?"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'hent data', 'question', 'token', 'old-id:454']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan henter jeg formularindhold via tokens?
 
-[ Del med en kollega ](hvordan-henter-jeg-formularindhold-via-tokens.md)
 
-[ Contact editorial staff ](hvordan-henter-jeg-formularindhold-via-tokens.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
@@ -31,19 +26,18 @@ Spørgsmål
 
 Hvordan henter jeg formularindhold via tokens?
 
-Nøgleord: [token][notfound] [hent data][notfound]
+Nøgleord: token hent data
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 21-04-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Det er muligt at hente eller vise forskellige og trikket er at du skal ramme ned i den korrekte type data for dit element.
 

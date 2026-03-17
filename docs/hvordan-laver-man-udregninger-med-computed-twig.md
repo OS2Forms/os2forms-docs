@@ -3,15 +3,8 @@ layout: default
 title: "Hvordan laver man udregninger med computed twig?"
 tags: ['Digitalisering', 'Formular elementer', 'Spørgsmål', 'question', 'old-id:426']
 ---
-Brugernavn
 
-Adgangskode
-
-#  Hvordan laver man udregninger med computed twig? 
-
-[ Del med en kollega ](hvordan-laver-man-udregninger-med-computed-twig.md)
-
-[ Contact editorial staff ](hvordan-laver-man-udregninger-med-computed-twig.md)
+#  Hvordan laver man udregninger med computed twig?
 
 Spørgsmål
 

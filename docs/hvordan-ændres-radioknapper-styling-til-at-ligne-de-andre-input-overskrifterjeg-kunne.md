@@ -3,25 +3,20 @@ layout: default
 title: "Hvordan ændres radioknapper styling til at ligne de andre input overskrifter?Jeg kunne…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'overskrift', 'question', 'radioknapper', 'old-id:246']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan ændres radioknapper styling til at ligne de andre input overskrifter?Jeg kunne…
 
-[ Del med en kollega ](hvordan-ændres-radioknapper-styling-til-at-ligne-de-andre-input-overskrifterjeg-kunne.md)
 
-[ Contact editorial staff ](hvordan-ændres-radioknapper-styling-til-at-ligne-de-andre-input-overskrifterjeg-kunne.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
@@ -37,9 +32,9 @@ Jeg kunne godt tænke mig at få overskriften for andre inputfelter til at ligne
 
 Bilag
 
-[ radioknap_overskrift .png ][notfound]
+ radioknap_overskrift .png 
 
-Nøgleord: [radioknapper][notfound] [overskrift][notfound]
+Nøgleord: radioknapper overskrift
 
 ### Svar
 
@@ -49,7 +44,7 @@ Anonym bruger
 
 18-01-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Det ser mystisk ud. 
 
@@ -59,14 +54,13 @@ Mulig workaround:
 
 Opret en etiket lige før radioknapperne og skjul til gengæld etiketten på radioknapperne.
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 12-07-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Vi fandt ud af at det var nok at skifte til "gin" tema, hvilket vi derfor har gjort.

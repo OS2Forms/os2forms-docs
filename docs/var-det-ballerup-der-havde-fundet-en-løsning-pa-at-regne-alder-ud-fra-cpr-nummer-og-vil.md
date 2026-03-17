@@ -3,25 +3,21 @@ layout: default
 title: "Var det Ballerup der havde fundet en løsning på at regne alder ud fra CPR nummer? Og vil…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:271']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Var det Ballerup der havde fundet en løsning på at regne alder ud fra CPR nummer? Og vil…
 
-[ Del med en kollega ](var-det-ballerup-der-havde-fundet-en-løsning-pa-at-regne-alder-ud-fra-cpr-nummer-og-vil.md)
 
-[ Contact editorial staff ](var-det-ballerup-der-havde-fundet-en-løsning-pa-at-regne-alder-ud-fra-cpr-nummer-og-vil.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
@@ -39,7 +35,7 @@ Anonym bruger
 
 10-01-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Jeg har oprettet et Computed Twig med dette indhold:
 

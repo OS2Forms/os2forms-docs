@@ -3,25 +3,21 @@ layout: default
 title: "Kan man inde i selvbtjeningsløsningen give adgang til dokumenter?Det kunne f.eks. være…"
 tags: ['Digitalisering', 'Formular elementer', 'Spørgsmål', 'question', 'old-id:225']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Kan man inde i selvbtjeningsløsningen give adgang til dokumenter?Det kunne f.eks. være…
 
-[ Del med en kollega ](kan-man-inde-i-selvbtjeningsløsningen-give-adgang-til-dokumenterdet-kunne-feks-være.md)
 
-[ Contact editorial staff ](kan-man-inde-i-selvbtjeningsløsningen-give-adgang-til-dokumenterdet-kunne-feks-være.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [Digitalisering][notfound]
+Faggruppe:  Digitalisering
 
 CB
 
-[Charlotte Bülow][notfound]
+Charlotte Bülow
 
 Digitaliseringskonsulent, Favrskov Kommune - it
 
@@ -37,12 +33,12 @@ Det kunne f.eks. være lovgivning på området eller anden information der kan h
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 17-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Umiddelbart vil jeg linke til evt lovgivning

@@ -3,19 +3,12 @@ layout: default
 title: "Hvordan indsætter jeg en reference til en standard tekst i webformular?"
 tags: ['Formular elementer', 'Spørgsmål', 'genbrug', 'question', 'referencer', 'tekster', 'old-id:232']
 ---
-Brugernavn
-
-Adgangskode
 
 #  Hvordan indsætter jeg en reference til en standard tekst i webformular?
 
-[ Del med en kollega ](hvordan-indsætter-jeg-en-reference-til-en-standard-tekst-i-webformular.md)
-
-[ Contact editorial staff ](hvordan-indsætter-jeg-en-reference-til-en-standard-tekst-i-webformular.md)
-
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
 A
 
@@ -27,7 +20,7 @@ Spørgsmål
 
 Hvordan indsætter jeg en reference til en standard tekst i webformular?
 
-Nøgleord: [referencer][notfound] [tekster][notfound] [genbrug][notfound]
+Nøgleord: referencer tekster genbrug
 
 ### Svar
 
@@ -37,7 +30,7 @@ Anonym bruger
 
 04-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hvis du i din OS2Forms installation har fået tilføjet en række standardtekster du gerne vil genbruge i flere forskellige webforms, så kan du sætte dem ind i webform som en reference, så der altid peges på den nyeste udgave af teksten.
 
@@ -56,13 +49,13 @@ ID på webformularteksten finder du på oversigten over webformulartekster:
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 05-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Mange tak :-)
 

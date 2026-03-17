@@ -3,19 +3,15 @@ layout: default
 title: "Er det muligt at lave alderskontrol på baggrund af CPR-nummer fra NemID?Fx for at sikre…"
 tags: ['Formular elementer', 'Spørgsmål', 'question', 'old-id:211']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Er det muligt at lave alderskontrol på baggrund af CPR-nummer fra NemID?Fx for at sikre…
 
-[ Del med en kollega ](er-det-muligt-at-lave-alderskontrol-pa-baggrund-af-cpr-nummer-fra-nemidfx-for-at-sikre.md)
 
-[ Contact editorial staff ](er-det-muligt-at-lave-alderskontrol-pa-baggrund-af-cpr-nummer-fra-nemidfx-for-at-sikre.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
 A
 
@@ -33,13 +29,13 @@ Fx for at sikre at personen er fyldt 18 eller er mellem 18 og 67 år gammel?
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 23-02-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Umiddelbart tror jeg ikke det kan lade sig gøre. Det er muligt at lave vilkår for elementer hvor man kan bestemme om et eller flere elementer skal være synlige alt efter om CPR er større eller midre end en given værdi. Det kan løse problemet i dag, men værdien skal skiftes hver dag.
 
@@ -47,13 +43,13 @@ Der er en token "Current-date" der muligvis kan bruges til noget, men det kræve
 
 AL
 
-[Anders Larsen][notfound]
+Anders Larsen
 
 OS2Forms koordinator, Holstebro
 
 27-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Du kan lave beregninger på CPR Nummer med et calculated Twig element.
 
@@ -65,21 +61,20 @@ Anonym bruger
 
 27-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Jeg fandt selv ud af at gøre det ved hjælp af Twig. 
 
 Sig til hvis andre kan bruge løsningen.
 
-![](../sites/default/files/styles/large/public/images/user_profiles/img_20210821_183356.png%3Fitok=F7z504qw)
 
-[Lars Lyngsøe Højberg][notfound]
+Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
 27-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Leif
 
@@ -91,7 +86,7 @@ Anonym bruger
 
 27-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 {% raw %}
 {% set bddate = data.cpr|slice(0,2) %}  

@@ -3,19 +3,15 @@ layout: default
 title: "Hvordan angives standard dato-format for et datovælger element i webform?Datoformatet…"
 tags: ['Konfiguration/opsætning af installation', 'Spørgsmål', 'dato', 'datovælger', 'format', 'pdf', 'question', 'old-id:202']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan angives standard dato-format for et datovælger element i webform?Datoformatet…
 
-[ Del med en kollega ](hvordan-angives-standard-dato-format-for-et-datovælger-element-i-webformdatoformatet.md)
 
-[ Contact editorial staff ](hvordan-angives-standard-dato-format-for-et-datovælger-element-i-webformdatoformatet.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
 A
 
@@ -29,7 +25,7 @@ Hvordan angives standard dato-format for et datovælger element i webform?
 
 Datoformatet skal anvendes når elementet printes til et PDF dokument eller der dannes et SBSYS attachment XML fil.
 
-Nøgleord: [dato][notfound] [pdf][notfound] [format][notfound] [datovælger][notfound]
+Nøgleord: dato pdf format datovælger
 
 ### Svar
 
@@ -39,7 +35,7 @@ Anonym bruger
 
 15-12-2020 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Formattering af dato format i Datovælger elementer kan specificeres under "Avanceret" -> "Submission Display" for dato-vælger elementet (se eksempel forneden).
 

@@ -3,23 +3,19 @@ layout: default
 title: "Er der nogen, der har lavet deres egne elementer? Altså fx hvis man nu gerne vil lave et…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:453']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Er der nogen, der har lavet deres egne elementer? Altså fx hvis man nu gerne vil lave et…
 
-[ Del med en kollega ](er-der-nogen-der-har-lavet-deres-egne-elementer-altsa-fx-hvis-man-nu-gerne-vil-lave-et.md)
 
-[ Contact editorial staff ](er-der-nogen-der-har-lavet-deres-egne-elementer-altsa-fx-hvis-man-nu-gerne-vil-lave-et.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 

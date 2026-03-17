@@ -3,25 +3,17 @@ layout: default
 title: "Hvordan får en forløbsdesigner webformularer (struktur-versionen) i deres menu?"
 tags: ['IT', 'Konfiguration/opsætning af installation', 'Opsætning', 'Spørgsmål', 'question', 'old-id:221']
 ---
-Brugernavn
-
-Adgangskode
 
 #  Hvordan får en forløbsdesigner webformularer (struktur-versionen) i deres menu?
 
-[ Del med en kollega ](hvordan-far-en-forløbsdesigner-webformularer-struktur-versionen-i-deres-menu.md)
-
-[ Contact editorial staff ](hvordan-far-en-forløbsdesigner-webformularer-struktur-versionen-i-deres-menu.md)
-
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
@@ -31,19 +23,18 @@ Spørgsmål
 
 Hvordan får en forløbsdesigner webformularer (struktur-versionen) i deres menu?
 
-Nøgleord: [Opsætning][notfound]
+Nøgleord: Opsætning
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 17-03-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Sørg for at gøre følgende. 
 

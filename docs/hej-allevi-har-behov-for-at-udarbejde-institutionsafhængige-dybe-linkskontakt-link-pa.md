@@ -3,25 +3,18 @@ layout: default
 title: "Hej alle.Vi har behov for at udarbejde institutionsafhængige dybe links/kontakt-link på…"
 tags: ['Børn og Unge', 'Formular elementer', 'Spørgsmål', 'dybe links', 'question', 'referencer', 'old-id:240']
 ---
-Brugernavn
-
-Adgangskode
 
 #  Hej alle.Vi har behov for at udarbejde institutionsafhængige dybe links/kontakt-link på…
 
-[ Del med en kollega ](hej-allevi-har-behov-for-at-udarbejde-institutionsafhængige-dybe-linkskontakt-link-pa.md)
-
-[ Contact editorial staff ](hej-allevi-har-behov-for-at-udarbejde-institutionsafhængige-dybe-linkskontakt-link-pa.md)
-
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [Børn og Unge][notfound]
+Faggruppe:  Børn og Unge
 
 KP
 
-[Kenneth Poulsen][notfound]
+Kenneth Poulsen
 
 IT-konsulent, Rudersdal kommune, Dagtilbudsområdets Sekretariat
 
@@ -39,19 +32,18 @@ Nogen der har et forslag til hvilket token der skal benyttes for at få institut
 
 Pft. Kenneth
 
-Nøgleord: [referencer][notfound] [dybe links][notfound]
+Nøgleord: referencer dybe links
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/img_20210821_183356.png%3Fitok=F7z504qw)
 
-[Lars Lyngsøe Højberg][notfound]
+Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
 26-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Kenneth
 
@@ -61,13 +53,13 @@ Har du fundet en løsning på problematikken? Vi kan eventuelt tage et 10-minutt
 
 KP
 
-[Kenneth Poulsen][notfound]
+Kenneth Poulsen
 
 IT-konsulent, Rudersdal kommune, Dagtilbudsområdets Sekretariat
 
 27-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Lars
 
@@ -81,7 +73,7 @@ Anonym bruger
 
 29-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hvis du opretter et skjult e-mail felt og markerer det som "prepopulate".
 

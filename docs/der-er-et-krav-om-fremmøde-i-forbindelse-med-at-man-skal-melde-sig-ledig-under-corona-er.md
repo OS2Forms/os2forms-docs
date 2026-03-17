@@ -3,25 +3,21 @@ layout: default
 title: "Der er et krav om fremmøde i forbindelse med at man skal melde sig ledig. Under corona er…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:233']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Der er et krav om fremmøde i forbindelse med at man skal melde sig ledig. Under corona er…
 
-[ Del med en kollega ](der-er-et-krav-om-fremmøde-i-forbindelse-med-at-man-skal-melde-sig-ledig-under-corona-er.md)
 
-[ Contact editorial staff ](der-er-et-krav-om-fremmøde-i-forbindelse-med-at-man-skal-melde-sig-ledig-under-corona-er.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
@@ -35,13 +31,13 @@ Er der nogen der har en god ide eller nogle erfaringer?
 
 ### Svar
 
-A
+*A*
 
 Anonym bruger
 
 07-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ole, 
 
@@ -51,13 +47,13 @@ Prøv evt. at tage kontakt til ham: [Soren.Svendsen@holstebro.dk](mailto:Soren.S
 
 SS
 
-[Søren Svendsen][notfound]
+Søren Svendsen
 
 Digitaliseringskonsulent , Jobcenter
 
 07-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ole
 
@@ -75,25 +71,25 @@ Jeg ved ikke om man kan lave en udlæsning fra Fasit på de borger som skal have
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 10-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Vi kigger i første omgang på den blanket man melder sig ledig med den dag man bliver ledig. Blanketten er lavet og alt er fint, men brugen er basseret på at lovgivningne er sat på pause pga corona. Når lovgivningen igen gælder så skal borgerne være på rådhuset npr de melder sig ledig. Vi arbejder på en løsning hvor de kan melde sig ledig via en borgerpc hvor formularen er låst til kun at virke på en bestemt IP adresse. Vi ved ikke endnu om det kan godkendes
 
 SS
 
-[Søren Svendsen][notfound]
+Søren Svendsen
 
 Digitaliseringskonsulent , Jobcenter
 
 14-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Jeg vil gerne se løsningen når i har den implementeret. 
 
@@ -101,13 +97,13 @@ Man kan evt låse blanketter til kun at kunne åbnes fra en kommune WIFI.
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 14-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Her er en hurtig beskrivelse. Og den kan testes her: <https://formular.rudersdal.dk/content/ekstern/ledig> \- den skulle gerne give besked på I skal være på kommune for at udfylde den. Hvis I kører forbi Rudersdal så kan I også se hvordan vil se ud for borgerne 
 

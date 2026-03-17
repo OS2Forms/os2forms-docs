@@ -3,25 +3,21 @@ layout: default
 title: "Hej Vi ønsker at oprette roller med bestemte rettigheder, som hører til en bestemt…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:289']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hej Vi ønsker at oprette roller med bestemte rettigheder, som hører til en bestemt…
 
-[ Del med en kollega ](hej-vi-ønsker-at-oprette-roller-med-bestemte-rettigheder-som-hører-til-en-bestemt.md)
 
-[ Contact editorial staff ](hej-vi-ønsker-at-oprette-roller-med-bestemte-rettigheder-som-hører-til-en-bestemt.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
 DJ
 
-[Ditte Jensen][notfound]
+Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
@@ -37,15 +33,14 @@ Vh Ditte
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/img_20210821_183356.png%3Fitok=F7z504qw)
 
-[Lars Lyngsøe Højberg][notfound]
+Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
 26-11-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ditte  
 Blot for andres information, arbejder Aarhus intenst på at løse netop dette problem. Jeg tænker, der kommer en løsning i nærmeste fremtid.  
@@ -53,13 +48,13 @@ Blot for andres information, arbejder Aarhus intenst på at løse netop dette pr
 
 DJ
 
-[Ditte Jensen][notfound]
+Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
 26-11-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Lars
 

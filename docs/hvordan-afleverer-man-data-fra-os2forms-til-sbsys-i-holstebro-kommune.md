@@ -3,19 +3,12 @@ layout: default
 title: "Hvordan afleverer man data fra OS2Forms til SBSYS i Holstebro Kommune?"
 tags: ['Formular konfiguration', 'Spørgsmål', 'aflevering', 'format', 'holstebro', 'question', 'sbsip', 'old-id:224']
 ---
-Brugernavn
-
-Adgangskode
 
 #  Hvordan afleverer man data fra OS2Forms til SBSYS i Holstebro Kommune?
 
-[ Del med en kollega ](hvordan-afleverer-man-data-fra-os2forms-til-sbsys-i-holstebro-kommune.md)
-
-[ Contact editorial staff ](hvordan-afleverer-man-data-fra-os2forms-til-sbsys-i-holstebro-kommune.md)
-
 Spørgsmål
 
-Emne:  [Formular konfiguration][notfound]
+Emne:  Formular konfiguration
 
 A
 
@@ -27,7 +20,7 @@ Spørgsmål
 
 Hvordan afleverer man data fra OS2Forms til SBSYS i Holstebro Kommune?
 
-Nøgleord: [holstebro][notfound] [format][notfound] [aflevering][notfound] [sbsip][notfound]
+Nøgleord: holstebro format aflevering sbsip
 
 ### Svar
 
@@ -37,7 +30,7 @@ Anonym bruger
 
 12-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 I Holstebro Kommune afleveres data til SBSYS ved hjælp af SBSIP.  
 Data sendes til SBSIP via en email handler der sørger for at sende dataene til postkasse som SBSIP'en tømmer.  

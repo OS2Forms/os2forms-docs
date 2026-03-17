@@ -3,15 +3,8 @@ layout: default
 title: "Hvordan slår man kladde til?"
 tags: ['Digitalisering', 'Formular elementer', 'Spørgsmål', 'question', 'old-id:410']
 ---
-Brugernavn
 
-Adgangskode
-
-#  Hvordan slår man "kladde" til? 
-
-[ Del med en kollega ](hvordan-slar-man-kladde-til.md)
-
-[ Contact editorial staff ](hvordan-slar-man-kladde-til.md)
+#  Hvordan slår man "kladde" til?
 
 Spørgsmål
 

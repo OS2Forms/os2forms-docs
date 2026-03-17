@@ -3,19 +3,15 @@ layout: default
 title: "Hvordan kan man oprette lister til genbrug i dropdown elementer?"
 tags: ['Konfiguration/opsætning af installation', 'Spørgsmål', 'dropdown', 'genbrug', 'lister', 'options', 'question', 'valg', 'old-id:248']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan kan man oprette lister til genbrug i dropdown elementer?
 
-[ Del med en kollega ](hvordan-kan-man-oprette-lister-til-genbrug-i-dropdown-elementer.md)
 
-[ Contact editorial staff ](hvordan-kan-man-oprette-lister-til-genbrug-i-dropdown-elementer.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
 A
 
@@ -27,7 +23,7 @@ Spørgsmål
 
 Hvordan kan man oprette lister til genbrug i dropdown elementer?
 
-Nøgleord: [lister][notfound] [dropdown][notfound] [genbrug][notfound] [valg][notfound] [options][notfound]
+Nøgleord: lister dropdown genbrug valg options
 
 ### Svar
 
@@ -37,7 +33,7 @@ Anonym bruger
 
 07-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 I OS2Forms er det muligt for administratoren at oprette standard lister der kan bruges som valg muligheder i "Vælg" webform elementer.   
 Dermed er det muligt at vedligeholde en liste af valgmuligheder ét sted og bruge dem på tværs af flere webforme, hvilket både gør det nemmere at opdatere hvis der er ændringer og det sikrer data-konsistens på tværs af webforme.

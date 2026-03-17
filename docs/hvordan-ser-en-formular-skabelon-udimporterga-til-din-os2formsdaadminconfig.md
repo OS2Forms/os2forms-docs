@@ -3,25 +3,20 @@ layout: default
 title: "Hvordan ser en formular skabelon ud?ImporterGå til [din os2forms]/da/admin/config…"
 tags: ['IT', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'question', 'old-id:241']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan ser en formular skabelon ud?ImporterGå til [din os2forms]/da/admin/config…
 
-[ Del med en kollega ](hvordan-ser-en-formular-skabelon-udimporterga-til-din-os2formsdaadminconfig.md)
 
-[ Contact editorial staff ](hvordan-ser-en-formular-skabelon-udimporterga-til-din-os2formsdaadminconfig.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 

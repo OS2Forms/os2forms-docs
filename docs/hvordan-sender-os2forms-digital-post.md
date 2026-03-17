@@ -3,21 +3,17 @@ layout: default
 title: "Hvordan sender OS2Forms digital post?"
 tags: ['Formular konfiguration', 'IT', 'NGDP', 'Spørgsmål', 'aflevering', 'digital post', 'question', 'old-id:245']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan sender OS2Forms digital post?
 
-[ Del med en kollega ](hvordan-sender-os2forms-digital-post.md)
 
-[ Contact editorial staff ](hvordan-sender-os2forms-digital-post.md)
 
 Spørgsmål
 
-Emne:  [Formular konfiguration][notfound]
+Emne:  Formular konfiguration
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
 A
 
@@ -29,7 +25,7 @@ Spørgsmål
 
 Hvordan sender OS2Forms digital post?
 
-Nøgleord: [NGDP][notfound] [digital post][notfound] [aflevering][notfound]
+Nøgleord: NGDP digital post aflevering
 
 ### Svar
 
@@ -39,7 +35,7 @@ Anonym bruger
 
 14-09-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 OS2Forms har ikke nogen direkte integration til Digital Post infrastrukturen, hverken den nuværende eller NgDP.
 
@@ -54,15 +50,14 @@ I forbindelse med NgDP er det endvidere et krav (anbefaling), at man skal begræ
 KOMBIT har på vegne af kommunerne realiseret Postkomponenten (hhv. SF1601 og SF1606) der netop skal anvendes som proxy ift. NgDP.   
 Læs mere om postkomponenten her: [https://digitaliseringskataloget.dk/løsninger/postkomponenten](https://digitaliseringskataloget.dk/l%C3%B8sninger/postkomponenten)
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 21-09-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Aarhus Kommune har ikke SBSIP og har derfor udviklet en forbindelse til serviceportalens sf1600.  
 Modulet er indtil videre placeret på <https://github.com/itk-dev/os2forms_digital_post>.

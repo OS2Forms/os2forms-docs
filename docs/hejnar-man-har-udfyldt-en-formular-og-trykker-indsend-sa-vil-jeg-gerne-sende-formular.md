@@ -3,25 +3,21 @@ layout: default
 title: "HejNår man har udfyldt en formular og trykker indsend. Så vil jeg gerne sende formular…"
 tags: ['Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:231']
 ---
-Brugernavn
 
-Adgangskode
 
 #  HejNår man har udfyldt en formular og trykker indsend. Så vil jeg gerne sende formular…
 
-[ Del med en kollega ](hejnar-man-har-udfyldt-en-formular-og-trykker-indsend-sa-vil-jeg-gerne-sende-formular.md)
 
-[ Contact editorial staff ](hejnar-man-har-udfyldt-en-formular-og-trykker-indsend-sa-vil-jeg-gerne-sende-formular.md)
 
 Spørgsmål
 
-Emne:  [Formular konfiguration][notfound]
+Emne:  Formular konfiguration
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
 DJ
 
-[Ditte Jensen][notfound]
+Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
@@ -37,15 +33,14 @@ Er det noget, der skal sættes op inde i OS2Forms og hvordan? Eller skal det ske
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/tmisjh.jpg%3Fitok=iVxilBvj)
 
-[Jacky Hansen][notfound]
+Jacky Hansen
 
 IT og digitaliseringskonsulent, Holstebro kommune
 
 03-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ditte...
 
@@ -55,13 +50,13 @@ Bilag
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 03-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Det kan man godt. Man kan lave en email handle der sender til en custom mailadresse og generere en mailadresse udfra de data der er tastet ind i formulaen. eks.
 
@@ -75,25 +70,25 @@ Vi bruger det til at sende en vejledning til medarbejderene når en chef bestill
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 03-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hov, nu gør vi det vist lidt mere komplekst end det behøves at være. Hvis det er den samme medarbejder der skal have alle indsendelser så vælges "Custom mailadresse" og medarbejderens emailadresse skrives
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 03-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hov, nu gør vi det vist lidt mere komplekst end det behøves at være. Hvis det er den samme medarbejder der skal have alle indsendelser så vælges "Custom mailadresse" og medarbejderens emailadresse skrives
 
@@ -103,7 +98,7 @@ Anonym bruger
 
 04-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hvis du har sat din ADFS op og konfigureret simplesaml så den mapper data fra ADFS til dine brugerkonti, så kan du sørge for at en bruger ikke selv skal udfylde sin mail adresse. 
 
@@ -117,13 +112,13 @@ Tvunget login fra intern IP på intern formular:
 
 DJ
 
-[Ditte Jensen][notfound]
+Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
 08-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Alle
 
@@ -139,7 +134,7 @@ Anonym bruger
 
 08-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ditte, 
 
@@ -151,13 +146,13 @@ Hvis mails ikke sendes, så kig i Drupals system log (under /admin/reports/dblog
 
 DJ
 
-[Ditte Jensen][notfound]
+Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
 08-06-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Anders 
 

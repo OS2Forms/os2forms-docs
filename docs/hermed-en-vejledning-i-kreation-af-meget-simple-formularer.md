@@ -3,23 +3,18 @@ layout: default
 title: "Hermed en vejledning i kreation af MEGET simple formularer."
 tags: ['Formular elementer', 'Spørgsmål', 'question', 'vejledninger', 'old-id:243']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hermed en vejledning i kreation af MEGET simple formularer.
 
-[ Del med en kollega ](hermed-en-vejledning-i-kreation-af-meget-simple-formularer.md)
 
-[ Contact editorial staff ](hermed-en-vejledning-i-kreation-af-meget-simple-formularer.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-![](../sites/default/files/styles/large/public/images/user_profiles/img_20210821_183356.png%3Fitok=F7z504qw)
 
-[Lars Lyngsøe Højberg][notfound]
+Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
@@ -31,6 +26,6 @@ Hermed en vejledning i kreation af MEGET simple formularer.
 
 Bilag
 
-[ os2forms_simpelformular .pdf ][notfound]
+ os2forms_simpelformular .pdf 
 
-Nøgleord: [vejledninger][notfound]
+Nøgleord: vejledninger

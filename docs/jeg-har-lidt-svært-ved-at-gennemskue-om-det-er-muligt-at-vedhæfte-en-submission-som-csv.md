@@ -3,25 +3,21 @@ layout: default
 title: "Jeg har lidt svært ved at gennemskue om det er muligt at vedhæfte en submission som .csv,…"
 tags: ['Arbejdsmarked', 'Digitalisering', 'Formular konfiguration', 'IT', 'Spørgsmål', 'csv', 'excel', 'mail', 'pdf', 'question', 'old-id:223']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Jeg har lidt svært ved at gennemskue om det er muligt at vedhæfte en submission som .csv,…
 
-[ Del med en kollega ](jeg-har-lidt-svært-ved-at-gennemskue-om-det-er-muligt-at-vedhæfte-en-submission-som-csv.md)
 
-[ Contact editorial staff ](jeg-har-lidt-svært-ved-at-gennemskue-om-det-er-muligt-at-vedhæfte-en-submission-som-csv.md)
 
 Spørgsmål
 
-Emne:  [Formular konfiguration][notfound]
+Emne:  Formular konfiguration
 
-Faggruppe:  [Arbejdsmarked][notfound] [Digitalisering][notfound] [IT][notfound]
+Faggruppe:  Arbejdsmarked Digitalisering IT
 
 MS
 
-[Mads Skarnager][notfound]
+Mads Skarnager
 
 Digitaliseringskonsulent, Vordingborg Kommune - IT
 
@@ -35,7 +31,7 @@ Alternativt at lave en scheduled mail som sender nye submissions siden sidst.
 
 Er der nogen der har lavet noget der gør dette?
 
-Nøgleord: [excel][notfound] [csv][notfound] [pdf][notfound] [mail][notfound]
+Nøgleord: excel csv pdf mail
 
 ### Svar
 
@@ -45,7 +41,7 @@ Anonym bruger
 
 12-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Mads
 

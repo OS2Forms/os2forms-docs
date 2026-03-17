@@ -3,23 +3,19 @@ layout: default
 title: "Er der nogen, der har arbejdet med opsætningen af kvitteringspdf&#039;en? Jeg kan godt…"
 tags: ['Flows', 'IT', 'Spørgsmål', 'question', 'old-id:430']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Er der nogen, der har arbejdet med opsætningen af kvitteringspdf&#039;en? Jeg kan godt…
 
-[ Del med en kollega ](er-der-nogen-der-har-arbejdet-med-opsætningen-af-kvitteringspdf039en-jeg-kan-godt.md)
 
-[ Contact editorial staff ](er-der-nogen-der-har-arbejdet-med-opsætningen-af-kvitteringspdf039en-jeg-kan-godt.md)
 
 Spørgsmål
 
-Emne:  [Flows][notfound]
+Emne:  Flows
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
@@ -31,14 +27,13 @@ Er der nogen, der har arbejdet med opsætningen af kvitteringspdf'en? Jeg kan go
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 20-12-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Der er ny funktionalitet på vej så pdf kan laves ved hjælp af header, footer, kolofon og tekstområde. (<https://os2web.atlassian.net/browse/OS2FORMS-361>). Forventes færdige primo 2023 hvorefter leverandører kan installere på nyere installationer.

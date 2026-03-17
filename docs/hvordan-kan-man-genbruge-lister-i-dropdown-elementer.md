@@ -3,19 +3,15 @@ layout: default
 title: "Hvordan kan man genbruge lister i dropdown elementer?"
 tags: ['Formular elementer', 'Spørgsmål', 'dropdown', 'genbrug', 'lister', 'options', 'question', 'old-id:247']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan kan man genbruge lister i dropdown elementer?
 
-[ Del med en kollega ](hvordan-kan-man-genbruge-lister-i-dropdown-elementer.md)
 
-[ Contact editorial staff ](hvordan-kan-man-genbruge-lister-i-dropdown-elementer.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
 A
 
@@ -27,7 +23,7 @@ Spørgsmål
 
 Hvordan kan man genbruge lister i dropdown elementer?
 
-Nøgleord: [genbrug][notfound] [options][notfound] [dropdown][notfound] [lister][notfound]
+Nøgleord: genbrug options dropdown lister
 
 ### Svar
 
@@ -37,7 +33,7 @@ Anonym bruger
 
 07-10-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Os2Forms indeholder en rækker standard lister der bruges i "Vælg" webform elementer. 
 

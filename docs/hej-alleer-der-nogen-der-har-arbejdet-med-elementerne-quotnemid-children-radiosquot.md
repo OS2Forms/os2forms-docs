@@ -3,23 +3,19 @@ layout: default
 title: "Hej alleEr der nogen, der har arbejdet med elementerne &quot;NemID Children Radios&quot;…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:466']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hej alleEr der nogen, der har arbejdet med elementerne &quot;NemID Children Radios&quot;…
 
-[ Del med en kollega ](hej-alleer-der-nogen-der-har-arbejdet-med-elementerne-quotnemid-children-radiosquot.md)
 
-[ Contact editorial staff ](hej-alleer-der-nogen-der-har-arbejdet-med-elementerne-quotnemid-children-radiosquot.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 

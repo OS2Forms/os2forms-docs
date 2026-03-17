@@ -3,25 +3,21 @@ layout: default
 title: "Jeg har et lille issue med vores URL’er til eksterne formularer på forms.Når man opretter…"
 tags: ['Digitalisering', 'IT', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'adresser', 'ekstern', 'mønstre', 'nodes', 'question', 'url', 'old-id:412']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Jeg har et lille issue med vores URL’er til eksterne formularer på forms.Når man opretter…
 
-[ Del med en kollega ](jeg-har-et-lille-issue-med-vores-urler-til-eksterne-formularer-pa-formsnar-man-opretter.md)
 
-[ Contact editorial staff ](jeg-har-et-lille-issue-med-vores-urler-til-eksterne-formularer-pa-formsnar-man-opretter.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
-Faggruppe:  [Digitalisering][notfound] [IT][notfound]
+Faggruppe:  Digitalisering IT
 
 SB
 
-[Simon Bæk Højgaard][notfound]
+Simon Bæk Højgaard
 
 IT-teknisk projektleder, IT og Digitalisering, Holstebro Kommune
 
@@ -40,21 +36,20 @@ Det andet billede viser indstillinger for et mønster, som refererer til nodes.
 
 Bilag
 
-[ 2022-06-02_08-20-06 .png ][notfound]
+ 2022-06-02_08-20-06 .png 
 
-Nøgleord: [nodes][notfound] [url][notfound] [mønstre][notfound] [adresser][notfound] [ekstern][notfound]
+Nøgleord: nodes url mønstre adresser ekstern
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/img_20210821_183356.png%3Fitok=F7z504qw)
 
-[Lars Lyngsøe Højberg][notfound]
+Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
 17-01-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Simon
 
@@ -64,13 +59,13 @@ Jeg tænker, du bliver nødt til at have fat i Bellcom (/leverandøren). Jeg kan
 
 SB
 
-[Simon Bæk Højgaard][notfound]
+Simon Bæk Højgaard
 
 IT-teknisk projektleder, IT og Digitalisering, Holstebro Kommune
 
 02-02-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Lars,
 

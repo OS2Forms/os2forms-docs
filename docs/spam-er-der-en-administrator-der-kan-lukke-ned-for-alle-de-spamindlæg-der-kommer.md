@@ -3,25 +3,21 @@ layout: default
 title: "Spam - Er der en administrator der kan lukke ned for alle de spamindlæg der kommer?"
 tags: ['IT', 'Samarbejdet', 'Spørgsmål', 'question', 'old-id:272']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Spam - Er der en administrator der kan lukke ned for alle de spamindlæg der kommer?
 
-[ Del med en kollega ](spam-er-der-en-administrator-der-kan-lukke-ned-for-alle-de-spamindlæg-der-kommer.md)
 
-[ Contact editorial staff ](spam-er-der-en-administrator-der-kan-lukke-ned-for-alle-de-spamindlæg-der-kommer.md)
 
 Spørgsmål
 
-Emne:  [Samarbejdet][notfound]
+Emne:  Samarbejdet
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
@@ -33,15 +29,14 @@ Spam - Er der en administrator der kan lukke ned for alle de spamindlæg der kom
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/img_20210821_183356.png%3Fitok=F7z504qw)
 
-[Lars Lyngsøe Højberg][notfound]
+Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
 19-11-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ole
 

@@ -3,23 +3,19 @@ layout: default
 title: "Er der nogen, der har arbejdet med udregninger, fx baseret på noget input, som brugeren…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:437']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Er der nogen, der har arbejdet med udregninger, fx baseret på noget input, som brugeren…
 
-[ Del med en kollega ](er-der-nogen-der-har-arbejdet-med-udregninger-fx-baseret-pa-noget-input-som-brugeren.md)
 
-[ Contact editorial staff ](er-der-nogen-der-har-arbejdet-med-udregninger-fx-baseret-pa-noget-input-som-brugeren.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
@@ -31,15 +27,14 @@ Er der nogen, der har arbejdet med udregninger, fx baseret på noget input, som 
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/1610006643783.jpg%3Fitok=wpY5wiTH)
 
-[Mads Leonard Fransgård][notfound]
+Mads Leonard Fransgård
 
 Digitaliseringskonsulent, Rudersdal
 
 10-01-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Ida.
 

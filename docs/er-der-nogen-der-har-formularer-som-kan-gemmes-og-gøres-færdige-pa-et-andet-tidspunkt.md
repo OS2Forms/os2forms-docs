@@ -3,23 +3,19 @@ layout: default
 title: "Er der nogen, der har formularer, som kan gemmes og gøres færdige på et andet tidspunkt?…"
 tags: ['Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:461']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Er der nogen, der har formularer, som kan gemmes og gøres færdige på et andet tidspunkt?…
 
-[ Del med en kollega ](er-der-nogen-der-har-formularer-som-kan-gemmes-og-gøres-færdige-pa-et-andet-tidspunkt.md)
 
-[ Contact editorial staff ](er-der-nogen-der-har-formularer-som-kan-gemmes-og-gøres-færdige-pa-et-andet-tidspunkt.md)
 
 Spørgsmål
 
-Emne:  [Formular konfiguration][notfound]
+Emne:  Formular konfiguration
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 

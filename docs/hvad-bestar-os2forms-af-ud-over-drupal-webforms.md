@@ -3,25 +3,20 @@ layout: default
 title: "Hvad består OS2forms af ud over Drupal webforms?"
 tags: ['IT', 'Samarbejdet', 'Spørgsmål', 'question', 'webforms', 'old-id:444']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvad består OS2forms af ud over Drupal webforms?
 
-[ Del med en kollega ](hvad-bestar-os2forms-af-ud-over-drupal-webforms.md)
 
-[ Contact editorial staff ](hvad-bestar-os2forms-af-ud-over-drupal-webforms.md)
 
 Spørgsmål
 
-Emne:  [Samarbejdet][notfound]
+Emne:  Samarbejdet
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
@@ -31,19 +26,18 @@ Spørgsmål
 
 Hvad består OS2forms af ud over Drupal webforms?
 
-Nøgleord: [webforms][notfound]
+Nøgleord: webforms
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 25-01-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 OS2forms er ud over drupal webforms integrationer med
 

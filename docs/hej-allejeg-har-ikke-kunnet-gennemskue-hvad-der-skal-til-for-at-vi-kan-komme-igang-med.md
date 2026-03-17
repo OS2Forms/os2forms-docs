@@ -3,25 +3,21 @@ layout: default
 title: "Hej alleJeg har ikke kunnet gennemskue hvad der skal til for at vi kan komme igang med…"
 tags: ['Digitalisering', 'IT', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'flow', 'forløb', 'hosting', 'question', 'old-id:235']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hej alleJeg har ikke kunnet gennemskue hvad der skal til for at vi kan komme igang med…
 
-[ Del med en kollega ](hej-allejeg-har-ikke-kunnet-gennemskue-hvad-der-skal-til-for-at-vi-kan-komme-igang-med.md)
 
-[ Contact editorial staff ](hej-allejeg-har-ikke-kunnet-gennemskue-hvad-der-skal-til-for-at-vi-kan-komme-igang-med.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
-Faggruppe:  [Digitalisering][notfound] [IT][notfound]
+Faggruppe:  Digitalisering IT
 
 MS
 
-[Mads Skarnager][notfound]
+Mads Skarnager
 
 Digitaliseringskonsulent, Vordingborg Kommune - IT
 
@@ -43,19 +39,18 @@ IT
 
 Vordingborg Kommune
 
-Nøgleord: [hosting][notfound] [forløb][notfound] [flow][notfound]
+Nøgleord: hosting forløb flow
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 13-09-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Mads
 

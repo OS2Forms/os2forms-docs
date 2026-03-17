@@ -3,25 +3,20 @@ layout: default
 title: "Hvordan får jeg logs for hver besvarelse på handlers?"
 tags: ['IT', 'Konfiguration', 'Konfiguration/opsætning af installation', 'Logs', 'Spørgsmål', 'besvarelse', 'question', 'old-id:439']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan får jeg logs for hver besvarelse på handlers?
 
-[ Del med en kollega ](hvordan-far-jeg-logs-for-hver-besvarelse-pa-handlers.md)
 
-[ Contact editorial staff ](hvordan-far-jeg-logs-for-hver-besvarelse-pa-handlers.md)
 
 Spørgsmål
 
-Emne:  [Konfiguration/opsætning af installation][notfound]
+Emne:  Konfiguration/opsætning af installation
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
@@ -31,19 +26,18 @@ Spørgsmål
 
 Hvordan får jeg logs for hver besvarelse på handlers?
 
-Nøgleord: [Logs][notfound] [Konfiguration][notfound] [besvarelse][notfound]
+Nøgleord: Logs Konfiguration besvarelse
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 17-01-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Som administrator /Site-admin kan man på denne side [site]/da/admin/structure/webform/config/submissions aktivere dette punkt.
 

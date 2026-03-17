@@ -3,19 +3,15 @@ layout: default
 title: "Hvordan eksporterer man en webformular?"
 tags: ['Formular elementer', 'Spørgsmål', 'question', 'old-id:210']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan eksporterer man en webformular?
 
-[ Del med en kollega ](hvordan-eksporterer-man-en-webformular.md)
 
-[ Contact editorial staff ](hvordan-eksporterer-man-en-webformular.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
 A
 
@@ -31,26 +27,25 @@ Hvordan eksporterer man en webformular?
 
 OG
 
-[Ole Gram Clausen][notfound]
+Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
 02-02-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Under Webformular > Byg > Eksporter > Hent
 
 Bilag
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 07-02-2023 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Du kan også, som administrator, eksportere og importere formularer og flows på [site]da/admin/config/development/configuration/single/export

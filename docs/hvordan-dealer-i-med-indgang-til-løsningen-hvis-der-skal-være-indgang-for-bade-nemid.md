@@ -3,23 +3,16 @@ layout: default
 title: "Hvordan dealer I med indgang til løsningen? Hvis der skal være indgang for både nemid…"
 tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:431']
 ---
-Brugernavn
-
-Adgangskode
 
 #  Hvordan dealer I med indgang til løsningen? Hvis der skal være indgang for både nemid…
 
-[ Del med en kollega ](hvordan-dealer-i-med-indgang-til-løsningen-hvis-der-skal-være-indgang-for-bade-nemid.md)
-
-[ Contact editorial staff ](hvordan-dealer-i-med-indgang-til-løsningen-hvis-der-skal-være-indgang-for-bade-nemid.md)
-
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
-Faggruppe:  [IT][notfound]
+Faggruppe:  IT
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
@@ -31,40 +24,38 @@ Hvordan dealer I med indgang til løsningen? Hvis der skal være indgang for bå
 
 ### Svar
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 25-11-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Vi skildrer mellem om det er medarbejdere (redaktører) som skall have adgang, hvor vi kan bruge AD-login/medarbejder-login.   
 Borgere bliver ikke oprettet i systemet (efter privacy by design princippet), men kan via Nem-login verificere at de er sig selv.
 
 Begge disse løsninger - og i princippet flere til - kan være ved siden af hinanden.
 
-[Ida Tengstedt][notfound]
+Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
 29-11-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Kan du vise hvordan det ser ud inde i Byg, når der er flere logins sat på?
 
-![](../sites/default/files/styles/large/public/images/user_profiles/pernille.jpg%3Fitok=WG8elh78)
 
-[Pernille Thorsen][notfound]
+Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
 29-11-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Det er faktisk ikke noget man indstiller i byg, men i stedet under "indstillinger".   
 Her er indstilling for at få formularen til automatisk at viderestille til Nemlogin, når formularen besøges.

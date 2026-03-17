@@ -3,19 +3,15 @@ layout: default
 title: "Hvordan man lave simple beregninger direkte i en formular?"
 tags: ['Formular elementer', 'Spørgsmål', 'beregninger', 'question', 'old-id:242']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan man lave simple beregninger direkte i en formular?
 
-[ Del med en kollega ](hvordan-man-lave-simple-beregninger-direkte-i-en-formular.md)
 
-[ Contact editorial staff ](hvordan-man-lave-simple-beregninger-direkte-i-en-formular.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
 A
 
@@ -27,7 +23,7 @@ Spørgsmål
 
 Hvordan man lave simple beregninger direkte i en formular?
 
-Nøgleord: [beregninger][notfound]
+Nøgleord: beregninger
 
 ### Svar
 
@@ -37,7 +33,7 @@ Anonym bruger
 
 31-08-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 For at lave beregninger direkte i en formular kan man anvende elementet "Computed Twig".
 
@@ -86,7 +82,7 @@ Anonym bruger
 
 31-08-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Her er en kopi af vores "Tips og Tricks" formular der bl.a. indeholder eksemplet på beregninger med Computed Twig elementet.
 
@@ -94,15 +90,14 @@ Den kan importeres direkte i din egen løsning.
 
 Bilag
 
-![](../sites/default/files/styles/large/public/images/user_profiles/morten_gundelach_0.jpg%3Fitok=73ocLw--)
 
-[Morten Gundelach][notfound]
+Morten Gundelach
 
 IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
 
 16-03-2022 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 Hej Anders,  
   

@@ -3,19 +3,15 @@ layout: default
 title: "Hvordan skjuler eller viser jeg felter i en formular når der f.eks. klikkes på en…"
 tags: ['Formular elementer', 'Spørgsmål', 'betingelser', 'question', 'old-id:228']
 ---
-Brugernavn
 
-Adgangskode
 
 #  Hvordan skjuler eller viser jeg felter i en formular når der f.eks. klikkes på en…
 
-[ Del med en kollega ](hvordan-skjuler-eller-viser-jeg-felter-i-en-formular-nar-der-feks-klikkes-pa-en.md)
 
-[ Contact editorial staff ](hvordan-skjuler-eller-viser-jeg-felter-i-en-formular-nar-der-feks-klikkes-pa-en.md)
 
 Spørgsmål
 
-Emne:  [Formular elementer][notfound]
+Emne:  Formular elementer
 
 A
 
@@ -27,7 +23,7 @@ Spørgsmål
 
 Hvordan skjuler eller viser jeg felter i en formular når der f.eks. klikkes på en checkbox?
 
-Nøgleord: [betingelser][notfound]
+Nøgleord: betingelser
 
 ### Svar
 
@@ -37,7 +33,7 @@ Anonym bruger
 
 21-05-2021 
 
-[ Svar direkte til dette svar ][notfound]
+ Svar direkte til dette svar 
 
 I OS2Forms kan man anvende "vilkår" til at afgøre om et webform element skal vises ellers skjules.
 
