@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:233']
 
 #  Der er et krav om fremmøde i forbindelse med at man skal melde sig ledig. Under corona er…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -21,17 +17,17 @@ Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
-05-06-2021 
+05-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Der er et krav om fremmøde i forbindelse med at man skal melde sig ledig. Under corona er dette krav sat på pause og vi har lavet en formular som de ledige kan udfylde - det fungere rigtigt fint. Når corona på et tidspunkt er ved at være forbi så forventer vi at kravet vil blive genindført. Vi vil gerne fortsætte med formularen, men hvordan kan vi få det til at hænge sammen med et fremmødekrav.
 
 Er der nogen der har en god ide eller nogle erfaringer?
 
-### Svar
+## Svar
 
-*A*
+**A**
 
 Anonym bruger
 

@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Formular konfiguration', 'Spørgsmål', 'question', 'o
 
 #  [LØST - under selve elementet vælges &quot;Display on&quot; og så &quot;both form and…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  Digitalisering
@@ -20,9 +16,9 @@ Mads Leonard Fransgård
 
 Digitaliseringskonsulent, Rudersdal
 
-15-08-2023 
+15-08-2023
 
-Spørgsmål
+## Spørgsmål
 
 [LØST - under selve elementet vælges "Display on" og så "both form and viewed submission"]
 

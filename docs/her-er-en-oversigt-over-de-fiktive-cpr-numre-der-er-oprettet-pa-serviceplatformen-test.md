@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Konfiguration/opsætning af installation', 'Spørgsmå
 
 #  Her er en oversigt over de fiktive CPR numre der er oprettet på serviceplatformen TEST…
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  Digitalisering
@@ -21,9 +17,9 @@ Jørn Skifter Andersen
 
 IT arkitekt, Bellcom
 
-02-10-2023 
+02-10-2023
 
-Spørgsmål
+## Spørgsmål
 
 Her er en oversigt over de fiktive CPR numre der er oprettet på serviceplatformen TEST for CPR (SF1520).   
   

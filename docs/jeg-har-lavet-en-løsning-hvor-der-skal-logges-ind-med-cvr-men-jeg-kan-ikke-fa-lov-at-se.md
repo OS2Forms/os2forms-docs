@@ -7,10 +7,6 @@ tags: ['Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:432']
 
 #  Jeg har lavet en løsning, hvor der skal logges ind med CVR, men jeg kan ikke få lov at se…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  IT
@@ -19,13 +15,13 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-29-11-2022 
+29-11-2022
 
-Spørgsmål
+## Spørgsmål
 
 Jeg har lavet en løsning, hvor der skal logges ind med CVR, men jeg kan ikke få lov at se løsningen i vis eller som rigtig løsning. Der står bare "Your login type does match the login type required by the webform. Please log out and sign in with a different account". Er det en kendt problematik?
 
-### Svar
+## Svar
 
 
 Pernille Thorsen

@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'hent data', 'question', 'toke
 
 #  Hvordan henter jeg formularindhold via tokens?
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -20,9 +16,9 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-21-04-2023 
+21-04-2023
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan henter jeg formularindhold via tokens?
 

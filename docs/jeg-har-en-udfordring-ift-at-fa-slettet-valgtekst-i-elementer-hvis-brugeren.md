@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:436']
 
 #  Jeg har en udfordring ift. at få slettet valg/tekst i elementer, hvis brugeren…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -19,9 +15,9 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-20-12-2022 
+20-12-2022
 
-Spørgsmål
+## Spørgsmål
 
 Jeg har en udfordring ift. at få slettet valg/tekst i elementer, hvis brugeren ombestemmer sig. I det vedhæftede ser I, at man skal beskrive arbejdet. Hvis man beskriver det, men så ændrer valg til fx Omkobling til separatkloakering, så står teksten der stadig. Teksten bliver også stående, selvom det er markeret at den skal cleares, når den bliver gemt. Nogen der kan hjælpe med det?
 

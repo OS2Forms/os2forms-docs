@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'Spørgsmål', 'question', 'old-id:316']
 
 #  Er det muligt at opsætte os2forms så den kan trække info på brugeren hvis vedkommende er…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 LE
@@ -19,13 +15,13 @@ Lars Enevoldsen
 
 IT-Konsulent, Holstebro Kommune
 
-24-11-2021 
+24-11-2021
 
-Spørgsmål
+## Spørgsmål
 
 Er det muligt at opsætte os2forms så den kan trække info på brugeren hvis vedkommende er med i vores domæne? som det er nu kan jeg anvende f.eks. [current-user:field_afdeling] i opbygningen af en formular men det fungerer kun for os2forms brugere - jeg vil gerne kunne trække info ind hvis brugeren er kendt i vores active directory.
 
-### Svar
+## Svar
 
 
 Lars Lyngsøe Højberg

@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'selvbetjeningsdes
 
 #  HejEr det rigtigt forstået, at &quot;Checkboxes other&quot; er den eneste mulighed for at…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -19,9 +15,9 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-14-11-2022 
+14-11-2022
 
-Spørgsmål
+## Spørgsmål
 
 Hej
 

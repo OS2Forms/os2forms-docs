@@ -7,10 +7,6 @@ tags: ['Flows', 'IT', 'Spørgsmål', 'flow', 'meastro', 'question', 'old-id:227'
 
 #  Hvor finder jeg god inspiration fra Nexttide vedr. flows.?
 
-
-
-Spørgsmål
-
 Emne:  Flows
 
 Faggruppe:  IT
@@ -20,9 +16,9 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-19-05-2021 
+19-05-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvor finder jeg god inspiration fra Nexttide vedr. flows.?
 

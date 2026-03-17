@@ -7,10 +7,6 @@ tags: ['Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:461']
 
 #  Er der nogen, der har formularer, som kan gemmes og gøres færdige på et andet tidspunkt?…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  IT
@@ -19,8 +15,8 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-26-07-2023 
+26-07-2023
 
-Spørgsmål
+## Spørgsmål
 
 Er der nogen, der har formularer, som kan gemmes og gøres færdige på et andet tidspunkt? Jeg synes ikke helt jeg forstår præmisserne for dem.

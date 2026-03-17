@@ -7,10 +7,6 @@ tags: ['Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:231']
 
 #  HejNår man har udfyldt en formular og trykker indsend. Så vil jeg gerne sende formular…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  IT
@@ -21,9 +17,9 @@ Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
-03-06-2021 
+03-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hej
 

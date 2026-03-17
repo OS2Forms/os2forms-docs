@@ -6,23 +6,21 @@ tags: ['Formular elementer', 'Spørgsmål', 'genbrug', 'question', 'referencer',
 
 #  Hvordan indsætter jeg en reference til en standard tekst i webformular?
 
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-04-06-2021 
+04-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan indsætter jeg en reference til en standard tekst i webformular?
 
 Nøgleord: referencer tekster genbrug
 
-### Svar
+## Svar
 
 A
 

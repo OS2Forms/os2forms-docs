@@ -7,10 +7,6 @@ tags: ['IT', 'Samarbejdet', 'Spørgsmål', 'question', 'old-id:272']
 
 #  Spam - Er der en administrator der kan lukke ned for alle de spamindlæg der kommer?
 
-
-
-Spørgsmål
-
 Emne:  Samarbejdet
 
 Faggruppe:  IT
@@ -21,13 +17,13 @@ Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
-11-11-2021 
+11-11-2021
 
-Spørgsmål
+## Spørgsmål
 
 Spam - Er der en administrator der kan lukke ned for alle de spamindlæg der kommer?
 
-### Svar
+## Svar
 
 
 Lars Lyngsøe Højberg

@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'Spørgsmål', 'question', 'vejledninger', 'old-id:
 
 #  Hermed en vejledning i kreation af MEGET simple formularer.
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 
@@ -18,9 +14,9 @@ Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
-31-08-2021 
+31-08-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hermed en vejledning i kreation af MEGET simple formularer.
 

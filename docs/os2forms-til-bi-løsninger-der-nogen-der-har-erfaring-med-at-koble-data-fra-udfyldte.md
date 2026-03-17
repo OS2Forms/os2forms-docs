@@ -7,10 +7,6 @@ tags: ['BI', 'Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:
 
 #  OS2Forms til BI-løsningEr der nogen der har erfaring med at koble data fra udfyldte…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  IT
@@ -21,9 +17,9 @@ Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
-30-07-2021 
+30-07-2021
 
-Spørgsmål
+## Spørgsmål
 
 OS2Forms til BI-løsning
 

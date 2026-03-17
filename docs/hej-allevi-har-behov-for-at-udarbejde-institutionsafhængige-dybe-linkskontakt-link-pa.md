@@ -6,8 +6,6 @@ tags: ['Børn og Unge', 'Formular elementer', 'Spørgsmål', 'dybe links', 'ques
 
 #  Hej alle.Vi har behov for at udarbejde institutionsafhængige dybe links/kontakt-link på…
 
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  Børn og Unge
@@ -18,9 +16,9 @@ Kenneth Poulsen
 
 IT-konsulent, Rudersdal kommune, Dagtilbudsområdets Sekretariat
 
-20-08-2021 
+20-08-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hej alle.
 

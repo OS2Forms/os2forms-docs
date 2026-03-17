@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'overskrift', 'question', 'rad
 
 #  Hvordan ændres radioknapper styling til at ligne de andre input overskrifter?Jeg kunne…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -20,9 +16,9 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-17-09-2021 
+17-09-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan ændres radioknapper styling til at ligne de andre input overskrifter?  
   

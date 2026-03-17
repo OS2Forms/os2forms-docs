@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Formular elementer', 'IT', 'Spørgsmål', 'question', 
 
 #  Hej med jerJeg har nogle udfordringer med at få &quot;skala&quot; funktionen til at blive…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  Digitalisering IT
@@ -21,9 +17,9 @@ Mads Skarnager
 
 Digitaliseringskonsulent, Vordingborg Kommune - IT
 
-24-06-2021 
+24-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hej med jer
 

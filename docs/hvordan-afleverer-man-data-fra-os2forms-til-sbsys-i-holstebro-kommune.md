@@ -6,23 +6,21 @@ tags: ['Formular konfiguration', 'Spørgsmål', 'aflevering', 'format', 'holsteb
 
 #  Hvordan afleverer man data fra OS2Forms til SBSYS i Holstebro Kommune?
 
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 A
 
 Anonym bruger
 
-12-05-2021 
+12-05-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan afleverer man data fra OS2Forms til SBSYS i Holstebro Kommune?
 
 Nøgleord: holstebro format aflevering sbsip
 
-### Svar
+## Svar
 
 A
 

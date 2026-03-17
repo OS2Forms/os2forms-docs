@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Formular elementer', 'GDPR', 'Spørgsmål', 'brugerafg
 
 #  Kære OS2&#039;ere.Vi vil i Rudersdal gerne til at anvende Forms på mere følsomme områder…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  Digitalisering
@@ -20,9 +16,9 @@ Mads Leonard Fransgård
 
 Digitaliseringskonsulent, Rudersdal
 
-23-09-2022 
+23-09-2022
 
-Spørgsmål
+## Spørgsmål
 
 Kære OS2'ere.
 

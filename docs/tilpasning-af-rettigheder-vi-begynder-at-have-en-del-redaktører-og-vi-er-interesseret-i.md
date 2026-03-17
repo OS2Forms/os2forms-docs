@@ -7,10 +7,6 @@ tags: ['IT', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'questio
 
 #  Tilpasning af rettigheder. Vi begynder at have en del redaktører og vi er interesseret i…
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  IT
@@ -21,13 +17,13 @@ Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
-11-08-2021 
+11-08-2021
 
-Spørgsmål
+## Spørgsmål
 
 Tilpasning af rettigheder. Vi begynder at have en del redaktører og vi er interesseret i at alle kan se alle webforms, men kun redigere i egne webforms. Er der nogen der ved hvilke rettigheder der skal sættes på for at få det til at virke?
 
-### Svar
+## Svar
 
 
 Pernille Thorsen

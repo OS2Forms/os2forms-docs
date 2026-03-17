@@ -7,25 +7,21 @@ tags: ['ERFA', 'Samarbejdet', 'Spørgsmål', 'question', 'old-id:206']
 
 #  Hvad skal vi tale om til næste ERFA møde?
 
-
-
-Spørgsmål
-
 Emne:  Samarbejdet
 
 A
 
 Anonym bruger
 
-17-12-2020 
+17-12-2020
 
-Spørgsmål
+## Spørgsmål
 
 Hvad skal vi tale om til næste ERFA møde?
 
 Nøgleord: ERFA
 
-### Svar
+## Svar
 
 A
 

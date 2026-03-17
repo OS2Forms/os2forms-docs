@@ -7,25 +7,21 @@ tags: ['E-Læring', 'Formular elementer', 'Spørgsmål', 'aflevering', 'betingel
 
 #  Findes der online tutorials til Drupal Webforms?
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-21-05-2021 
+21-05-2021
 
-Spørgsmål
+## Spørgsmål
 
 Findes der online tutorials til Drupal Webforms?
 
 Nøgleord: vejledninger tutorial betingelser aflevering E-Læring
 
-### Svar
+## Svar
 
 A
 

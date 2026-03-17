@@ -7,25 +7,21 @@ tags: ['Formular elementer', 'Spørgsmål', 'dropdown', 'genbrug', 'lister', 'op
 
 #  Hvordan kan man genbruge lister i dropdown elementer?
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-07-10-2021 
+07-10-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan kan man genbruge lister i dropdown elementer?
 
 Nøgleord: genbrug options dropdown lister
 
-### Svar
+## Svar
 
 A
 

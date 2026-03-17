@@ -7,25 +7,21 @@ tags: ['Konfiguration/opsætning af installation', 'Spørgsmål', 'dropdown', 'g
 
 #  Hvordan kan man oprette lister til genbrug i dropdown elementer?
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 A
 
 Anonym bruger
 
-07-10-2021 
+07-10-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan kan man oprette lister til genbrug i dropdown elementer?
 
 Nøgleord: lister dropdown genbrug valg options
 
-### Svar
+## Svar
 
 A
 

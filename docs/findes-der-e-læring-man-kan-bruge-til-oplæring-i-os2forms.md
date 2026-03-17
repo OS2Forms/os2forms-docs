@@ -6,23 +6,21 @@ tags: ['E-Læring', 'Formular elementer', 'Spørgsmål', 'elearning', 'implement
 
 #  Findes der e-Læring man kan bruge til oplæring i OS2Forms?
 
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-01-06-2021 
+01-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Findes der e-Læring man kan bruge til oplæring i OS2Forms?
 
 Nøgleord: elearning E-Læring implementering
 
-### Svar
+## Svar
 
 A
 

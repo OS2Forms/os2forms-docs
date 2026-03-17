@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:271']
 
 #  Var det Ballerup der havde fundet en løsning på at regne alder ud fra CPR nummer? Og vil…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -21,13 +17,13 @@ Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
-11-11-2021 
+11-11-2021
 
-Spørgsmål
+## Spørgsmål
 
 Var det Ballerup der havde fundet en løsning på at regne alder ud fra CPR nummer? Og vil I dele?
 
-### Svar
+## Svar
 
 A
 

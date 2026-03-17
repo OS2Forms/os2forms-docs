@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Formular konfiguration', 'Spørgsmål', 'question', 'o
 
 #  Handler eller lign, der sender i json?
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  Digitalisering
@@ -20,13 +16,13 @@ Morten Gundelach
 
 IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
 
-27-04-2023 
+27-04-2023
 
-Spørgsmål
+## Spørgsmål
 
 Handler eller lign, der sender i json?
 
-### Svar
+## Svar
 
 
 Morten Gundelach

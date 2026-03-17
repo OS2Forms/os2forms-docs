@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Konfiguration/opsætning af installation', 'Spørgsmå
 
 #  Hvordan bruger man Task Console mere effektivt?
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  Digitalisering
@@ -20,13 +16,13 @@ Morten Gundelach
 
 IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
 
-05-05-2022 
+05-05-2022
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan bruger man Task Console mere effektivt?
 
-### Svar
+## Svar
 
 
 Morten Gundelach

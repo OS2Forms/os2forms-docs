@@ -7,10 +7,6 @@ tags: ['Formular konfiguration', 'IT', 'NGDP', 'Spørgsmål', 'aflevering', 'dig
 
 #  Hvordan sender OS2Forms digital post?
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  IT
@@ -19,15 +15,15 @@ A
 
 Anonym bruger
 
-14-09-2021 
+14-09-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan sender OS2Forms digital post?
 
 Nøgleord: NGDP digital post aflevering
 
-### Svar
+## Svar
 
 A
 

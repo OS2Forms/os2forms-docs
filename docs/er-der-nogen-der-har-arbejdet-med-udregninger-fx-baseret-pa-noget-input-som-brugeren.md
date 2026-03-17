@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:437']
 
 #  Er der nogen, der har arbejdet med udregninger, fx baseret på noget input, som brugeren…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -19,13 +15,13 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-09-01-2023 
+09-01-2023
 
-Spørgsmål
+## Spørgsmål
 
 Er der nogen, der har arbejdet med udregninger, fx baseret på noget input, som brugeren giver? Altså de der computed tokens/computed twigs.
 
-### Svar
+## Svar
 
 
 Mads Leonard Fransgård

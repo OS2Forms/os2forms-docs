@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'IT', 'Konfiguration/opsætning af installation', 'Spø
 
 #  Hej alleJeg har ikke kunnet gennemskue hvad der skal til for at vi kan komme igang med…
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  Digitalisering IT
@@ -21,9 +17,9 @@ Mads Skarnager
 
 Digitaliseringskonsulent, Vordingborg Kommune - IT
 
-11-06-2021 
+11-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hej alle
 

@@ -6,8 +6,6 @@ tags: ['Digitalisering', 'Formular elementer', 'Spørgsmål', 'question', 'old-i
 
 #  Hvordan laver man udregninger med computed twig?
 
-Spørgsmål
-
 Emne:  [Formular elementer][notfound]
 
 Faggruppe:  [Digitalisering][notfound]
@@ -18,13 +16,13 @@ Faggruppe:  [Digitalisering][notfound]
 
 IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
 
-13-10-2022 
+13-10-2022
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan laver man udregninger med computed twig? 
 
-### Svar
+## Svar
 
 ![](../sites/default/files/styles/large/public/images/user_profiles/morten_gundelach_0.jpg%3Fitok=73ocLw--)
 

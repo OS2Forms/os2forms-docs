@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:466']
 
 #  Hej alleEr der nogen, der har arbejdet med elementerne &quot;NemID Children Radios&quot;…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -19,9 +15,9 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-01-12-2023 
+01-12-2023
 
-Spørgsmål
+## Spørgsmål
 
 Hej alle
 

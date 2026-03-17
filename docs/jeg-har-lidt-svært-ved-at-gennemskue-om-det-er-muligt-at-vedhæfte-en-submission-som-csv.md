@@ -7,10 +7,6 @@ tags: ['Arbejdsmarked', 'Digitalisering', 'Formular konfiguration', 'IT', 'Spør
 
 #  Jeg har lidt svært ved at gennemskue om det er muligt at vedhæfte en submission som .csv,…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  Arbejdsmarked Digitalisering IT
@@ -21,9 +17,9 @@ Mads Skarnager
 
 Digitaliseringskonsulent, Vordingborg Kommune - IT
 
-26-04-2021 
+26-04-2021
 
-Spørgsmål
+## Spørgsmål
 
 Jeg har lidt svært ved at gennemskue om det er muligt at vedhæfte en submission som .csv, på samme måde som det kan gøres med en PDF handler. 
 
@@ -33,7 +29,7 @@ Er der nogen der har lavet noget der gør dette?
 
 Nøgleord: excel csv pdf mail
 
-### Svar
+## Svar
 
 A
 

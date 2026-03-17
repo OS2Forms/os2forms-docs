@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'purge', 'question', 'slet', '
 
 #  Hvordan opsætter jeg automatisk sletning af indsendelser på formularer, når mit…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -20,9 +16,9 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-19-05-2021 
+19-05-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan opsætter jeg automatisk sletning af indsendelser på formularer, når mit sletningsmodul (purge) har disse indstillinger?  
   
@@ -30,7 +26,7 @@ Hvordan opsætter jeg automatisk sletning af indsendelser på formularer, når m
 
 Nøgleord: purge slet sletning
 
-### Svar
+## Svar
 
 A
 

@@ -7,10 +7,6 @@ tags: ['IT', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'questio
 
 #  Nogen herinde, der kender en god online regular expression generator?
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  IT
@@ -20,13 +16,13 @@ Lars Lyngsøe Højberg
 
 IT-Konsulent, Rebild Kommune / Center Børn og Unge
 
-10-06-2021 
+10-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Nogen herinde, der kender en god online regular expression generator?
 
-### Svar
+## Svar
 
 A
 

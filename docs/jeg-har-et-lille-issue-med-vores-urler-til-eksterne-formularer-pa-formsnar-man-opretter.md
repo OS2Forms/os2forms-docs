@@ -5,11 +5,7 @@ tags: ['Digitalisering', 'IT', 'Konfiguration/opsætning af installation', 'Spø
 ---
 
 
-#  Jeg har et lille issue med vores URL’er til eksterne formularer på forms.Når man opretter…
-
-
-
-Spørgsmål
+#  Jeg har et lille issue med vores URL'er til eksterne formularer på forms.Når man opretter…
 
 Emne:  Konfiguration/opsætning af installation
 
@@ -21,9 +17,9 @@ Simon Bæk Højgaard
 
 IT-teknisk projektleder, IT og Digitalisering, Holstebro Kommune
 
-02-06-2022 
+02-06-2022
 
-Spørgsmål
+## Spørgsmål
 
 Jeg har et lille issue med vores URL’er til eksterne formularer på forms.
 
@@ -40,7 +36,7 @@ Bilag
 
 Nøgleord: nodes url mønstre adresser ekstern
 
-### Svar
+## Svar
 
 
 Lars Lyngsøe Højberg

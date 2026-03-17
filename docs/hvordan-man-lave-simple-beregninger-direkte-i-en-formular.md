@@ -7,25 +7,21 @@ tags: ['Formular elementer', 'Spørgsmål', 'beregninger', 'question', 'old-id:2
 
 #  Hvordan man lave simple beregninger direkte i en formular?
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-31-08-2021 
+31-08-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan man lave simple beregninger direkte i en formular?
 
 Nøgleord: beregninger
 
-### Svar
+## Svar
 
 A
 

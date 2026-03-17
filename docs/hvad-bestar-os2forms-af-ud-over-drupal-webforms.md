@@ -7,10 +7,6 @@ tags: ['IT', 'Samarbejdet', 'Spørgsmål', 'question', 'webforms', 'old-id:444']
 
 #  Hvad består OS2forms af ud over Drupal webforms?
 
-
-
-Spørgsmål
-
 Emne:  Samarbejdet
 
 Faggruppe:  IT
@@ -20,15 +16,15 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-25-01-2023 
+25-01-2023
 
-Spørgsmål
+## Spørgsmål
 
 Hvad består OS2forms af ud over Drupal webforms?
 
 Nøgleord: webforms
 
-### Svar
+## Svar
 
 
 Pernille Thorsen

@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'betingelser', 'question', 'ol
 
 #  Hej Når man anvender funktionen: &quot;Checkboxes other&quot; i en formular, er det så…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -21,9 +17,9 @@ Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
-21-06-2021 
+21-06-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hej 
 

@@ -7,25 +7,21 @@ tags: ['Formular elementer', 'Spørgsmål', 'question', 'old-id:212']
 
 #  Hvor finder jeg feltvalidering i OS2Forms 2.0?I den gamle udgave kunne jeg lave ret…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-22-02-2021 
+22-02-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvor finder jeg feltvalidering i OS2Forms 2.0?
 
 I den gamle udgave kunne jeg lave ret avanceret feltvalidering, fx regulære udtryk og sammenligninger. Det kan jeg ikke hitte i 2.0.
 
-### Svar
+## Svar
 
 OG
 

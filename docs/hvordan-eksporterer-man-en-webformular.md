@@ -7,23 +7,19 @@ tags: ['Formular elementer', 'Spørgsmål', 'question', 'old-id:210']
 
 #  Hvordan eksporterer man en webformular?
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-02-02-2021 
+02-02-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan eksporterer man en webformular?
 
-### Svar
+## Svar
 
 OG
 

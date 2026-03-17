@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Formular elementer', 'Spørgsmål', 'question', 'old-i
 
 #  Kan man inde i selvbtjeningsløsningen give adgang til dokumenter?Det kunne f.eks. være…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  Digitalisering
@@ -21,9 +17,9 @@ Charlotte Bülow
 
 Digitaliseringskonsulent, Favrskov Kommune - it
 
-17-05-2021 
+17-05-2021
 
-Spørgsmål
+## Spørgsmål
 
 Kan man inde i selvbtjeningsløsningen give adgang til dokumenter?
 

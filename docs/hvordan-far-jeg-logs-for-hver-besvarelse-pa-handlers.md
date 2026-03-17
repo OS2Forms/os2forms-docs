@@ -7,10 +7,6 @@ tags: ['IT', 'Konfiguration', 'Konfiguration/opsætning af installation', 'Logs'
 
 #  Hvordan får jeg logs for hver besvarelse på handlers?
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  IT
@@ -20,9 +16,9 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-17-01-2023 
+17-01-2023
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan får jeg logs for hver besvarelse på handlers?
 

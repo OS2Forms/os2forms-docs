@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:250']
 
 #  Hvordan kontrolleres om et indtastet CPR-nummer er korrekt?
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -19,13 +15,13 @@ A
 
 Anonym bruger
 
-29-10-2021 
+29-10-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan kontrolleres om et indtastet CPR-nummer er korrekt?
 
-### Svar
+## Svar
 
 A
 

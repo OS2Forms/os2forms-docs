@@ -6,8 +6,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:431']
 
 #  Hvordan dealer I med indgang til løsningen? Hvis der skal være indgang for både nemid…
 
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -16,13 +14,13 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-25-11-2022 
+25-11-2022
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan dealer I med indgang til løsningen? Hvis der skal være indgang for både nemid/mitid og medarbejdersignatur og evt. mulighed for intet login
 
-### Svar
+## Svar
 
 
 Pernille Thorsen

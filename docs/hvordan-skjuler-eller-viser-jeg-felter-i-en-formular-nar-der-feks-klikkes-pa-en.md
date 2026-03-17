@@ -7,25 +7,21 @@ tags: ['Formular elementer', 'Spørgsmål', 'betingelser', 'question', 'old-id:2
 
 #  Hvordan skjuler eller viser jeg felter i en formular når der f.eks. klikkes på en…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-21-05-2021 
+21-05-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan skjuler eller viser jeg felter i en formular når der f.eks. klikkes på en checkbox?
 
 Nøgleord: betingelser
 
-### Svar
+## Svar
 
 A
 

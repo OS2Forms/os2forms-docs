@@ -7,10 +7,6 @@ tags: ['Formular konfiguration', 'IT', 'Spørgsmål', 'question', 'old-id:222']
 
 #  Kvittering til Digital postVi er i gang med at sætte OS2Forms op således at borgerne kan…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  IT
@@ -21,9 +17,9 @@ Ole Gram Clausen
 
 Digitaliseringskonsulent, Digitalisering
 
-22-04-2021 
+22-04-2021
 
-Spørgsmål
+## Spørgsmål
 
 Kvittering til Digital post
 
@@ -31,7 +27,7 @@ Vi er i gang med at sætte OS2Forms op således at borgerne kan få en kvitterin
 
 Er der nogen der har lavet noget der fungere og kan give et hint?
 
-### Svar
+## Svar
 
 
 Pernille Thorsen

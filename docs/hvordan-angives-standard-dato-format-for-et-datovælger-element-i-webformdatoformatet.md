@@ -7,19 +7,15 @@ tags: ['Konfiguration/opsætning af installation', 'Spørgsmål', 'dato', 'datov
 
 #  Hvordan angives standard dato-format for et datovælger element i webform?Datoformatet…
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 A
 
 Anonym bruger
 
-15-12-2020 
+15-12-2020
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan angives standard dato-format for et datovælger element i webform?
 
@@ -27,7 +23,7 @@ Datoformatet skal anvendes når elementet printes til et PDF dokument eller der 
 
 Nøgleord: dato pdf format datovælger
 
-### Svar
+## Svar
 
 A
 

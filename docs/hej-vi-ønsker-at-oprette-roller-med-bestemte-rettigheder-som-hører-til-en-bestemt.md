@@ -7,10 +7,6 @@ tags: ['Formular elementer', 'IT', 'Spørgsmål', 'question', 'old-id:289']
 
 #  Hej Vi ønsker at oprette roller med bestemte rettigheder, som hører til en bestemt…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 Faggruppe:  IT
@@ -21,9 +17,9 @@ Ditte Jensen
 
 Softwareudvikler, Randers Kommune
 
-15-11-2021 
+15-11-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hej 
 
@@ -31,7 +27,7 @@ Vi ønsker at oprette roller med bestemte rettigheder, som hører til en bestemt
 
 Vh Ditte 
 
-### Svar
+## Svar
 
 
 Lars Lyngsøe Højberg

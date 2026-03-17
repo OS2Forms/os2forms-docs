@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Konfiguration/opsætning af installation', 'Spørgsmå
 
 #  Hvorfor kan jeg ikke se &quot;Eksporter&quot; fanen under webformularer eller få lov til…
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  Digitalisering
@@ -19,13 +15,13 @@ A
 
 Anonym bruger
 
-17-12-2020 
+17-12-2020
 
-Spørgsmål
+## Spørgsmål
 
 Hvorfor kan jeg ikke se "Eksporter" fanen under webformularer eller få lov til at importere webformularer?
 
-### Svar
+## Svar
 
 A
 

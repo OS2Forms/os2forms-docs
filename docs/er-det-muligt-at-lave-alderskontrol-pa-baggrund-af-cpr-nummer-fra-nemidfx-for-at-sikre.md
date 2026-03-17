@@ -7,25 +7,21 @@ tags: ['Formular elementer', 'Spørgsmål', 'question', 'old-id:211']
 
 #  Er det muligt at lave alderskontrol på baggrund af CPR-nummer fra NemID?Fx for at sikre…
 
-
-
-Spørgsmål
-
 Emne:  Formular elementer
 
 A
 
 Anonym bruger
 
-22-02-2021 
+22-02-2021
 
-Spørgsmål
+## Spørgsmål
 
 Er det muligt at lave alderskontrol på baggrund af CPR-nummer fra NemID?
 
 Fx for at sikre at personen er fyldt 18 eller er mellem 18 og 67 år gammel?
 
-### Svar
+## Svar
 
 OG
 

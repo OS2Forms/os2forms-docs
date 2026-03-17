@@ -7,10 +7,6 @@ tags: ['Digitalisering', 'Formular konfiguration', 'Spørgsmål', 'question', 'o
 
 #  Enkelt submission value på subject i email-handler?kære kloge personer.Har i en god…
 
-
-
-Spørgsmål
-
 Emne:  Formular konfiguration
 
 Faggruppe:  Digitalisering
@@ -20,9 +16,9 @@ Mads Leonard Fransgård
 
 Digitaliseringskonsulent, Rudersdal
 
-10-01-2023 
+10-01-2023
 
-Spørgsmål
+## Spørgsmål
 
 Enkelt submission value på subject i email-handler?
 
@@ -32,7 +28,7 @@ Har i en god løsning til at få en værdi fra et givent element over i emnefelt
 
 Håber i forstår og kan hjælpe :)
 
-### Svar
+## Svar
 
 
 Mads Leonard Fransgård

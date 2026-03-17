@@ -6,8 +6,6 @@ tags: ['IT', 'Konfiguration/opsætning af installation', 'Opsætning', 'Spørgsm
 
 #  Hvordan får en forløbsdesigner webformularer (struktur-versionen) i deres menu?
 
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  IT
@@ -17,15 +15,15 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-17-03-2021 
+17-03-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan får en forløbsdesigner webformularer (struktur-versionen) i deres menu?
 
 Nøgleord: Opsætning
 
-### Svar
+## Svar
 
 
 Pernille Thorsen

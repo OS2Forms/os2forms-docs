@@ -7,10 +7,6 @@ tags: ['IT', 'Konfiguration/opsætning af installation', 'Spørgsmål', 'questio
 
 #  Hvordan ser en formular skabelon ud?ImporterGå til [din os2forms]/da/admin/config…
 
-
-
-Spørgsmål
-
 Emne:  Konfiguration/opsætning af installation
 
 Faggruppe:  IT
@@ -20,9 +16,9 @@ Pernille Thorsen
 
 Projektleder, ITK, Aarhus Kommune
 
-23-08-2021 
+23-08-2021
 
-Spørgsmål
+## Spørgsmål
 
 Hvordan ser en formular skabelon ud?
 

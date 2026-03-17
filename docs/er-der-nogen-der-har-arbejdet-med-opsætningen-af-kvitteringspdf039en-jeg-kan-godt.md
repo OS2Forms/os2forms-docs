@@ -7,10 +7,6 @@ tags: ['Flows', 'IT', 'Spørgsmål', 'question', 'old-id:430']
 
 #  Er der nogen, der har arbejdet med opsætningen af kvitteringspdf&#039;en? Jeg kan godt…
 
-
-
-Spørgsmål
-
 Emne:  Flows
 
 Faggruppe:  IT
@@ -19,13 +15,13 @@ Ida Tengstedt
 
 Digitaliseringskonsulent, Skanderborg Kommune
 
-14-11-2022 
+14-11-2022
 
-Spørgsmål
+## Spørgsmål
 
 Er der nogen, der har arbejdet med opsætningen af kvitteringspdf'en? Jeg kan godt selv sidde og finde alt muligt html og css frem fra gamle studiebøger og google, men det virker som et meget stort arbejde for hver løsning. Er der en nem måde at få alle svar ind i pdf på en overskuelig og letlæselig måde?
 
-### Svar
+## Svar
 
 
 Pernille Thorsen
