@@ -3,6 +3,7 @@ layout: default
 title: "Deling af formularer"
 has_children: true
 tags: ['Konfiguration/opsætning af installation', 'old-id:446']
+nav_order : 2
 ---
 Vi kan dele formularer mellem installationer. Der bliver delt
 

@@ -3,6 +3,7 @@ layout: default
 title: "Tilpas størrelse på felter"
 has_children: true
 tags: ['Formular elementer', 'old-id:420']
+nav_order : 5
 ---
 for at tilpasse vores formularer til det fælles designsystem. Skal f.eks. felter som navn ikke fylde hele skærmen, men tilpasses. Se eksempler her:
 

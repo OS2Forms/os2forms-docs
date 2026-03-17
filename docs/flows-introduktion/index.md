@@ -3,6 +3,7 @@ layout: default
 title: "Flows introduktion"
 has_children: true
 tags: ['Flows', 'old-id:214']
+nav_order : 3
 ---
 At kaste sig ud flows er noget du skal begynde på, når du er komfortabel med formularerne i os2forms og har mindst en håndfuld formularer i drift.
 
