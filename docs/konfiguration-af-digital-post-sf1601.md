@@ -14,4 +14,4 @@ Trin | Handling | Illustration
 2 | Konfigurér modulet på Indstillinger => OS2forms Digital post [site]/da/admin/os2forms_digital_post/settings |   
 3 | Klik gem |   
   
-Herefter kan du følge vejledning for [opsætning på en formular][notfound].
+Herefter kan du følge vejledning for opsætning på en formular.
