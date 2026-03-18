@@ -1,0 +1,47 @@
+---
+layout: default
+title: "Hvordan laver man udregninger med computed twig?"
+parent: "Spørgsmål"
+permalink: /spoergsmaal/hvordan-laver-man-udregninger-med-computed-twig/
+tags: ['Digitalisering', 'Formular elementer', 'Spørgsmål', 'question', 'old-id:426']
+---
+
+#  Hvordan laver man udregninger med computed twig?
+
+Emne:  Formular elementer
+
+Faggruppe:  Digitalisering
+
+Morten Gundelach
+
+IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
+
+13-10-2022
+
+## Spørgsmål
+
+Hvordan laver man udregninger med computed twig? 
+
+## Svar
+
+Morten Gundelach
+
+IT-Projektleder, Hillerød Kommune, Digitalisering og IKT-drift
+
+14-10-2022
+
+Hvordan man laver udregninger med Computed twig elementet, kan jeg ikke helt forklare, men jeg kan vise et eksempel
+
+Hvordan man laver udregninger med Computed twig elementet kan jeg ikke helt forklare, men jeg kan give et eksempel på, hvordan det er gjort. Tak til udvikler Mikkel fra Aarhus ITK for at hjælpe mig med det.
+
+I mit eksempel skal består regneopgaven i at lægge tal sammen fra et "Custom composite" element, der fungerer som en tabel. Resultatet præsenteres i formularen direkte af "Computed twig" elementet. Som et ekstra benspænd, kan brugeren tilføje flere rækker i tabellen, så det skal, der tages højde for. Se vedhæftede screenshot "Computed twig".
+
+Koden skrives i feltet ”Computed value/markup” og ser sådan her ud:
+
+{% raw %}
+{{ data.ruten|default([])|reduce((carry, row) => carry + row.kilometer|default(0), 0) }}
+{% endraw %}
+
+I rullemenuen ”Remove whitespace around the” vælges “computed value and between HTML tags”.
+
+Bilag
