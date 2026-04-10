@@ -23,13 +23,13 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 ## [#211](https://github.com/OS2Forms/os2forms/issues/211): Diskussion og fastlæggelse af forårsreleasen 2026
 
 1. **[#200](https://github.com/OS2Forms/os2forms/issues/200): Modulet "CKEditor 4 (contrib) (ckeditor)" bør erstattes (af "CKEditor 5 (ckeditor5)") da det er deprecated**
-2. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
-
-   * Denne opgave er godkendt og afventer ITK's Review. Estimat på 72 timer er godkendt fra koordinationsgruppen.
-
-3. **[#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026**
+2. **[#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026**
 
    * Denne opgave afventer pt. svar fra Klimadatastyrelsen omkring adgang til Adressevælgeren/API. Estimat/forundersøgelse på 8 timer er godkendt fra koordinationsgruppen.
+
+3. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
+
+   * Denne opgave er godkendt og afventer ITK's Review. Estimat på 72 timer er godkendt fra koordinationsgruppen.
 
 4. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
 
@@ -46,13 +46,21 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 ## Release kandidater
 
-1. **[#201](https://github.com/OS2Forms/os2forms/issues/201): CPR-validator-elementet skal IKKE acceptere bindestreg i cpr numre**
-2. **[#237](https://github.com/OS2Forms/os2forms/issues/237): Vejledning i opsætning af Digital Post mod Serviceplatformenens testmiljø**
-3. **[#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO**
-4. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
-5. **[#226](https://github.com/OS2Forms/os2forms/issues/226): Dependabot bør sættes op i OS2forms GitHub**
-6. **[#188](https://github.com/OS2Forms/os2forms/issues/188): OS2forms sync modul not working**
-7. **[#244](https://github.com/OS2Forms/os2forms/issues/244): Non-installable dependencies due to non-updated modules**
+1. **[#188](https://github.com/OS2Forms/os2forms/issues/188): OS2forms sync modul not working**
+2. **[#201](https://github.com/OS2Forms/os2forms/issues/201): CPR-validator-elementet skal IKKE acceptere bindestreg i cpr numre**
+3. **[#226](https://github.com/OS2Forms/os2forms/issues/226): Dependabot bør sættes op i OS2forms GitHub**
+4. **[#237](https://github.com/OS2Forms/os2forms/issues/237): Vejledning i opsætning af Digital Post mod Serviceplatformenens testmiljø**
+5. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
+6. **[#244](https://github.com/OS2Forms/os2forms/issues/244): Non-installable dependencies due to non-updated modules**
+7. **[#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af "Webform Encrypt" og "OS2Forms Encrypt"**
+8. **[#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO**
+9. **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
+
+## Afventende hotfixes (PR fra ITK, som mangler review mv.)
+
+* [#224](https://github.com/OS2Forms/os2forms/pull/224): Added custom list builder class for webform submissions
+* [#307](https://github.com/OS2Forms/os2forms/pull/307): Added proper entity access en preview routes
+* [#315](https://github.com/OS2Forms/os2forms/pull/315): Added “Display on“ options to Map element
 
 ---
 
