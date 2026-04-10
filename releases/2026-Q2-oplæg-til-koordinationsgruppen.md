@@ -31,7 +31,7 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
    * Denne opgave afventer pt. svar fra Klimadatastyrelsen omkring adgang til Adressevælgeren/API. Estimat/forundersøgelse på 8 timer er godkendt fra koordinationsgruppen.
 
-4. Diverse bug-fixes (pt. unreleased i Develop-branchen)
+4. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
 
    * Update Digital Post handler error messages
    * Update README
@@ -51,6 +51,8 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 3. **[#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO**
 4. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
 5. **[#226](https://github.com/OS2Forms/os2forms/issues/226): Dependabot bør sættes op i OS2forms GitHub**
+
+---
 
 ## Ikke inkluderet i denne release
 
