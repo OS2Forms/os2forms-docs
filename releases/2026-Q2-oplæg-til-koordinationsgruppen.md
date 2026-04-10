@@ -51,6 +51,8 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 3. **[#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO**
 4. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
 5. **[#226](https://github.com/OS2Forms/os2forms/issues/226): Dependabot bør sættes op i OS2forms GitHub**
+6. **[#188](https://github.com/OS2Forms/os2forms/issues/188): OS2forms sync modul not working**
+7. **[#244](https://github.com/OS2Forms/os2forms/issues/244): Non-installable dependencies due to non-updated modules**
 
 ---
 
