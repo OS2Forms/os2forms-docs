@@ -29,9 +29,11 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 3. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
 
-   * Denne opgave er godkendt, ITK har lavet Review og afventer Bellcoms sidste tilpasninger. Estimat på 72 timer til Bellcom er godkendt fra koordinationsgruppen.
+   * Denne opgave er godkendt, ITK har lavet Review. Bellcom sørger for at det kan komme med i denne release. Estimat på 72 timer til Bellcom er godkendt fra koordinationsgruppen.
 
-4. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
+4. **[#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x**
+
+5. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
 
    * Fjernpost virker ikke efter skifte fra PostNord til DAO
    * Update Digital Post handler error messages
