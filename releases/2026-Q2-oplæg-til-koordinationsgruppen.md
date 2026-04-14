@@ -29,10 +29,11 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 3. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
 
-   * Denne opgave er godkendt og afventer ITK's Review. Estimat på 72 timer er godkendt fra koordinationsgruppen.
+   * Denne opgave er godkendt, ITK har lavet Review og afventer Bellcoms sidste tilpasninger. Estimat på 72 timer til Bellcom er godkendt fra koordinationsgruppen.
 
 4. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
 
+   * Fjernpost virker ikke efter skifte fra PostNord til DAO
    * Update Digital Post handler error messages
    * Update README
    * Add address information to Digital Post shipments to ensure "fjernprint" can be sent
@@ -53,8 +54,7 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 5. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
 6. **[#244](https://github.com/OS2Forms/os2forms/issues/244): Non-installable dependencies due to non-updated modules**
 7. **[#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af "Webform Encrypt" og "OS2Forms Encrypt"**
-8. **[#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO**
-9. **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
+8. **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
 ## Afventende hotfixes (PR fra ITK, som mangler review mv.)
 
