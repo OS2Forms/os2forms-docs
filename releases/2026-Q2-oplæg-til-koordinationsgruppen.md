@@ -53,10 +53,9 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 2. **[#201](https://github.com/OS2Forms/os2forms/issues/201): CPR-validator-elementet skal IKKE acceptere bindestreg i cpr numre**
 3. **[#226](https://github.com/OS2Forms/os2forms/issues/226): Dependabot bør sættes op i OS2forms GitHub**
 4. **[#237](https://github.com/OS2Forms/os2forms/issues/237): Vejledning i opsætning af Digital Post mod Serviceplatformenens testmiljø**
-5. **[#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900**
-6. **[#244](https://github.com/OS2Forms/os2forms/issues/244): Non-installable dependencies due to non-updated modules**
-7. **[#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af "Webform Encrypt" og "OS2Forms Encrypt"**
-8. **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
+5. **[#244](https://github.com/OS2Forms/os2forms/issues/244): Non-installable dependencies due to non-updated modules**
+6. **[#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af "Webform Encrypt" og "OS2Forms Encrypt"**
+7. **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
 ## Afventende hotfixes (PR fra ITK, som mangler review mv.)
 
@@ -68,6 +67,7 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 ## Ikke inkluderet i denne release
 
+   * [#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900
    * [#247](https://github.com/OS2Forms/os2forms/issues/247): Opgradering til Drupal 11
    * [#254](https://github.com/OS2Forms/os2forms/issues/254): CPR udfases på den fælleskommunale infrastruktur: Datafordeleren tager over
    * Opdatering til Maestro 4.1.4
