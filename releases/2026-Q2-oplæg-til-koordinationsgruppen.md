@@ -28,7 +28,8 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 2. **[#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026**
 
-   * Denne opgave afventer pt. svar fra Klimadatastyrelsen omkring adgang til Adressevælgeren/API. Estimat/forundersøgelse på 8 timer er godkendt fra koordinationsgruppen.
+   * Denne opgave afventer pt. svar fra Klimadatastyrelsen omkring adgang til Adressevælgeren/API. Estimat/forundersøgelse på 8 timer er godkendt fra koordinationsgruppen og bliver faktureret i april 2026.
+   * Estimat: 41 timer til Bellcom (udover de 8 timer der er brugt pr. 27/04-2026).
 
 3. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
 
