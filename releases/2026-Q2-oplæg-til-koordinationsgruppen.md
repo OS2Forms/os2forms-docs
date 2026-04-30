@@ -53,7 +53,20 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
    * Git actions check
    * Added required "Zoom control position" to map element
 
-## Release kandidater
+---
+
+## Ikke inkluderet i denne release
+
+   * [#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900
+   * [#247](https://github.com/OS2Forms/os2forms/issues/247): Opgradering til Drupal 11
+   * [#254](https://github.com/OS2Forms/os2forms/issues/254): CPR udfases på den fælleskommunale infrastruktur: Datafordeleren tager over
+   * Opdatering til Maestro 4.1.4
+   * Defination af et Core theme / core font
+   * Forundersøgelse omkring Digital Fuldmagt
+   * Er OS2forms complient ift. Single Digital Gateway
+   * Betalingsmodul
+
+## Release kandidater (som ikke skal medtages jf. mail fra den 30/04-2026 fra Koordinationsgruppen)
 
 1. **[#188](https://github.com/OS2Forms/os2forms/issues/188): OS2forms sync modul not working**
 
@@ -83,7 +96,7 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
    * Estimat: 3 timer til Bellcom.
 
-## Afventende hotfixes (PR fra ITK, som mangler review mv.)
+## Afventende hotfixes (PR fra ITK, som mangler review mv.) (som ikke skal medtages jf. mail fra den 30/04-2026 fra Koordinationsgruppen)
 
 * [#224](https://github.com/OS2Forms/os2forms/pull/224): Added custom list builder class for webform submissions
 
@@ -96,16 +109,3 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 * [#315](https://github.com/OS2Forms/os2forms/pull/315): Added “Display on“ options to Map element
 
    * Estimat: 2 timer til Bellcom.
-
----
-
-## Ikke inkluderet i denne release
-
-   * [#243](https://github.com/OS2Forms/os2forms/issues/243): Integration til Fordelingskomponenten sf2900
-   * [#247](https://github.com/OS2Forms/os2forms/issues/247): Opgradering til Drupal 11
-   * [#254](https://github.com/OS2Forms/os2forms/issues/254): CPR udfases på den fælleskommunale infrastruktur: Datafordeleren tager over
-   * Opdatering til Maestro 4.1.4
-   * Defination af et Core theme / core font
-   * Forundersøgelse omkring Digital Fuldmagt
-   * Er OS2forms complient ift. Single Digital Gateway
-   * Betalingsmodul
