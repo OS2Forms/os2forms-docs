@@ -7,4 +7,56 @@ parent: Release 2026/Q2
 
 # Forårsrelease 2026 - Testvejledning
 
-Når testvejledningen er klar, vil den blive placeret her.
+Denne testvejledning beskriver hvilke ændringer i OS2forms der er foretaget og hvad du som minimum bør teste i testfasen.
+
+URL til testmiljø: [https://test.os2forms.dk/](https://test.os2forms.dk/). Hvis du ikke har en bruger til at kunne logge ind med, så kontakt Bellcom på [support@bellcom.dk](mailto:support@bellcom.dk).
+
+Hvis du finder fejl på et af nedenstående ændringer, så skal du melde den ind ved at lave en kommentar på det issue, hvor du har fundet fejlen. På den måde kan alle nemlig se, hvad der er meldt ind og vi har en historik i hvad der er meldt ind. Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen og dermed få den rettet.
+
+Når du har gennemført testen, så beder vi om at skrive en kommentar på [dette issue](https://github.com/OS2Forms/os2forms/issues/211), så vi ved at der er blevet testet.
+
+---
+
+## [#211](https://github.com/OS2Forms/os2forms/issues/211): Diskussion og fastlæggelse af forårsreleasen 2026
+
+1. **[#200](https://github.com/OS2Forms/os2forms/issues/200): Modulet "CKEditor 4 (contrib) (ckeditor)" bør erstattes (af "CKEditor 5 (ckeditor5)") da det er deprecated**
+
+   * Modulet er fjernet fra OS2forms og erstattet med CKEditor 5. Der skal testes at de steder hvor I ser og bruger CKEditor 5 (se screenshot) stadig virker som det skal og at I kan bruge de funktioner som CKEditor 5 tilbyder (fed skrift, punktopstilling, links o.lign.).
+![Fix: Test af CKEditor 5](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/test-af-ckeditor-5.png)
+
+2. **[#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026**
+
+   * Ikke klar til test endnu!
+
+3. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
+
+   * På [https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-cvr](https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-cvr) kan I se at API'et til opslag på CVR-numre er skiftet til Datafordelerens nye API. I kan teste det ved at sætte et CVR nummer ind i feltet "Test CVR nr." og så trykke på "Gem indstillinger", så vil siden lave et opslag på det indtastede CVR-nummer og komme med svaret fra API'et. I kan også teste ved at lave en formular der benytter et eller flere af "MitID Firma"-elementerne.
+
+4. **[#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x**
+
+   * [test.os2forms.dk](https://test.os2forms.dk/) er opdateret til Drupal 10.6.7. Da det er Drupal-kernen der er blevet opdateret, så er det lidt svært at sige hvad I skal teste - udover almen brug af Drupal og OS2forms testmiljøet i sin helhed.
+
+5. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
+
+   * [#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO
+        * Da Fjernpost ikke er opsat på test.os2forms.dk - og Bellcom bekendt kun bliver benyttet i Aarhus, så vil det kun være i Aarhus at dette kan testes.
+   * [#PR-322](https://github.com/OS2Forms/os2forms/pull/322): Update Digital Post handler error messages
+        * Efterspurgt testvejledning ved ITK.
+   * [#PR-320](https://github.com/OS2Forms/os2forms/pull/320): Update README
+        * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
+   * [#PR-301](https://github.com/OS2Forms/os2forms/pull/301): Add address information to Digital Post shipments to ensure "fjernprint" can be sent
+        * Da Fjernpost ikke er opsat på test.os2forms.dk - og Bellcom bekendt kun bliver benyttet i Aarhus, så vil det kun være i Aarhus at dette kan testes.
+   * Add option to add return address to Digital Post shipments
+        * Efterspurgt testvejledning ved ITK
+   * [#PR-305](https://github.com/OS2Forms/os2forms/pull/305): Fix IP validation in digital signature file download (CIDR support)
+        * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
+   * [#PR-317](https://github.com/OS2Forms/os2forms/pull/317): Updated code analysis script
+        * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
+   * [#PR-306](https://github.com/OS2Forms/os2forms/pull/306): Made digital signature text placement configurable
+        * Kan testes på en formular der benytter Digital Signatur (f.eks. [denne](https://test.os2forms.dk/da/admin/structure/webform/manage/bellcom_digital_signatur_test)), hvor man på OS2forms Attachment elementet nu kan styre, hvor man ønsker "Digital signature position".
+   * [#251](https://github.com/OS2Forms/os2forms/issues/251): Webform encrypt uninstall problem fix
+        * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
+   * Git actions check
+        * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
+   * [#PR-289](https://github.com/OS2Forms/os2forms/pull/289): Added required "Zoom control position" to map element
+        * Efterspurgt testvejledning ved ITK
