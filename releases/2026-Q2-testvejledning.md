@@ -9,11 +9,12 @@ parent: Release 2026/Q2
 
 Denne testvejledning beskriver hvilke ændringer i OS2forms der er foretaget og hvad du som minimum bør teste i testfasen.
 
-URL til testmiljø: [https://test.os2forms.dk/](https://test.os2forms.dk/). Hvis du ikke har en bruger til at kunne logge ind med, så kontakt Bellcom på [support@bellcom.dk](mailto:support@bellcom.dk).
+URL til testmiljø: [test.os2forms.dk](https://test.os2forms.dk/).
+Hvis du ikke har en bruger til at kunne logge ind med, så kontakt Bellcom på [support@bellcom.dk](mailto:support@bellcom.dk).
 
-Hvis du finder fejl på et af nedenstående ændringer, så skal du melde den ind ved at lave en kommentar på det issue, hvor du har fundet fejlen. På den måde kan alle nemlig se, hvad der er meldt ind og vi har en historik i hvad der er meldt ind. Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen og dermed få den rettet.
+Hvis du finder fejl på et af nedenstående ændringer, så skal du melde fejlen ind ved at lave en kommentar på det issue eller pull request, hvor du har fundet fejlen. På den måde kan alle nemlig se, hvad der er meldt ind - og vi har en historik i hvad der blev meldt ind. Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen - og dermed få den rettet.
 
-Når du har gennemført testen, så beder vi om at skrive en kommentar på [dette issue](https://github.com/OS2Forms/os2forms/issues/211), så vi ved at der er blevet testet.
+Når du har gennemført testen, så beder vi om at skrive en kommentar på [dette issue](https://github.com/OS2Forms/os2forms/issues/211), så vi ved at du har testet.
 
 ---
 
@@ -47,7 +48,7 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
    * [#PR-301](https://github.com/OS2Forms/os2forms/pull/301): Add address information to Digital Post shipments to ensure "fjernprint" can be sent
         * Da Fjernpost ikke er opsat på test.os2forms.dk - og Bellcom bekendt kun bliver benyttet i Aarhus, så vil det kun være i Aarhus at dette kan testes.
    * Add option to add return address to Digital Post shipments
-        * Efterspurgt testvejledning ved ITK
+        * Efterspurgt testvejledning ved ITK.
    * [#PR-305](https://github.com/OS2Forms/os2forms/pull/305): Fix IP validation in digital signature file download (CIDR support)
         * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
    * [#PR-317](https://github.com/OS2Forms/os2forms/pull/317): Updated code analysis script
@@ -59,4 +60,4 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
    * Git actions check
         * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
    * [#PR-289](https://github.com/OS2Forms/os2forms/pull/289): Added required "Zoom control position" to map element
-        * Efterspurgt testvejledning ved ITK
+        * Efterspurgt testvejledning ved ITK.
