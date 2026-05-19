@@ -33,11 +33,15 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
    * På [https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-cvr](https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-cvr) kan I se at API'et til opslag på CVR-numre er skiftet til Datafordelerens nye API. I kan teste det ved at sætte et CVR nummer ind i feltet "Test CVR nr." og så trykke på "Gem indstillinger", så vil siden lave et opslag på det indtastede CVR-nummer og komme med svaret fra API'et. I kan også teste ved at lave en formular der benytter et eller flere af "MitID Firma"-elementerne.
 
-4. **[#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x**
+4. **[#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af "Webform Encrypt" og "OS2Forms Encrypt"**
+
+   * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
+
+5. **[#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x**
 
    * [test.os2forms.dk](https://test.os2forms.dk/) er opdateret til Drupal 10.6.7. Da det er Drupal-kernen der er blevet opdateret, så er det lidt svært at sige hvad I skal teste - udover almen brug af Drupal og OS2forms testmiljøet i sin helhed.
 
-5. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
+6. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
 
    * [#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO
         * Da Fjernpost ikke er opsat på test.os2forms.dk - og Bellcom bekendt kun bliver benyttet i Aarhus, så vil det kun være i Aarhus at dette kan testes.

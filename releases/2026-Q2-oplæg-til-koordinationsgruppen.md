@@ -35,11 +35,15 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
    * Denne opgave er godkendt, ITK har lavet Review. Bellcom sørger for at det kan komme med i denne release. Estimat på 72 timer til Bellcom er godkendt fra koordinationsgruppen.
 
-4. **[#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x**
+4. **[#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af "Webform Encrypt" og "OS2Forms Encrypt"**
+
+   * Estimat: Denne opgave ser Bellcom som meget nødvendig og Bellcom betaler derfor de sidste 2-3 timer, som opgaven er estimeret til (dette punkt er tilføjet den 19/5-2026).
+
+5. **[#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x**
 
    * Estimat: Er en del af den centrale vedligeholdelsesaftale, så intet estimat her.
 
-5. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
+6. **Diverse bug-fixes (pt. unreleased i Develop-branchen)**
 
    * Fjernpost virker ikke efter skifte fra PostNord til DAO
    * Update Digital Post handler error messages
