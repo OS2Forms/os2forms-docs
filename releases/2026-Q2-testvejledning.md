@@ -56,9 +56,7 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
    * [#PR-301](https://github.com/OS2Forms/os2forms/pull/301): Add address information to Digital Post shipments to ensure "fjernprint" can be sent
         * Da Fjernpost ikke er opsat på test.os2forms.dk - og Bellcom bekendt kun bliver benyttet i Aarhus, så vil det kun være i Aarhus at dette kan testes.
    * Add option to add return address to Digital Post shipments
-
-   **Dette issue/fix kan kun testes på [test.os2forms.dk](https://test.os2forms.dk/), i det tidsrum, hvor test.os2forms.dk er sat til at hente CPR data fra Serviceplatformens prod. miljø og I vil derfor skulle sende Digital Post til jer selv for at kunne teste denne.**
-   Vi sætter [test.os2forms.dk](https://test.os2forms.dk/) til at lave opslag med Serviceplatformens prod. miljø den 26/05-2026 ca. kl. 8.00 og slår retur til test-miljøet igen den 28/05-2026 ca. kl. 8.00, så I har 2 dage til at teste dette issue i.
+        * **Dette issue/fix kan kun testes på [test.os2forms.dk](https://test.os2forms.dk/), i det tidsrum, hvor test.os2forms.dk er sat til at hente CPR data fra Serviceplatformens prod. miljø og I vil derfor skulle sende Digital Post til jer selv for at kunne teste denne.** Vi sætter [test.os2forms.dk](https://test.os2forms.dk/) til at lave opslag med Serviceplatformens prod. miljø den 26/05-2026 ca. kl. 8.00 og slår retur til test-miljøet igen den 28/05-2026 ca. kl. 8.00, så I har 2 dage til at teste dette issue i.
         * Vi følger krav fra Digitaliseringsstyrelsen - [se krav her](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/release-q2-2026-add-option-to-add-return-address-to-digital-post-shipments-krav-fra-digitaliseringsstyrelsen.pdf).
         * Forklaring af det udviklede kan ses [her](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/release-q2-2026-add-option-to-add-return-address-to-digital-post-shipments-forklaring-af-det-udviklede.pdf).
         * Der er plads til 70 tegn jvf. DAOs anvisninger.
