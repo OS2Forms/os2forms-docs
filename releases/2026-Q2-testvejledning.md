@@ -27,7 +27,11 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 2. **[#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026**
 
-   * Ikke klar til test endnu!
+   * På [https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-address-lookup](https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-address-lookup) kan I se at vi har oprettet et nyt konfigurationsside, hvor man kan indtaste den "token" som man skal bruge for at kunne benytte det nye API på adressevaelger.dk. Da Klimadatastyrelsen, som står bag det nye API, endnu ikke har brugerstyring på plads endnu, så skal alle der vil benytte API'et i første omgang bruge det samme API token (adressevaelger123). Klimadatastyrelsen forventer at have brugerstyring klar ultimo 2026 eller primo 2027 (8læs evt. mere om det her](https://confluence.sdfi.dk/display/ADV/Brugerstyring)).
+
+Det som du/I skal teste er den helt alm. brug af de to DAWA elementer "DAWA Address (autocomplete)" og "DAWA Address-Matrikula (autocomplete)". Elementet "DAWA Address (autocomplete)" består som før af ét felt, hvor man kan fremsøge en adresse og så kommer alle de valgmuligheder, som API'et retunerer. Elementet "DAWA Address-Matrikula (autocomplete)" består af to felter, også ligesom før. Ét felt hvor man kan skrive og vælge en adresse, som i "DAWA Address (autocomplete)", men når man så har valgt en adresse, så bliver der lavet et opslag på hvilke matrikler der findes på den pågældende adresse, som så kan vælges i felt nr. 2 (også helt som før).
+
+I det gamle API fra DAWA var det muligt at filtrere resultaterne til at være fra bestemte kommuner (altså også med mere end én kommune). I det nye API fra Klimadatastyrelsen er det også muligt, men det er begrænset til KUN at være én kommune, der kan filtres på. Hvis du vil begrænse resultaterne til en enkelt kommune, så skal du sætte kommunens ID ind i feltet "Limit by municipality". Her skal tallet sættes ind med 4 cifre, så det f.eks. er "0621" for Kolding og "0751" for Aarhus. Dette må I også meget gerne teste virker.
 
 3. **[#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes**
 
@@ -52,6 +56,9 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
    * [#PR-301](https://github.com/OS2Forms/os2forms/pull/301): Add address information to Digital Post shipments to ensure "fjernprint" can be sent
         * Da Fjernpost ikke er opsat på test.os2forms.dk - og Bellcom bekendt kun bliver benyttet i Aarhus, så vil det kun være i Aarhus at dette kan testes.
    * Add option to add return address to Digital Post shipments
+
+**Dette issue/fix kan kun testes på [test.os2forms.dk](https://test.os2forms.dk/), i det tidsrum, hvor test.os2forms.dk er sat til at hente CPR data fra Serviceplatformens prod. miljø og I vil derfor skulle sende Digital Post til jer selv for at kunne teste denne.**
+Vi sætter [test.os2forms.dk](https://test.os2forms.dk/) til at lave opslag med Serviceplatformens prod. miljø den 26/05-2026 ca. kl. 8.00 og slår retur til test-miljøet igen den 28/05-2026 ca. kl. 8.00, så I har 2 dage til at teste dette issue i.
         * Vi følger krav fra Digitaliseringsstyrelsen - [se krav her](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/release-q2-2026-add-option-to-add-return-address-to-digital-post-shipments-krav-fra-digitaliseringsstyrelsen.pdf).
         * Forklaring af det udviklede kan ses [her](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/release-q2-2026-add-option-to-add-return-address-to-digital-post-shipments-forklaring-af-det-udviklede.pdf).
         * Der er plads til 70 tegn jvf. DAOs anvisninger.
