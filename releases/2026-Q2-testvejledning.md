@@ -50,7 +50,8 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
    * [#288](https://github.com/OS2Forms/os2forms/issues/288): Fjernpost virker ikke efter skifte fra PostNord til DAO
         * Da Fjernpost ikke er opsat på test.os2forms.dk - og Bellcom bekendt kun bliver benyttet i Aarhus, så vil det kun være i Aarhus at dette kan testes.
    * [#PR-322](https://github.com/OS2Forms/os2forms/pull/322): Update Digital Post handler error messages
-        * Efterspurgt testvejledning ved ITK.
+        * **Beskrivelse:** Ved en fejlkonfigureret digital post-forsendelse (reference til ikke-eksisterende element der bør indeholde CPR) var den fejlbesked der blev vist ikke særlig god - specielt ikke for ikke-udviklere. PR'et retter på fejlbeskeden så den eksplicit forklarer hvilket element der er ledt efter i håbet om en bedre og mere forståelig fejlbesked.
+        * **Test:** Se at der kommer en mere beskrivende fejlbesked ud når en digital post-handler er konfigureret med et ikke-eksisterende element.
    * [#PR-320](https://github.com/OS2Forms/os2forms/pull/320): Update README
         * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
    * [#PR-301](https://github.com/OS2Forms/os2forms/pull/301): Add address information to Digital Post shipments to ensure "fjernprint" can be sent
@@ -80,4 +81,12 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
    * Git actions check
         * Teknisk opdatering. Kan kun testes af ITK og Bellcom.
    * [#PR-289](https://github.com/OS2Forms/os2forms/pull/289): Added required "Zoom control position" to map element
-        * Efterspurgt testvejledning ved ITK.
+        * I kortmodulet kan man konfigurere hvilke knapper (tegneværktøjer, zoomfunktion mv. ) brugeren skal kunne anvende på kortet:
+![Fix: Zoom værktøjer kortmodulet](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/zoom-vaerktoejer-kortmodulet.png)
+        * Når man klikker på "Adds button to xx" skal knapperne vises for slutbrugeren på kortet. Følgende knapper skal virke:
+             * zoom værktøj
+             * polygon
+             * markør
+        * Acceptkriterier samt test stories (Hvad skal fungere for at leverancen er færdig.):
+             * Acceptkriterie 1: valgt (e) knapper skal vises for slutbrugeren på kortet
+             * MVP acceptkriterie: "Adds button to draw polygon" skal kunne slåes til, og knappen skal kunne ses på kortet for slut
