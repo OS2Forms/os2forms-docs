@@ -13,4 +13,4 @@ To update the documentation please make a pull request to this repository.
 
 Your PR should use standard markdown and follow the conventions for navigation etc. documented [here](https://just-the-docs.com/docs/navigation-structure/)
 
-Inspiration: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+Inspiration: [https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
