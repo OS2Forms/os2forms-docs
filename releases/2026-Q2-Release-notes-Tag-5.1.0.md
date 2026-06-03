@@ -12,7 +12,7 @@ parent: Releases
 **Release tag: 5.1.0**  
 **GitHub Issue: [https://github.com/OS2Forms/os2forms/issues/211](https://github.com/OS2Forms/os2forms/issues/211)**
 
-### Danish (english below):
+## Danish (english below):
 
 Fokus for denne release er nødvendige opdateringer som følge af ændringer i den fælleskommunale infrastruktur samt nødvendige sikkerhedsopdateringer:
 
@@ -25,20 +25,20 @@ Fokus for denne release er nødvendige opdateringer som følge af ændringer i d
 
 Uddybning af releasen:
 
-## #200: Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
+### #200: Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
 
 De afhængigheder, der var i OS2Forms til det gamle modul "CKEditor 4 (contrib) (ckeditor)", er blevet fjernet, og det nye modul "CKEditor 5 (ckeditor5)" kan nu installeres og vælges som teksteditor.
 
 Opsætningen af, hvilke knapper og funktioner der skal være tilgængelige i CKEditor 5, følger standardopsætningen, men kan tilpasses fra løsning til løsning.
 
-## #246: DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
+### #246: DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
 
 Modulet "OS2Forms DAWA (os2forms_dawa)" er blevet opdateret til at understøtte det nye API, "Adressevælgeren", fra Klimadatastyrelsen.
 
-Adgangen til API'et styres via en token, som skal angives under:
+Adgangen til API'et styres via en token, som skal angives under:<br>
 `/admin/config/system/os2web-datalookup/datafordeler-address-lookup`
 
-Da Klimadatastyrelsen endnu ikke har implementeret brugerstyring, skal token-værdien indtil videre sættes til:
+Da Klimadatastyrelsen endnu ikke har implementeret brugerstyring, skal token-værdien indtil videre sættes til:<br>
 `adressevaelger123`
 
 Læs mere om brugerstyringen her: [https://confluence.sdfi.dk/display/ADV/Brugerstyring](https://confluence.sdfi.dk/display/ADV/Brugerstyring)
@@ -54,13 +54,13 @@ Da det nye API ikke fungerer på helt samme måde som det gamle, anbefales det, 
 
 Link til API-dokumentationen: [https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998](https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998)
 
-## #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
+### #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
 
-Modulet "OS2Web Datalookup (os2web_datalookup)" er blevet opdateret til at understøtte den moderniserede Datafordelers API. Modulet skal konfigureres på følgende to sider i OS2Forms:
-`/admin/config/system/os2web-datalookup/datafordeler-cvr
-/admin/config/system/os2web-datalookup/datafordeler-pnumber`
+Modulet "OS2Web Datalookup (os2web_datalookup)" er blevet opdateret til at understøtte den moderniserede Datafordelers API. Modulet skal konfigureres på følgende to sider i OS2Forms:<br>
+`/admin/config/system/os2web-datalookup/datafordeler-cvr`<br>
+`/admin/config/system/os2web-datalookup/datafordeler-pnumber`
 
-Webservice URL (LIVE):
+Webservice URL (LIVE):<br>
 `https://graphql.datafordeler.dk/flexibleCurrent/v1`
 
 For at kunne hente data fra det nye API skal der oprettes en API Key. Dette gøres på [https://portal.datafordeler.dk/](https://portal.datafordeler.dk/), hvor man enten skal oprette en ny bruger eller logge ind med en eksisterende bruger.
@@ -71,7 +71,7 @@ Når konfigurationen er gennemført, fungerer modulet på samme måde som tidlig
 
 Der skal ikke foretages ændringer i de enkelte formularer, som benytter elementerne med CVR-data.
 
-## Følgende issues er også inkluderet i releasen, men kræver ingen yderligere handling:
+### Følgende issues er også inkluderet i releasen, men kræver ingen yderligere handling:
 - #251: Problem med afinstallation af “Webform Encrypt” og “OS2Forms Encrypt”
 - #323: Opgradering til Drupal 10.6.x
 - Diverse bug-fixes (pt. unreleased i Develop-branchen)
@@ -89,7 +89,7 @@ Der skal ikke foretages ændringer i de enkelte formularer, som benytter element
 
 ---
 
-### English:
+## English:
 
 The focus of this release is on necessary updates due to changes in the joint municipal infrastructure as well as necessary security updates:
 
@@ -102,20 +102,20 @@ The focus of this release is on necessary updates due to changes in the joint mu
 
 Elaboration of the release:
 
-## #200: Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
+### #200: Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
 
 The dependencies that were in OS2Forms for the old module "CKEditor 4 (contrib) (ckeditor)" have been removed, and the new module "CKEditor 5 (ckeditor5)" can now be installed and selected as the text editor.
 
 The configuration of which buttons and functions should be available in CKEditor 5 follows the default configuration, but can be customized from solution to solution.
 
-## #246: DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
+### #246: DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
 
 The module "OS2Forms DAWA (os2forms_dawa)" has been updated to support the new API, "Adressevælgeren", from Klimadatastyrelsen.
 
-Access to the API is controlled via a token, which must be specified under:
+Access to the API is controlled via a token, which must be specified under:<br>
 `/admin/config/system/os2web-datalookup/datafordeler-address-lookup`
 
-Since Klimadatastyrelsen has not yet implemented user management, the token value must be set to:
+Since Klimadatastyrelsen has not yet implemented user management, the token value must be set to:<br>
 `adressevaelger123`
 
 Read more about user management here: [https://confluence.sdfi.dk/display/ADV/Brugerstyring](https://confluence.sdfi.dk/display/ADV/Brugerstyring)
@@ -131,13 +131,13 @@ Since the new API does not work in exactly the same way as the old one, it is re
 
 Link to the API documentation: [https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998](https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998)
 
-## #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
+### #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
 
-The module "OS2Web Datalookup (os2web_datalookup)" has been updated to support the modernized Datafordeler API. The module must be configured on the following two pages in OS2Forms:
-`/admin/config/system/os2web-datalookup/datafordeler-cvr
-/admin/config/system/os2web-datalookup/datafordeler-pnumber`
+The module "OS2Web Datalookup (os2web_datalookup)" has been updated to support the modernized Datafordeler API. The module must be configured on the following two pages in OS2Forms:<br>
+`/admin/config/system/os2web-datalookup/datafordeler-cvr`<br>
+`/admin/config/system/os2web-datalookup/datafordeler-pnumber`
 
-Webservice URL (LIVE):
+Webservice URL (LIVE):<br>
 `https://graphql.datafordeler.dk/flexibleCurrent/v1`
 
 In order to retrieve data from the new API, an API Key must be created. This is done at [https://portal.datafordeler.dk/](https://portal.datafordeler.dk/), where you must either create a new user or log in with an existing user.
@@ -148,7 +148,7 @@ Once the configuration is complete, the module functions in the same way as befo
 
 No changes need to be made to the individual forms that use the elements with CVR data.
 
-## The following issues are also included in the release, but do not require any further action:
+### The following issues are also included in the release, but do not require any further action:
 - #251: Problem med afinstallation af “Webform Encrypt” og “OS2Forms Encrypt”
 - #323: Opgradering til Drupal 10.6.x
 - Diverse bug-fixes (pt. unreleased i Develop-branchen)
