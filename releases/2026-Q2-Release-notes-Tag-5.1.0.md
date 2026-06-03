@@ -35,7 +35,7 @@ Opsætningen af, hvilke knapper og funktioner der skal være tilgængelige i CKE
 
 Modulet "OS2Forms DAWA (os2forms_dawa)" er blevet opdateret til at understøtte det nye API, "Adressevælgeren", fra Klimadatastyrelsen.
 
-Adgangen til API'et styres via en token, som skal angives under:<br>
+Adgangen til API'et styres via en token, som skal angives under (dette bør ændres af driftsleverandøren):<br>
 `/admin/config/system/os2web-datalookup/datafordeler-address-lookup`
 
 Da Klimadatastyrelsen endnu ikke har implementeret brugerstyring, skal token-værdien indtil videre sættes til:<br>
@@ -47,7 +47,7 @@ Læs mere om brugerstyringen her: [https://confluence.sdfi.dk/display/ADV/Bruger
 
 Da det nye API ikke fungerer på helt samme måde som det gamle, anbefales det, at alle, der benytter DAWA-elementer, gennemgår og tilpasser de formularer, hvor elementerne anvendes.
 
-**Det skal du gøre:**
+**Det skal du gøre (som formularredaktør/selvbetjeningsdesigner):**
     1. Gennemgå jeres formularer og tjek, om der er sat en kommunekode på DAWA-elementerne
     2. Opdatér til 4-cifrede kommunekoder (hvis I bruger 3-cifrede kommunekoder, skal der tilføjes et foranstillet nul)
     3. Brug kun én kommunekode. Det er nu kun muligt at angive én kommunekode pr. element. Hvis I i dag bruger flere kommunekoder, skal formularen tilpasses, så der kun anvendes én
@@ -56,7 +56,7 @@ Link til API-dokumentationen: [https://confluence.sdfi.dk/pages/viewpage.action?
 
 ### #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
 
-Modulet "OS2Web Datalookup (os2web_datalookup)" er blevet opdateret til at understøtte den moderniserede Datafordelers API. Modulet skal konfigureres på følgende to sider i OS2Forms:<br>
+Modulet "OS2Web Datalookup (os2web_datalookup)" er blevet opdateret til at understøtte den moderniserede Datafordelers API. Modulet skal konfigureres på følgende to sider i OS2Forms (dette bør ændres af driftsleverandøren):<br>
 `/admin/config/system/os2web-datalookup/datafordeler-cvr`<br>
 `/admin/config/system/os2web-datalookup/datafordeler-pnumber`
 
@@ -112,7 +112,7 @@ The configuration of which buttons and functions should be available in CKEditor
 
 The module "OS2Forms DAWA (os2forms_dawa)" has been updated to support the new API, "Adressevælgeren", from Klimadatastyrelsen.
 
-Access to the API is controlled via a token, which must be specified under:<br>
+Access to the API is controlled via a token, which must be specified under (this should be changed by the operating supplier):<br>
 `/admin/config/system/os2web-datalookup/datafordeler-address-lookup`
 
 Since Klimadatastyrelsen has not yet implemented user management, the token value must be set to:<br>
@@ -124,7 +124,7 @@ Read more about user management here: [https://confluence.sdfi.dk/display/ADV/Br
 
 Since the new API does not work in exactly the same way as the old one, it is recommended that everyone who uses DAWA elements review and adapt the forms where the elements are used.
 
-**This is what you need to do:**
+**This is what you need to do (as form editor):**
     1. Review your forms and check if a municipality code has been set on the DAWA elements.
     2. Update to 4-digit municipal codes (if you use 3-digit municipal codes, a leading zero must be added)
     3. Use only one municipality code. It is now only possible to specify one municipality code per element. If you currently use multiple municipality codes, the form must be adapted so that only one is used.
@@ -133,7 +133,7 @@ Link to the API documentation: [https://confluence.sdfi.dk/pages/viewpage.action
 
 ### #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
 
-The module "OS2Web Datalookup (os2web_datalookup)" has been updated to support the modernized Datafordeler API. The module must be configured on the following two pages in OS2Forms:<br>
+The module "OS2Web Datalookup (os2web_datalookup)" has been updated to support the modernized Datafordeler API. The module must be configured on the following two pages in OS2Forms (this should be changed by the operating supplier):<br>
 `/admin/config/system/os2web-datalookup/datafordeler-cvr`<br>
 `/admin/config/system/os2web-datalookup/datafordeler-pnumber`
 
