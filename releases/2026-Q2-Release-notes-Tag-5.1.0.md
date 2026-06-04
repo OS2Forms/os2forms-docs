@@ -23,7 +23,7 @@ Fokus for denne release er nødvendige opdateringer som følge af ændringer i d
 - [#323](https://github.com/OS2Forms/os2forms/issues/323): Sikkerhedsopdateringer af Drupal
 - Diverse fejlrettelser, herunder rettelser i Digital Post og kortmodulet
 
-Uddybning af releasen:
+**Uddybning af releasen:**
 
 ### [#200](https://github.com/OS2Forms/os2forms/issues/200): Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
 
@@ -93,22 +93,22 @@ Der skal ikke foretages ændringer i de enkelte formularer, som benytter element
 
 The focus of this release is on necessary updates due to changes in the joint municipal infrastructure as well as necessary security updates:
 
-- #200: CKEditor version change
-- #246: Transition to Klimadatastyrelsens new address selector (phasing out the old DAWA)
-- #248: Transition to the modernized Datafordeler (CVR numbers and P numbers) (phasing out Serviceplatformen)
-- #251: Problem uninstalling encryption modules
-- #323: Drupal security updates
+- [#200](https://github.com/OS2Forms/os2forms/issues/200): CKEditor version change
+- [#246](https://github.com/OS2Forms/os2forms/issues/246): Transition to Klimadatastyrelsens new address selector (phasing out the old DAWA)
+- [#248](https://github.com/OS2Forms/os2forms/issues/248): Transition to the modernized Datafordeler (CVR numbers and P numbers) (phasing out Serviceplatformen)
+- [#251](https://github.com/OS2Forms/os2forms/issues/251): Problem uninstalling encryption modules
+- [#323](https://github.com/OS2Forms/os2forms/issues/323): Drupal security updates
 - Various bug fixes, including fixes in Digital Post and the map module
 
-Elaboration of the release:
+**Elaboration of the release:**
 
-### #200: Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
+### [#200](https://github.com/OS2Forms/os2forms/issues/200): Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
 
 The dependencies that were in OS2Forms for the old module "CKEditor 4 (contrib) (ckeditor)" have been removed, and the new module "CKEditor 5 (ckeditor5)" can now be installed and selected as the text editor.
 
 The configuration of which buttons and functions should be available in CKEditor 5 follows the default configuration, but can be customized from solution to solution.
 
-### #246: DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
+### [#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
 
 The module "OS2Forms DAWA (os2forms_dawa)" has been updated to support the new API, "Adressevælgeren", from Klimadatastyrelsen.
 
@@ -131,7 +131,7 @@ Since the new API does not work in exactly the same way as the old one, it is re
 
 Link to the API documentation: [https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998](https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998)
 
-### #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
+### [#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
 
 The module "OS2Web Datalookup (os2web_datalookup)" has been updated to support the modernized Datafordeler API. The module must be configured on the following two pages in OS2Forms (this should be changed by the operating supplier):<br>
 `/admin/config/system/os2web-datalookup/datafordeler-cvr`<br>
@@ -149,8 +149,8 @@ Once the configuration is complete, the module functions in the same way as befo
 No changes need to be made to the individual forms that use the elements with CVR data.
 
 ### The following issues are also included in the release, but do not require any further action:
-- #251: Problem med afinstallation af “Webform Encrypt” og “OS2Forms Encrypt”
-- #323: Opgradering til Drupal 10.6.x
+- [#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af “Webform Encrypt” og “OS2Forms Encrypt”
+- [#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x
 - Diverse bug-fixes (pt. unreleased i Develop-branchen)
    * Fjernpost virker ikke efter skifte fra PostNord til DAO
    * Update Digital Post handler error messages
