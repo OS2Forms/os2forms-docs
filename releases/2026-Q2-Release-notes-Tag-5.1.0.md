@@ -16,22 +16,22 @@ parent: Releases
 
 Fokus for denne release er nødvendige opdateringer som følge af ændringer i den fælleskommunale infrastruktur samt nødvendige sikkerhedsopdateringer:
 
-- #200: Versionsskift af CKEditor
-- #246: Overgang til Klimadatastyrelsens nye adressevælger (udfasning af den gamle DAWA)
-- #248: Overgang til den moderniserede Datafordeler (CVR-numre og P-numre) (udfasning af Serviceplatformen)
-- #251: Problem med afinstallation af krypteringsmoduler
-- #323: Sikkerhedsopdateringer af Drupal
+- [#200](https://github.com/OS2Forms/os2forms/issues/200): Versionsskift af CKEditor
+- [#246](https://github.com/OS2Forms/os2forms/issues/246): Overgang til Klimadatastyrelsens nye adressevælger (udfasning af den gamle DAWA)
+- [#248](https://github.com/OS2Forms/os2forms/issues/248): Overgang til den moderniserede Datafordeler (CVR-numre og P-numre) (udfasning af Serviceplatformen)
+- [#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af krypteringsmoduler
+- [#323](https://github.com/OS2Forms/os2forms/issues/323): Sikkerhedsopdateringer af Drupal
 - Diverse fejlrettelser, herunder rettelser i Digital Post og kortmodulet
 
 Uddybning af releasen:
 
-### #200: Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
+### [#200](https://github.com/OS2Forms/os2forms/issues/200): Modulet “CKEditor 4 (contrib) (ckeditor)” bør erstattes (af “CKEditor 5 (ckeditor5)”) da det er deprecated
 
 De afhængigheder, der var i OS2Forms til det gamle modul "CKEditor 4 (contrib) (ckeditor)", er blevet fjernet, og det nye modul "CKEditor 5 (ckeditor5)" kan nu installeres og vælges som teksteditor.
 
 Opsætningen af, hvilke knapper og funktioner der skal være tilgængelige i CKEditor 5, følger standardopsætningen, men kan tilpasses fra løsning til løsning.
 
-### #246: DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
+### [#246](https://github.com/OS2Forms/os2forms/issues/246): DAWA (Danmarks Adressers Web API) lukker ned pr. 1. juli 2026
 
 Modulet "OS2Forms DAWA (os2forms_dawa)" er blevet opdateret til at understøtte det nye API, "Adressevælgeren", fra Klimadatastyrelsen.
 
@@ -54,7 +54,7 @@ Da det nye API ikke fungerer på helt samme måde som det gamle, anbefales det, 
 
 Link til API-dokumentationen: [https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998](https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998)
 
-### #248: Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
+### [#248](https://github.com/OS2Forms/os2forms/issues/248): Ændringer på datafordeler.dk - fremover skal den moderniserede Datafordeler benyttes
 
 Modulet "OS2Web Datalookup (os2web_datalookup)" er blevet opdateret til at understøtte den moderniserede Datafordelers API. Modulet skal konfigureres på følgende to sider i OS2Forms (dette bør ændres af driftsleverandøren):<br>
 `/admin/config/system/os2web-datalookup/datafordeler-cvr`<br>
@@ -72,8 +72,8 @@ Når konfigurationen er gennemført, fungerer modulet på samme måde som tidlig
 Der skal ikke foretages ændringer i de enkelte formularer, som benytter elementerne med CVR-data.
 
 ### Følgende issues er også inkluderet i releasen, men kræver ingen yderligere handling:
-- #251: Problem med afinstallation af “Webform Encrypt” og “OS2Forms Encrypt”
-- #323: Opgradering til Drupal 10.6.x
+- [#251](https://github.com/OS2Forms/os2forms/issues/251): Problem med afinstallation af “Webform Encrypt” og “OS2Forms Encrypt”
+- [#323](https://github.com/OS2Forms/os2forms/issues/323): Opgradering til Drupal 10.6.x
 - Diverse bug-fixes (pt. unreleased i Develop-branchen)
    * Fjernpost virker ikke efter skifte fra PostNord til DAO
    * Update Digital Post handler error messages
