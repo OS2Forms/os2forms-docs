@@ -48,9 +48,10 @@ Læs mere om brugerstyringen her: [https://confluence.sdfi.dk/display/ADV/Bruger
 Da det nye API ikke fungerer på helt samme måde som det gamle, anbefales det, at alle, der benytter DAWA-elementer, gennemgår og tilpasser de formularer, hvor elementerne anvendes.
 
 **Det skal du gøre (som formularredaktør/selvbetjeningsdesigner):**
-    1. Gennemgå jeres formularer og tjek, om der er sat en kommunekode på DAWA-elementerne
-    2. Opdatér til 4-cifrede kommunekoder (hvis I bruger 3-cifrede kommunekoder, skal der tilføjes et foranstillet nul)
-    3. Brug kun én kommunekode. Det er nu kun muligt at angive én kommunekode pr. element. Hvis I i dag bruger flere kommunekoder, skal formularen tilpasses, så der kun anvendes én
+
+1. Gennemgå jeres formularer og tjek, om der er sat en kommunekode på DAWA-elementerne
+2. Opdatér til 4-cifrede kommunekoder (hvis I bruger 3-cifrede kommunekoder, skal der tilføjes et foranstillet nul)
+3. Brug kun én kommunekode. Det er nu kun muligt at angive én kommunekode pr. element. Hvis I i dag bruger flere kommunekoder, skal formularen tilpasses, så der kun anvendes én
 
 Link til API-dokumentationen: [https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998](https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998)
 
@@ -125,9 +126,10 @@ Read more about user management here: [https://confluence.sdfi.dk/display/ADV/Br
 Since the new API does not work in exactly the same way as the old one, it is recommended that everyone who uses DAWA elements review and adapt the forms where the elements are used.
 
 **This is what you need to do (as form editor):**
-    1. Review your forms and check if a municipality code has been set on the DAWA elements.
-    2. Update to 4-digit municipal codes (if you use 3-digit municipal codes, a leading zero must be added)
-    3. Use only one municipality code. It is now only possible to specify one municipality code per element. If you currently use multiple municipality codes, the form must be adapted so that only one is used.
+
+1. Review your forms and check if a municipality code has been set on the DAWA elements.
+2. Update to 4-digit municipal codes (if you use 3-digit municipal codes, a leading zero must be added)
+3. Use only one municipality code. It is now only possible to specify one municipality code per element. If you currently use multiple municipality codes, the form must be adapted so that only one is used.
 
 Link to the API documentation: [https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998](https://confluence.sdfi.dk/pages/viewpage.action?pageId=234782998)
 
