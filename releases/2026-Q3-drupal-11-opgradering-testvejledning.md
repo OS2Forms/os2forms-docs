@@ -29,7 +29,7 @@ Drupal der er motoren bag OS2forms er blevet opgraderet fra version 10 til versi
 1. **Oprettelse og rettelse af en simpel formular**<br>
    Opret en simpel formular, med nogle af de mest gængse elementer, som du ofte bruger. Sæt en handler på formularen og kontroller at handleren udfører den handling, som du har sat den til. Lav evt. nogle vilkår på nogle af elementerne, for at se at dette også virker som tidligere. Lav rettelser i formularen og kontroller at de rettelser slå igennem.
 
-2. **Afprøv en formualr med flow**<br>
+2. **Afprøv en formular med flow**<br>
    For at sikre at flow-delen virker som forventet, så bedes du afprøve en formular med flow. Du kan enten afprøve [denne simple formular](https://test.os2forms.dk/da/form/bellcom-vi-leger-tagfat-step-1) eller oprette din egen formular og opsætte flow på den.
 
 3. **Afprøv NemLog-in (MitID)**<br>
