@@ -1,11 +1,11 @@
 ---
-title: Drupal 11 - Oplæg
+title: Oplæg
 layout: default
-nav_order: -3
-parent: Releases
+nav_order: 1
+parent: Drupal 11 - 2026/Q3
 ---
 
-# Drupal 11 opgradering - oplæg til koordinationsgruppen
+# Drupal 11 opgradering - Oplæg til koordinationsgruppen
 
 Overblik over Drupal 11 opgradering til koordinationsgruppens videre arbejde.
 
