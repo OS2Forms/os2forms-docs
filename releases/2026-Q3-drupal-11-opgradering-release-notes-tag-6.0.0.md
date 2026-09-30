@@ -18,7 +18,7 @@ Fokus for denne release er at gøre OS2forms klar til Drupal 11 samt at opdatere
 
 **Uddybning af releasen:**
 
-### [#346](https://github.com/OS2Forms/os2forms/issues/346): Opdatering til Drupal 11
+### [#247](https://github.com/OS2Forms/os2forms/issues/247): Opdatering til Drupal 11
 
 OS2forms er blevet opdateret, så løsningen nu understøtter Drupal 11.
 
@@ -54,7 +54,7 @@ The focus of this release is to prepare OS2forms for Drupal 11 and to update a n
 
 **Release details:**
 
-### [#346](https://github.com/OS2Forms/os2forms/issues/346): Update to Drupal 11
+### [#247](https://github.com/OS2Forms/os2forms/issues/247): Update to Drupal 11
 
 OS2forms has been updated so that the solution now supports Drupal 11.
 
