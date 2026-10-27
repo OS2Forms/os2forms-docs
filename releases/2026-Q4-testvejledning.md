@@ -12,7 +12,7 @@ Denne testvejledning beskriver hvilke ændringer i OS2forms der er foretaget og 
 URL til testmiljø: [test.os2forms.dk](https://test.os2forms.dk/).
 Hvis du ikke har en bruger til at kunne logge ind med, så kontakt Bellcom på [support@bellcom.dk](mailto:support@bellcom.dk).
 
-Hvis du finder fejl på et af nedenstående ændringer, så skal du melde fejlen ind ved at lave en kommentar på det issue eller pull request, hvor du har fundet fejlen. På den måde kan alle nemlig se, hvad der er meldt ind - og vi har en historik i hvad der blev meldt ind. Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen - og dermed få den rettet.
+Hvis du finder fejl på et af nedenstående ændringer, så skal du melde fejlen ind ved at lave en kommentar på det issue, hvor du har fundet fejlen. På den måde kan alle nemlig se, hvad der er meldt ind - og vi har en historik i hvad der blev meldt ind. Husk at jo bedre du beskriver fejlen (hvad gjorde du umiddelbart før, er det kun ved specielle forhold at den fejler mv.), jo nemmere har vi ved at genskabe fejlen - og dermed få den rettet.
 
 Når du har gennemført testen, så beder vi om at skrive en kommentar på [dette issue](https://github.com/OS2Forms/os2forms/issues/344), så vi ved at du har testet.
 
@@ -22,7 +22,7 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#331](https://github.com/OS2Forms/os2forms/issues/331): Deprecated datafordeler endpoints used for matrikel lookup**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: Bellcom.
 
 - **[#342](https://github.com/OS2Forms/os2forms/issues/342): Fejl i OS2Forms Autocomplete elementet**
 
@@ -30,15 +30,15 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#334](https://github.com/OS2Forms/os2forms/issues/334): States on which handlers should run**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
 
 - **[#335](https://github.com/OS2Forms/os2forms/issues/335): "Display on" option for Map element**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
 
 - **[#329](https://github.com/OS2Forms/os2forms/issues/329): First, middle and last name nemid webform elements**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
 
 - **[#275](https://github.com/OS2Forms/os2forms/issues/275): Fra Jira: Filer fra indsendelser slettes ikke automatisk**
 
@@ -46,11 +46,11 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#348](https://github.com/OS2Forms/os2forms/issues/348): Move digital signature configuration to the handler**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
 
 - **[#269](https://github.com/OS2Forms/os2forms/issues/269): Fra Jira: Filopload som bilag til digital post**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
 
 - **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
@@ -58,15 +58,15 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#350](https://github.com/OS2Forms/os2forms/issues/350): SignSDK opdatering til NemLog-in signeringsløsning**
 
-   * Testvejledningen er endnu ikke klar!
+   * På [denne formular](https://test.os2forms.dk/da/form/bellcom-digital-signatur-test) kan du teste at du kan underskrive og indsende en formular. Husk at vælge "Test login"-fanen i NemLog-in og brug det brugernavn og adgangskode som står på formularen.
 
 - **[#352](https://github.com/OS2Forms/os2forms/issues/352): Maestro inherit task: inherited data is not available during form preparation**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
 
 - **[#286](https://github.com/OS2Forms/os2forms/issues/286): OS2forms SBSYS integration og MitID børne elementerne**
 
-   * Testvejledningen er endnu ikke klar!
+   * På [denne formular](https://test.os2forms.dk/da/form/bellcom-test-af-sbsys-mitid-boer) kan du teste at du nu også kan vælge mellem alle MitID Børne-elementer på "Attachment SBSYS xml" elementet.
 
 - **[#362](https://github.com/OS2Forms/os2forms/issues/362): Bug ved specifik adresse i DAWA Address-Matrikula (autocomplete) elementet**
 
@@ -74,7 +74,7 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#312](https://github.com/OS2Forms/os2forms/issues/312): Reporting misconfigured handlers**
 
-   * Testvejledningen er endnu ikke klar!
+   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
 
 - **[#370](https://github.com/OS2Forms/os2forms/issues/370): Scrollbar mangler i elementer**
 
