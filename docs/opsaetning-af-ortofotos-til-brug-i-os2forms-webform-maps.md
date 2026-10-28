@@ -46,6 +46,4 @@ Når opsætningen er gennemført, kan du vælge `orto_foto` under **Map Bundles*
 
 ## Vigtigt: Husk din token
 
-I URL'en under **URL Template** er token angivet som `XXXXX`. Denne værdi skal erstattes med din egen token.
-
-Du kan få oprettet en token via [Dataforsyningen.dk](https://dataforsyningen.dk/).
+I URL'en under **URL Template** er token angivet som `XXXXX`. Denne værdi skal erstattes med din egen token. Du kan få oprettet en token via [Dataforsyningen.dk](https://dataforsyningen.dk/).
