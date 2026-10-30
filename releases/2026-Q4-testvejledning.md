@@ -22,7 +22,7 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#331](https://github.com/OS2Forms/os2forms/issues/331): Deprecated datafordeler endpoints used for matrikel lookup**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: Bellcom.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: Bellcom.*
 
 - **[#342](https://github.com/OS2Forms/os2forms/issues/342): Fejl i OS2Forms Autocomplete elementet**
 
@@ -30,15 +30,15 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#334](https://github.com/OS2Forms/os2forms/issues/334): States on which handlers should run**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
 
 - **[#335](https://github.com/OS2Forms/os2forms/issues/335): "Display on" option for Map element**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
 
 - **[#329](https://github.com/OS2Forms/os2forms/issues/329): First, middle and last name nemid webform elements**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
 
 - **[#275](https://github.com/OS2Forms/os2forms/issues/275): Fra Jira: Filer fra indsendelser slettes ikke automatisk**
 
@@ -46,11 +46,11 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#348](https://github.com/OS2Forms/os2forms/issues/348): Move digital signature configuration to the handler**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
 
 - **[#269](https://github.com/OS2Forms/os2forms/issues/269): Fra Jira: Filopload som bilag til digital post**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
 
 - **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
@@ -62,7 +62,7 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#352](https://github.com/OS2Forms/os2forms/issues/352): Maestro inherit task: inherited data is not available during form preparation**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
 
 - **[#286](https://github.com/OS2Forms/os2forms/issues/286): OS2forms SBSYS integration og MitID børne elementerne**
 
@@ -74,11 +74,11 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#312](https://github.com/OS2Forms/os2forms/issues/312): Reporting misconfigured handlers**
 
-   * Testvejledningen er endnu ikke klar! Ansvarlig: ITK.
+   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
 
 - **[#370](https://github.com/OS2Forms/os2forms/issues/370): Scrollbar mangler i elementer**
 
-   * Denne er lidt svær at teste, da var tale om en periodisk fejl. Men når man klikkede på "Add element" inden på en formular, så kom scrollbaren ikke nødvendigvis altid frem. Se evt. [videoen fra Kristina](https://github.com/OS2Forms/os2forms/issues/370#issue-5811433826) for at se hvordan det så ud. Test at du kan få scrollbaren frem hver gang du trykker på "Add element".
+   * Denne er lidt svær at teste, da var tale om en periodisk fejl. Men når man klikkede på "Add element" inde på en formular, så kom scrollbaren ikke nødvendigvis altid frem. Se evt. [videoen fra Kristina](https://github.com/OS2Forms/os2forms/issues/370#issue-5811433826) for at se hvordan det så ud. Test at du kan få scrollbaren frem hver gang du trykker på "Add element".
 
 - **[#358](https://github.com/OS2Forms/os2forms/issues/358): Opdatér Core med oversættelser fra Drupal**
 

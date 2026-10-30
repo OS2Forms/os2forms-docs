@@ -51,7 +51,7 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 - **[#269](https://github.com/OS2Forms/os2forms/issues/269): Fra Jira: Filopload som bilag til digital post**
 
-   * Det er endnu ikke afgjort om denne skal med eller ej - Gitte vender retur vedr. denne opgave!
+   * Estimat: 42 timer til ITK (opdateret 30/10-2026).
 
 - **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
