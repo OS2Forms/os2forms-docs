@@ -22,7 +22,11 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#331](https://github.com/OS2Forms/os2forms/issues/331): Deprecated datafordeler endpoints used for matrikel lookup**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: Bellcom.*
+   * Du kan kontrollere, at ændringen er trådt igennem, ved at [åbne konfigurationssiden](https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-matrikula-lookup) og kontrollere, at der nu er indsat en API Key i stedet for Username og Password (se evt. nedenstående screenshot af hvordan det så ud før).
+
+![Deprecated datafordeler endpoints used for matrikel lookup](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/deprecated-datafordeler-endpoints-used-for-matrikel-lookup-old-settings.png)
+
+Du kan desuden afprøve, at det nye API fungerer som forventet, ved at benytte [denne formular](https://test.os2forms.dk/da/form/bellcom-dawa-address-matrikula) og teste at den henter den/de rigtige matrikel(er), når du har valgt en adresse.
 
 - **[#342](https://github.com/OS2Forms/os2forms/issues/342): Fejl i OS2Forms Autocomplete elementet**
 
