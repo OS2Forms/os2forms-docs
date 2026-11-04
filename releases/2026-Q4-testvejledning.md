@@ -22,10 +22,8 @@ Når du har gennemført testen, så beder vi om at skrive en kommentar på [dett
 
 - **[#331](https://github.com/OS2Forms/os2forms/issues/331): Deprecated datafordeler endpoints used for matrikel lookup**
 
-   * Du kan kontrollere, at ændringen er trådt igennem, ved at [åbne konfigurationssiden](https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-matrikula-lookup) og kontrollere, at der nu er indsat en API Key i stedet for Username og Password (se evt. nedenstående screenshot af hvordan det så ud før).
-
+   * Du kan kontrollere, at ændringen er trådt igennem, ved at [åbne konfigurationssiden](https://test.os2forms.dk/da/admin/config/system/os2web-datalookup/datafordeler-matrikula-lookup) og kontrollere, at der nu er indsat en API Key i stedet for Username og Password. Se nedenstående screenshot af hvordan det så ud før.
 ![Deprecated datafordeler endpoints used for matrikel lookup](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/deprecated-datafordeler-endpoints-used-for-matrikel-lookup-old-settings.png)
-
 Du kan desuden afprøve, at det nye API fungerer som forventet, ved at benytte [denne formular](https://test.os2forms.dk/da/form/bellcom-dawa-address-matrikula) og teste at den henter den/de rigtige matrikel(er), når du har valgt en adresse.
 
 - **[#342](https://github.com/OS2Forms/os2forms/issues/342): Fejl i OS2Forms Autocomplete elementet**
@@ -58,7 +56,8 @@ Du kan desuden afprøve, at det nye API fungerer som forventet, ved at benytte [
 
 - **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
-   * Kontroller at handleren "EXPERIMENTAL: Save to file" ikke længere er mulig at benytte.
+   * Kontroller at handleren "EXPERIMENTAL: Save to file" ikke længere er mulig at vælge. Se nedenstående screenshot af hvordan det så ud før.
+![SaveToFileWebformHandler](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/savetofilewebformhandler.png)
 
 - **[#350](https://github.com/OS2Forms/os2forms/issues/350): SignSDK opdatering til NemLog-in signeringsløsning**
 
@@ -70,7 +69,8 @@ Du kan desuden afprøve, at det nye API fungerer som forventet, ved at benytte [
 
 - **[#286](https://github.com/OS2Forms/os2forms/issues/286): OS2forms SBSYS integration og MitID børne elementerne**
 
-   * På [denne formular](https://test.os2forms.dk/da/form/bellcom-test-af-sbsys-mitid-boer) kan du teste at du nu også kan vælge mellem alle MitID Børne-elementer på "Attachment SBSYS xml" elementet.
+   * På [denne formular](https://test.os2forms.dk/da/form/bellcom-test-af-sbsys-mitid-boer) kan du teste at du nu også kan vælge mellem alle MitID Børne-elementer på "Attachment SBSYS xml" elementet. Se 
+![OS2forms SBSYS integration og MitID børne elementerne](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/os2forms-sbsys-integration-og-mitid-boerne-elementerne.png)
 
 - **[#362](https://github.com/OS2Forms/os2forms/issues/362): Bug ved specifik adresse i DAWA Address-Matrikula (autocomplete) elementet**
 
