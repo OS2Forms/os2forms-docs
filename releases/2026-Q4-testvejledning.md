@@ -32,7 +32,7 @@ Du kan desuden afprøve, at det nye API fungerer som forventet, ved at benytte [
 
 - **[#334](https://github.com/OS2Forms/os2forms/issues/334): States on which handlers should run**
 
-   *  **Beskrivelse:** I vejledning/dokumentation på Digital Signatur fra Bellcom står der, at hvis formularen benytter en email-handler, så skal den konfigureres til kun at eksekvere på "locked submissions".<br>
+   *  I vejledning/dokumentation på Digital Signatur fra Bellcom står der, at hvis formularen benytter en email-handler, så skal den konfigureres til kun at eksekvere på "locked submissions".<br>
 <br>
 Efter nærmere analyse og test viser det sig, at **Digital Signatur kræver at alle andre handlers også konfigureres til at eksekvere på "locked submissions"**. Ellers vil der opstå en situation, hvor handlers eksekveres to gange: 1) Når man går til signering 2) efter signering. Det betyder også at der i sidste ende vil være to pdf'er (én uden signatur og én med signatur) pr. besvarelse.<br>
 Følgende handlers kunne før rettelsen ikke konfigureres til at eksekvere på "locked submissions":<br>
@@ -42,7 +42,6 @@ Følgende handlers kunne før rettelsen ikke konfigureres til at eksekvere på "
       - Fasit (os2forms_fasit)
       - FBS (os2forms_fbs)
       - GetOrganized (os2forms_get_organized)
-<br>
 **Løsning**<br>
 Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskellige indsendelsestilstande er blevet ensartet, så de følger samme model, kan eksekvere på flg. states:<br>
 …when draft is created.<br>
@@ -63,14 +62,29 @@ OBS! Som standard vil alle de nævnte handler ære konfigurerede til at eksekver
 
    *  I kortmodulet kan man konfigurere hvilke knapper (tegneværktøjer, zoomfunktion mv.) brugeren skal kunne anvende på kortet. Denne funktion gik i stykker efter Drupal 10 opgraderingen. Rettelsen består i at få de vigtigste værktøjer til at virke igen.<br>
 <br>
-**Test:** Test at følgende knapper kan vises for slutbrugerne, såfremt de er slået til (klik på "Adds button to xx")<br>
+**Test:**<br>
+Test at følgende knapper kan vises for slutbrugerne, såfremt de er slået til (klik på "Adds button to xx")<br>
       - zoom værktøj
       - polygon
       - markør
 
 - **[#329](https://github.com/OS2Forms/os2forms/issues/329): First, middle and last name nemid webform elements**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
+   * I forbindelse med integration til KPI via Fordelingskomponenten, har det vist sig nødvendigt at indføre følgende nye NemID (MitID) felter i OS2forms:
+
+      - os2forms_nemid_first_name
+      - os2forms_nemid_middle_name
+      - os2forms_nemid_last_name
+**Test:**<br>
+Testen går ud på at sikre, at de tilføjede elementer viser de forventede værdier:<br>
+      - Konfigurér os2web_datalookup, så den altid bruger et kendt test-CPR-nummer (er allerede gjort på test.os2forms.dk)
+      - Opret en ny webform
+      - Tilføj de nye elementer til webformen og eventuelt os2forms_nemid_name
+      - Konfigurér webformen, så den viser værdier hentet fra CPR-opslaget
+      - Kontrollér, at værdierne vises som forventet
+Nedenfor ses de nyligt tilføjede elementer for fornavn, mellemnavn og efternavn efterfulgt af det oprindelige navneelement:<br>
+![First, middle and last name nemid webform elements](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/first,-middle-and-last-name-nemid-webform-elements.png)
+OBS Det visuelle udtryk afhænger af temaet. Skærmbilledet ovenfor er taget fra Aarhus-installationen.
 
 - **[#275](https://github.com/OS2Forms/os2forms/issues/275): Fra Jira: Filer fra indsendelser slettes ikke automatisk**
 
@@ -78,7 +92,13 @@ OBS! Som standard vil alle de nævnte handler ære konfigurerede til at eksekver
 
 - **[#348](https://github.com/OS2Forms/os2forms/issues/348): Move digital signature configuration to the handler**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
+   * Digtial Signatur. Det attachment der sendes til validering var før rettelsen afhængigt af, at have slået ”Digital Signature” til, i indstillinger. Ellers fejlede den, når der er links i kolofonen (og måske også i resten af dokumentet). Handleren valgte det ”øverste” attachment, og sendte det til signatur, uafhængigt af om den ovennævnte indstilling er slået til. Det skabte nogle problemer ift. validering af dokumentet, selvom man har sat indstillingerne korrekt på den attachment, man gerne ville bruge.<br>
+<br>
+Rettelsen går ud på at man i handlerens indstillinger, vælger hvilken attachment den skal benytte (lidt á la når man vælger hvilket element der indeholder CPR nummeret til Digital Post) samt at man også sætter de øvrige Digital Signatur indstillinger på handleren (fremfor at det ligger på elementet) så man har opsætningen samlet ét sted, nemlig.<br>
+<br>
+**Test:**
+Test at du i Digital Signatur handlerens indstillinger kan vælge hvilken attachment den skal benytte:
+![Move digital signature configuration to the handler](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/move-digital-signature-configuration-to-the-handler.png)
 
 - **[#269](https://github.com/OS2Forms/os2forms/issues/269): Fra Jira: Filopload som bilag til digital post**
 
