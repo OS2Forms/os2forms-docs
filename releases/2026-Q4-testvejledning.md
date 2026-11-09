@@ -32,7 +32,33 @@ Du kan desuden afprøve, at det nye API fungerer som forventet, ved at benytte [
 
 - **[#334](https://github.com/OS2Forms/os2forms/issues/334): States on which handlers should run**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
+   *  *Beskrivelse:* I vejledning/dokumentation på Digital Signatur fra Bellcom står der, at hvis formularen benytter en email-handler, så skal den konfigureres til kun at eksekvere på "locked submissions".
+
+Efter nærmere analyse og test viser det sig, at *Digital Signatur kræver at alle andre handlers også konfigureres til at eksekvere på "locked submissions"*. Ellers vil der opstå en situation, hvor handlers eksekveres to gange: 1) Når man går til signering 2) efter signering. Det betyder også at der i sidste ende vil være to pdf'er (én uden signatur og én med signatur) pr. besvarelse.
+Følgende handlers kunne før rettelsen ikke konfigureres til at eksekvere på "locked submissions":
+
+- API request handler (os2forms_api_request_handler)
+- Digital post (sf1601) (digital_post_sf1601)
+- Fasit (os2forms_fasit)
+- FBS (os2forms_fbs)
+- GetOrganized (os2forms_get_organized)
+
+*Løsning*
+Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskellige indsendelsestilstande er blevet ensartet, så de følger samme model, kan eksekvere på flg. states:
+…when draft is created.
+…when draft is updated.
+…when anonymous submission is converted to authenticated.
+…when submission is completed.
+…when submission is updated.
+…when submission is deleted.
+…when submission is locked.
+OBS! Som standard vil alle de nævnte handler ære konfigurerede til at eksekvere på "submission is completed".
+
+*Test:*
+
+1. Opret formular med en given handler
+2. Rediger handleren til at eksekvere på andre end tilstande end "…when submission is completed" under "Avanceret"
+3: Tjek at handler eksekveres som konfigureret
 
 - **[#335](https://github.com/OS2Forms/os2forms/issues/335): "Display on" option for Map element**
 
