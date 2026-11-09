@@ -120,7 +120,10 @@ Test at du i Digital Signatur handlerens indstillinger kan vælge hvilken attach
 
 - **[#352](https://github.com/OS2Forms/os2forms/issues/352): Maestro inherit task: inherited data is not available during form preparation**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
+   *  MaestroInheritTask sørger for at resultater fra en tidligere indsendelse kommer ind på næste opgave — såfremt de har samme nøgle. Dette har ikke virket korrekt på fil-elementer. På andre elementer har det virket ok.<br>
+<br>
+**Test:**<br>
+Opret et flow med MaestroInheritTask, og kontroller, at filer videreføres.
 
 - **[#286](https://github.com/OS2Forms/os2forms/issues/286): OS2forms SBSYS integration og MitID børne elementerne**
 
