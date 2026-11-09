@@ -37,11 +37,11 @@ Du kan desuden afprøve, at det nye API fungerer som forventet, ved at benytte [
 Efter nærmere analyse og test viser det sig, at **Digital Signatur kræver at alle andre handlers også konfigureres til at eksekvere på "locked submissions"**. Ellers vil der opstå en situation, hvor handlers eksekveres to gange: 1) Når man går til signering 2) efter signering. Det betyder også at der i sidste ende vil være to pdf'er (én uden signatur og én med signatur) pr. besvarelse.<br>
 Følgende handlers kunne før rettelsen ikke konfigureres til at eksekvere på "locked submissions":<br>
 <br>
-- API request handler (os2forms_api_request_handler)<br>
-- Digital post (sf1601) (digital_post_sf1601)<br>
-- Fasit (os2forms_fasit)<br>
-- FBS (os2forms_fbs)<br>
-- GetOrganized (os2forms_get_organized)<br>
+      - API request handler (os2forms_api_request_handler)
+      - Digital post (sf1601) (digital_post_sf1601)
+      - Fasit (os2forms_fasit)
+      - FBS (os2forms_fbs)
+      - GetOrganized (os2forms_get_organized)
 <br>
 **Løsning**<br>
 Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskellige indsendelsestilstande er blevet ensartet, så de følger samme model, kan eksekvere på flg. states:<br>
@@ -55,13 +55,18 @@ Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskelli
 OBS! Som standard vil alle de nævnte handler ære konfigurerede til at eksekvere på "submission is completed".<br>
 <br>
 **Test:**<br>
-1. Opret formular med en given handler<br>
-2. Rediger handleren til at eksekvere på andre end tilstande end "…when submission is completed" under "Avanceret"<br>
-3. Tjek at handler eksekveres som konfigureret
+      1. Opret formular med en given handler
+      2. Rediger handleren til at eksekvere på andre end tilstande end "…when submission is completed" under "Avanceret"
+      3. Tjek at handler eksekveres som konfigureret
 
 - **[#335](https://github.com/OS2Forms/os2forms/issues/335): "Display on" option for Map element**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
+   *  I kortmodulet kan man konfigurere hvilke knapper (tegneværktøjer, zoomfunktion mv.) brugeren skal kunne anvende på kortet. Denne funktion gik i stykker efter Drupal 10 opgraderingen. Rettelsen består i at få de vigtigste værktøjer til at virke igen.<br>
+<br>
+**Test:** Test at følgende knapper kan vises for slutbrugerne, såfremt de er slået til (klik på "Adds button to xx")<br>
+      - zoom værktøj
+      - polygon
+      - markør
 
 - **[#329](https://github.com/OS2Forms/os2forms/issues/329): First, middle and last name nemid webform elements**
 
