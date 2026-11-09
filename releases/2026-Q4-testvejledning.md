@@ -107,7 +107,27 @@ Test at du i Digital Signatur handlerens indstillinger kan vælge hvilken attach
 
 - **[#269](https://github.com/OS2Forms/os2forms/issues/269): Fra Jira: Filopload som bilag til digital post**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
+   *  **Til driftsleverandøren:**<br>
+Forudsætning: Statusopslaget bruger Serviceplatformens service [PostForespørg](https://digitaliseringskataloget.dk/integration/sf1601), som ikke er dækket af serviceaftalen for afsendelse af digital post. Derfor skal den enkelte kommune og deres driftsleverandør sikre, at deres aftale i “Fælleskommunalt Administrationsmodul” også omfatter PostForespørg. Uden den fejler opslaget, og hver indsendelse logger en advarsel, mens digital post stadig bliver sendt.<br>
+<br>
+**Til selvbetjeningsdesignere / formularbyggere:**<br>
+Der er tilføjet en ny sektion på Digital Post handleren, hvor man kan krydse af hvilke elementers filer, der skal vedhæftes. Hvis ingenting er krydset af, tilføjes ingen bilag. Under genereringen af den digitale post tjekker systemet på, at der kun sendes de tilladte filtyper: [https://www.digitaliser.dk/digital-post/vejledninger/tilladte-filtyper-og-navne](https://www.digitaliser.dk/digital-post/vejledninger/tilladte-filtyper-og-navne)<br>
+Vær opmærksom på at tjek på, at der ikke vedhæftes en større mængde filer end tilladt, skal sættes op på formularen. Maksimal samlet størrelse: 76MB<br>
+<br>
+Ift. fysisk post (fjernpost): Uploadede filer sendes IKKE til borgere, der er fritaget for digital post, pga. de begrænsninger der ligger i fjernpost. Derfor er der indført et ekstra opslag i OS2forms på, om modtageren er fritaget for digital post eller ej. Og der tilføjes en note på indsendelsens log om, hvorvidt modtageren modtager digital post eller er undtaget. Dermed vil man fra forretningens side kunne gå ind og se, om bilag har kunnet tilsendes eller ej.<br>
+<br>
+**Test:**
+      A. Borger, der modtager digital post
+         1. Opret en formular med digital post handler
+         2. Kryds de elementer af, hvis filer skal vedhæftes, i den nye sektion på digital post handleren
+         3. På formularen: sæt et tjek på, at der ikke vedhæftes en større mængde filer end tilladt
+         4. Udfyld formularen med en testbruger, der modtager digital post.
+         5. Kontroller at vedhæftede filer sendes med digital post.
+         6. Kontroller noten på indsendelsens log, hvor det skal fremgå, at modtageren modtager digital post
+      B. Borger, der er fritaget for digital post
+         - Ovenstående test gentages, men denne gang udfyldes formularen af en borger, der er fritaget for digital post
+         - Kontroller noten på indsendelsens log, hvor det skal fremgå, at modtageren undtaget (og derfor ikke vil få tilsendt bilag)
+      C. Kontrollér at der *ikke* sendes bilag til en borger, der kan modtage digital post, hvis der *ikke* er sat nogle krydser ud for hvilke elementers filer, der skal vedhæftes.
 
 - **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
@@ -120,7 +140,7 @@ Test at du i Digital Signatur handlerens indstillinger kan vælge hvilken attach
 
 - **[#352](https://github.com/OS2Forms/os2forms/issues/352): Maestro inherit task: inherited data is not available during form preparation**
 
-   *  MaestroInheritTask sørger for at resultater fra en tidligere indsendelse kommer ind på næste opgave — såfremt de har samme nøgle. Dette har ikke virket korrekt på fil-elementer. På andre elementer har det virket ok.<br>
+   *  MaestroInheritTask sørger for at resultater fra en tidligere indsendelse kommer ind på næste opgave - såfremt de har samme nøgle. Dette har ikke virket korrekt på fil-elementer. På andre elementer har det virket ok.<br>
 <br>
 **Test:**<br>
 Opret et flow med MaestroInheritTask, og kontroller, at filer videreføres.
@@ -136,7 +156,21 @@ Opret et flow med MaestroInheritTask, og kontroller, at filer videreføres.
 
 - **[#312](https://github.com/OS2Forms/os2forms/issues/312): Reporting misconfigured handlers**
 
-   * *Testvejledningen er endnu ikke klar! Ansvarlig: ITK.*
+   *  Med udgangspunkt i Digital post:<br>
+
+   1. Opret en webform med:
+      a. et element, der indeholder modtagerens CPR-nummer, f.eks. et tekstfelt med nøglen "recipient", og
+      b. et vedhæftningselement, f.eks. **OS2Forms attachment**, med nøglen "attachment".
+   2. Tilføj en **Digital Post**-handler under **Email/Handlers**. Vælg "recipient" som '*Element that contains the identifier (CPR or CVR) of the recipient*' og "attachment" som '*Element that contains the document to send*'. Udfyld de påkrævede etiketter og gem.
+   3. Genindlæs **Build/Byg** og **Email/Handlers**. Forventet: Ingen advarsler.
+   4. **Ødelæg konfigurationen**: Rediger elementet "recipient" under **Build/Byg** (Kilde) og ændr dets nøgle til "cpr_number". Gem.
+   5. Genindlæs **Build/Byg** og **Email/Handlers**. Forventet: En advarsel på begge sider i stil med: "The handler Digital Post (digital_post) is misconfigured: The submitted value "*recipient*" in the '*Element that contains the identifier (CPR or CVR) of the recipient*' element is not allowed."
+   6. Åbn Digital Post-handleren til redigering. Forventet: Modtager-feltet viser "**- Vælg -**" i stedet for at vise et andet element som valgt.
+   7. Slet elementet "attachment". Forventet: Endnu en advarsel, denne gang for '*Element that contains the document to send*'.
+   8. Rediger handleren, vælg "cpr_number" som modtager-element, tilføj et nyt vedhæftningselement og vælg det, gem.
+   9. Genindlæs **Build/Byg** og **Handlers**. Forventet: Ingen advarsler.
+
+   Samme fejl/notifikationer vil kunne testes på andre handlers så længe det er noget kræves på handleren. F.eks. e-mail sendt til værdien af et element eller "CPR element" på Fasit handleren.
 
 - **[#370](https://github.com/OS2Forms/os2forms/issues/370): Scrollbar mangler i elementer**
 
