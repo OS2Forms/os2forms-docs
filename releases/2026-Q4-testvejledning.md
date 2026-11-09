@@ -87,7 +87,7 @@ Testen går ud på at sikre, at de tilføjede elementer viser de forventede vær
       - Konfigurér webformen, så den viser værdier hentet fra CPR-opslaget
       - Kontrollér, at værdierne vises som forventet
 
-   Nedenfor ses de nyligt tilføjede elementer for fornavn, mellemnavn og efternavn efterfulgt af det oprindelige navneelement:<br>
+      Nedenfor ses de nyligt tilføjede elementer for fornavn, mellemnavn og efternavn efterfulgt af det oprindelige navneelement:<br>
 ![First, middle and last name nemid webform elements](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/first,-middle-and-last-name-nemid-webform-elements.png)
 OBS Det visuelle udtryk afhænger af temaet. Skærmbilledet ovenfor er taget fra Aarhus-installationen.
 
