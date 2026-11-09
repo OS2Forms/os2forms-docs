@@ -43,7 +43,7 @@ Følgende handlers kunne før rettelsen ikke konfigureres til at eksekvere på "
       - FBS (os2forms_fbs)
       - GetOrganized (os2forms_get_organized)
 
-   **Løsning**<br>
+      **Løsning**<br>
 Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskellige indsendelsestilstande er blevet ensartet, så de følger samme model, kan eksekvere på flg. states:<br>
 …when draft is created.<br>
 …when draft is updated.<br>
@@ -54,11 +54,11 @@ Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskelli
 …when submission is locked.<br>
 OBS! Som standard vil alle de nævnte handler ære konfigurerede til at eksekvere på "submission is completed".<br>
 <br>
-**Test:**<br>
+**Test:**
 
       1. Opret formular med en given handler
-      2. Rediger handleren til at eksekvere på andre end tilstande end "…when submission is completed" under "Avanceret"
-      3. Tjek at handler eksekveres som konfigureret
+      1. Rediger handleren til at eksekvere på andre end tilstande end "…when submission is completed" under "Avanceret"
+      1. Tjek at handler eksekveres som konfigureret
 
 - **[#335](https://github.com/OS2Forms/os2forms/issues/335): "Display on" option for Map element**
 
@@ -78,8 +78,9 @@ Test at følgende knapper kan vises for slutbrugerne, såfremt de er slået til 
       - os2forms_nemid_middle_name
       - os2forms_nemid_last_name
 
-   **Test:**<br>
+      **Test:**<br>
 Testen går ud på at sikre, at de tilføjede elementer viser de forventede værdier:<br>
+
       - Konfigurér os2web_datalookup, så den altid bruger et kendt test-CPR-nummer (er allerede gjort på test.os2forms.dk)
       - Opret en ny webform
       - Tilføj de nye elementer til webformen og eventuelt os2forms_nemid_name
