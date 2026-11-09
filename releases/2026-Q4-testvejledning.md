@@ -42,7 +42,8 @@ Følgende handlers kunne før rettelsen ikke konfigureres til at eksekvere på "
       - Fasit (os2forms_fasit)
       - FBS (os2forms_fbs)
       - GetOrganized (os2forms_get_organized)
-**Løsning**<br>
+
+   **Løsning**<br>
 Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskellige indsendelsestilstande er blevet ensartet, så de følger samme model, kan eksekvere på flg. states:<br>
 …when draft is created.<br>
 …when draft is updated.<br>
@@ -54,6 +55,7 @@ Alle ovenstående handlers er blevet gennemgået og konfigurationen af forskelli
 OBS! Som standard vil alle de nævnte handler ære konfigurerede til at eksekvere på "submission is completed".<br>
 <br>
 **Test:**<br>
+
       1. Opret formular med en given handler
       2. Rediger handleren til at eksekvere på andre end tilstande end "…when submission is completed" under "Avanceret"
       3. Tjek at handler eksekveres som konfigureret
@@ -75,14 +77,16 @@ Test at følgende knapper kan vises for slutbrugerne, såfremt de er slået til 
       - os2forms_nemid_first_name
       - os2forms_nemid_middle_name
       - os2forms_nemid_last_name
-**Test:**<br>
+
+   **Test:**<br>
 Testen går ud på at sikre, at de tilføjede elementer viser de forventede værdier:<br>
       - Konfigurér os2web_datalookup, så den altid bruger et kendt test-CPR-nummer (er allerede gjort på test.os2forms.dk)
       - Opret en ny webform
       - Tilføj de nye elementer til webformen og eventuelt os2forms_nemid_name
       - Konfigurér webformen, så den viser værdier hentet fra CPR-opslaget
       - Kontrollér, at værdierne vises som forventet
-Nedenfor ses de nyligt tilføjede elementer for fornavn, mellemnavn og efternavn efterfulgt af det oprindelige navneelement:<br>
+
+   Nedenfor ses de nyligt tilføjede elementer for fornavn, mellemnavn og efternavn efterfulgt af det oprindelige navneelement:<br>
 ![First, middle and last name nemid webform elements](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/first,-middle-and-last-name-nemid-webform-elements.png)
 OBS Det visuelle udtryk afhænger af temaet. Skærmbilledet ovenfor er taget fra Aarhus-installationen.
 
@@ -96,8 +100,8 @@ OBS Det visuelle udtryk afhænger af temaet. Skærmbilledet ovenfor er taget fra
 <br>
 Rettelsen går ud på at man i handlerens indstillinger, vælger hvilken attachment den skal benytte (lidt á la når man vælger hvilket element der indeholder CPR nummeret til Digital Post) samt at man også sætter de øvrige Digital Signatur indstillinger på handleren (fremfor at det ligger på elementet) så man har opsætningen samlet ét sted, nemlig.<br>
 <br>
-**Test:**
-Test at du i Digital Signatur handlerens indstillinger kan vælge hvilken attachment den skal benytte:
+**Test:**<br>
+Test at du i Digital Signatur handlerens indstillinger kan vælge hvilken attachment den skal benytte:<br>
 ![Move digital signature configuration to the handler](https://raw.githubusercontent.com/OS2Forms/os2forms-docs/main/docs/assets/move-digital-signature-configuration-to-the-handler.png)
 
 - **[#269](https://github.com/OS2Forms/os2forms/issues/269): Fra Jira: Filopload som bilag til digital post**
