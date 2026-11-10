@@ -118,7 +118,8 @@ Ift. fysisk post (fjernpost): Uploadede filer sendes IKKE til borgere, der er fr
 <br>
 **Test:**<br>
 
-      A. Borger, der modtager digital post
+      a. Borger, der modtager digital post
+
          1. Opret en formular med digital post handler
          2. Kryds de elementer af, hvis filer skal vedhæftes, i den nye sektion på digital post handleren
          3. På formularen: sæt et tjek på, at der ikke vedhæftes en større mængde filer end tilladt
@@ -126,11 +127,12 @@ Ift. fysisk post (fjernpost): Uploadede filer sendes IKKE til borgere, der er fr
          5. Kontroller at vedhæftede filer sendes med digital post.
          6. Kontroller noten på indsendelsens log, hvor det skal fremgå, at modtageren modtager digital post
 
-      B. Borger, der er fritaget for digital post
+      b. Borger, der er fritaget for digital post
+
          - Ovenstående test gentages, men denne gang udfyldes formularen af en borger, der er fritaget for digital post
          - Kontroller noten på indsendelsens log, hvor det skal fremgå, at modtageren undtaget (og derfor ikke vil få tilsendt bilag)
 
-      C. Kontrollér at der *ikke* sendes bilag til en borger, der kan modtage digital post, hvis der *ikke* er sat nogle krydser ud for hvilke elementers filer, der skal vedhæftes.
+      c. Kontrollér at der *ikke* sendes bilag til en borger, der kan modtage digital post, hvis der *ikke* er sat nogle krydser ud for hvilke elementers filer, der skal vedhæftes.
 
 - **[#321](https://github.com/OS2Forms/os2forms/issues/321): SaveToFileWebformHandler**
 
@@ -163,7 +165,7 @@ Opret et flow med MaestroInheritTask, og kontroller, at filer videreføres.
 
       1. Opret en webform med:
 
-         a. et element, der indeholder modtagerens CPR-nummer, f.eks. et tekstfelt med nøglen "recipient", og
+         a. et element, der indeholder modtagerens CPR-nummer, f.eks. et tekstfelt med nøglen "recipient", og<br>
          b. et vedhæftningselement, f.eks. **OS2Forms attachment**, med nøglen "attachment".
 
       2. Tilføj en **Digital Post**-handler under **Email/Handlers**. Vælg "recipient" som '*Element that contains the identifier (CPR or CVR) of the recipient*' og "attachment" som '*Element that contains the document to send*'. Udfyld de påkrævede etiketter og gem.
