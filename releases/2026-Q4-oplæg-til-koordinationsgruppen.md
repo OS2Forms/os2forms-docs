@@ -13,8 +13,8 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 
 - Uge 40-43: Releasen er klart defineret, dokumenteret og estimeret (Bellcom og Koordinationsgruppen)
 - Uge 43 (ultimo): Koordinationsgruppen godkender omfanget af releasen (Koordinationsgruppen)
-- Uge 46: Koordinationsgruppen tester releasen på test.os2forms.dk (Koordinationsgruppen)
-- Uge 47: Bellcom retter evt. indsendte fejl og Koordinationsgruppen accepterer efterfølgende releasen (Bellcom og Koordinationsgruppen)
+- Uge 46-47: Koordinationsgruppen tester releasen på test.os2forms.dk (Koordinationsgruppen) - *opdateret den 11/11*
+- Uge 47-48: Bellcom retter evt. indsendte fejl og Koordinationsgruppen accepterer efterfølgende releasen (Bellcom og Koordinationsgruppen) - *opdateret den 11/11*
 - Uge 48: Releasen bliver merget til master-branch (Bellcom)
 
 ---
