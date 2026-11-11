@@ -189,4 +189,4 @@ Opret et flow med MaestroInheritTask, og kontroller, at filer videreføres.
 
 - **[#390](https://github.com/OS2Forms/os2forms/issues/390): Vis/skjul forhåndsvisning virker ikke**
 
-   * Test af når du vil indsætte et element på en formular, så kan du klikke på "Vis forhåndsvisning" eller "Skjul forhåndsvisning" og så skal den gerne skifte mellem at vise eller skjule forhåndsvisningen.
+   * Test at når du vil indsætte et element på en formular, så kan du klikke på "Vis forhåndsvisning"/"Skjul forhåndsvisning" og så skal den gerne skifte mellem at vise eller skjule forhåndsvisningen.
