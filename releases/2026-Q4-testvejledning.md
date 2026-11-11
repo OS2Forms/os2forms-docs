@@ -186,3 +186,7 @@ Opret et flow med MaestroInheritTask, og kontroller, at filer videreføres.
 - **[#358](https://github.com/OS2Forms/os2forms/issues/358): Opdatér Core med oversættelser fra Drupal**
 
    * Test at du kan tilgå [denne side](https://test.os2forms.dk/da/admin/config/regional/translate/settings). Hvis du kan, så er fixet implementeret.
+
+- **[#390](https://github.com/OS2Forms/os2forms/issues/390): Vis/skjul forhåndsvisning virker ikke**
+
+   * Test af når du vil indsætte et element på en formular, så kan du klikke på "Vis forhåndsvisning" eller "Skjul forhåndsvisning" og så skal den gerne skifte mellem at vise eller skjule forhåndsvisningen.

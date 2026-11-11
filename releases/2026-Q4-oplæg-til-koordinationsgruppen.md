@@ -84,3 +84,7 @@ Overblik over forårsrelease til koordinationsgruppens videre arbejde.
 - **[#358](https://github.com/OS2Forms/os2forms/issues/358): Opdatér Core med oversættelser fra Drupal**
 
    * Estimat: U/B fra Bellcom. ITK har lavet og godkendt review.
+
+- **[#390](https://github.com/OS2Forms/os2forms/issues/390): Vis/skjul forhåndsvisning virker ikke** *- tilføjet den 11/11-2026*
+
+   * Estimat: U/B fra Bellcom. ITK har lavet og godkendt review.
