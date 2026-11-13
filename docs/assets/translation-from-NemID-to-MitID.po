@@ -254,3 +254,21 @@ msgstr "Logind med NemLog-in"
 
 msgid "Nemlogin link logout text"
 msgstr "Logud fra NemLog-in"
+
+msgid "NemID Last name"
+msgstr "MitID Efternavn"
+
+msgid "NemID Middle name"
+msgstr "MitID Mellemnavn"
+
+msgid "NemID First name"
+msgstr "MitID Fornavn"
+
+msgid "Provides a NemID First name element."
+msgstr "Returnerer MitID Fornavn."
+
+msgid "Provides a NemID Last name element."
+msgstr "Returnerer MitID Efternavn."
+
+msgid "Provides a NemID Middle name element."
+msgstr "Returnerer MitID Mellemnavn."
